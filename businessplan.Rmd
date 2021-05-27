@@ -1,0 +1,1031 @@
+---
+title: "ELHQ & Co Solicitors"
+output: 
+  rmdformats::readthedown:
+    thumbnails: true
+    lightbox: true
+    gallery: false
+    highlight: tango
+    includes:
+      in_header: meta.html
+---
+
+# Executive Summary
+
+This business plan introduces ELHQ Solicitors and sets out ELHQ Solicitors purpose, vision and means of operation.
+
+[Firm] will have its registered office at 1 Percy Place, Dublin 2, Dublin and will open and operate from 1 January 2022.
+The founding partners are Eddie Hynes, Conor Quane, Kieran Lardner, and Samuel Elliott (each a **"Partner"** and together the **"Partners"**).
+
+We aim to establish ELHQ Solicitors as a dynamic, innovative law firm which will target companies and other commercial bodies (eg, accountancy firms, professional services firms, and funds) operating in and through Ireland.
+ELHQ Solicitors will provide comprehensive legal advice for its clients.
+
+ELHQ Solicitors' office will be located in Dublin 2, given the convenience to the firm's primary clients in the corporate sector.
+The office is equipped to support flexible working with shared spaces and facilitates "hot-desking", and contains all necessary amenities including a connection to high-speed broadband..
+
+Given the shift in the Irish workforce to a flexible, work from home model of employment, ELHQ Solicitors' business will be fully flexible and all employees will be encouraged to work remotely.
+ELHQ Solicitors plans to employ a team of legal professional assistants, trained in secretarial skills, and a bookkeeper.
+
+ELHQ Solicitors' core values are **Innovation, Partnership, Entrepreneurship, Respect and Diversity.**
+
+The Partners considered the alternative LLP structure but decided that a traditional partnership was the best option for ELHQ Solicitors at this time.
+Eddie Hynes will serve as managing partner.
+Together the Partners have considerable experience with commercial law.
+
+ELHQ Solicitors will be funded by capital contribution as well as a loan procured from a bank providing a favourable rate.
+Given ELHQ Solicitors' target clientele, it will provide competitive fees facilitated by the use of various innovative legal tools, including modern software platforms and legal AI.
+
+The Partners have decided [to / not to] purchase [files].
+The majority of the files fall outside the scope of practice of [Firm] and contain a number of ethical and professional conduct issues.
+
+<b>[category1]{style="color:#e41a1c;"} , [category2]{style="color:#377eb8;"} , [category3]{style="color:#4daf4a;"} & [category4]{style="color:#e7298a;"}</b>
+
+## About
+
+Please see our [Website](ronan&co.com) for more info
+
+Please look at this **bold** text
+
+```{r, eval = FALSE, include = F, warning = F}
+
+
+```
+
+```{r, include = F, warning = F}
+library(metathis)
+meta() %>%
+  meta_social(
+    title = "R for Data Science",
+    description = "This book with teach you how to do data science with R",
+    url = "https://r4ds.had.co.nz",
+    image = "https://r4ds.had.co.nz/cover.png",
+    image_alt = "The cover of the R4DS book",
+    og_type = "book",
+    og_author = c("Garrett Grolemund", "Hadley Wickham"),
+    twitter_card_type = "summary",
+    twitter_creator = "@hadley"
+  ) %>% 
+  write_meta("meta.html")
+```
+
+```{r, include = F, warning = F}
+
+
+```
+
+# Overview of the Firm {.tabset}
+
+## Mission Statement
+
+> At ELHQ Solicitors, we aim to provide the highest standard of legal advice and legal services to our clients, reflective of their commercial situation and their specific needs, in a timely manner and at a competitive rate that is fair to both our clients and our firm.
+> We aim to provide an integrated service that closely aligns with our clients' values and their unique needs.
+
+> We fulfil our mission through implementing our core values to provide a high level of service for commercial companies and service providers in Ireland.
+
+## Core Values
+
+**Innovation**
+
+Through our use of new, dynamic legal practices and technology, we seek better ways to work and create value for our client base.
+
+**Partnership**
+
+We are a partnership, both with our clients and within our firm.
+We place an emphasis the value of teamwork and collaboration in all of our dealings with clients.
+
+**Entrepreneurship**
+
+We aim to be a dynamic, flexible firm at the forefront of legal practice in Ireland.
+
+**Respect**
+
+Respect for our clients and respect for each other is at the core of how we operate as a firm.
+We aim to treat each other with respect, and to ensure that our firm is a welcoming place for all.
+
+**Diversity**
+
+We believe our strongest asset is our diversity: diversity of experience, diversity of background, and diversity of class, economic status, race, and gender.
+
+## Firm Description
+
+The firm was founded in 2021 and specializes in Corporate Law.
+Our team has proven experience acting for clients in the following sectors:
+
+-   Banking
+-   Finance
+-   Tax
+-   Litigation
+-   Corporate
+-   Real Estate
+-   Construction
+-   Litigation
+-   Employment
+-   Data Protection
+-   Intellectual Property
+
+## Targets
+
+ELHQ Solicitors' targets are:
+
+-   To establish and maintain a profitable law firm in Dublin.
+-   To cultivate a loyal client base in the commercial sector; and
+-   To operate a business model that fully reflects our values and that is prepared to meet unexpected challenges
+
+## Vendor Firm
+
+Having analysed the files of [Vendor Firm], [Firm] have decided [to / not to] purchase the files.
+[Rationale for decision].
+
+An in-depth analysis of these files is discussed at paragraph
+
+# Management Plan
+
+## General Management
+
+The Partners are equal partners with equal voting rights.
+In keeping with ELHQ Solicitors' image as a market leading firm, the Partners have appointed Eddie Hynes as managing partner.
+However, a management committee will be formed and any significant decisions will be taken by the Partners collectively.
+
+The Partners will have monthly meetings where they will report any issues or concerns, discuss ELHQ Solicitors' progress and take any decisions as necessary.
+
+The Partners considered the alternative structure of an LLP, but decided that a traditional partnership was the best option for ELHQ Solicitors' at this time given the legal certainty that the established structure offers.
+
+## Partnership Agreement
+
+While there is no requirement that partnership arrangements must be in writing, the Partners have agreed that certain provisions of the Partnership Act, 1890 (the "**1890 Act**") are not appropriate for the modern management structure that is envisaged by ELHQ Solicitors.
+
+As a result, the Partners have agreed to enter into a formal written partnership agreement (the "**Partnership Agreement**") in order to override certain default provisions in the 1890 Act.
+
+In particular, the Partnership Agreement will address the financial rights of the partners, remuneration, partnership property and dissolution of partnership. 
+
+The Partners will draft the Partnership Agreement in an effort to reduce costs.
+An outline of the clauses which will be included in the Partnership Agreement is attached at Appendix 1
+
+## Partner Profiles {.tabset}
+
+### Edward Hynes
+
+-   Edward Hynes graduated from University College Cork in 2012, having studied Law and French.
+
+-   Edward then went on to attain a Masters in Asset Management from Queen's University Belfast in 2013.
+
+-   He completed a training contract with a large international firm, whereby his work focused primarily on mergers and acquisitions and on acting for buyers and sellers across various industry sectors.
+
+-   Edward was admitted to the roll of solicitors in 2017.
+
+-   Since qualification, Edward has regularly advised on corporate reorganisations, shareholder agreements and other commercial arrangements and contracts including agency/franchise/distribution agreements.
+
+-   Edward continues to advise a large number of international and Irish-based corporate clients, family-owned businesses and start-ups.
+
+### Samuel Elliot
+
+<html>
+
+<head>
+
+<style>
+
+
+.img1 {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img2 {
+  float: right;
+}
+</style>
+
+</head>
+
+<body>
+
+::: {.clearfix}
+<img src="Sam_Elliot.jpeg" alt="Pineapple" class="img2" width="170" height="160"/>
+
+<ul>
+
+<li>
+
+Samuel Elliott graduated from Dublin City University in 2015, having studied Law.
+
+</li>
+
+<li>
+
+Samuel then went on to attain an LLM in European Law from the London School of Economics in 2017.
+
+</li>
+
+<li>
+
+He has previously completed internships with with Judge Elizabeth Dunne of the Supreme Court, aircraft lessor CIT, and his training firm Matheson.
+
+</li>
+
+<li>
+
+He has extensive knowledge of commercial law, having previously advised large multinational clients on their restructuring and establishment activities in Ireland.
+
+</li>
+
+<li>
+
+He has also completed seats in Matheson's Construction, Litigation, and Entertainment teams.
+
+</li>
+
+</ul>
+:::
+
+</body>
+
+</html>
+
+### Conor Quane
+
+- Conor Quane graduated with a degree in law from the University of Oxford in 2012, and went on to complete an LLM at Harvard Law School the following year.
+
+- After a two year spell volunteering in a number of refugee camps around the globe, Conor returned to Ireland permanently in 2015 to begin a traineeship with Arthur Cox LLP. 
+
+- He was admitted to the roll of solicitors in 2017.
+
+- Since then, Conor has advised extensively on domestic and international M&A and financing transactions.
+
+- His clients have included a large number of major multinational companies and state authorities. 
+
+
+### Kieran Lardner
+
+-   Kieran Lardner graduated from University College Dublin in 2013, having studied Business and Law.
+
+-   Kieran completed a three year Masters in Data Analytics in University College Dublin in 2016.
+
+-   Kieran holds the following professional diplomas: Technology & IP Law, Sports Law & Commercial Mediation.
+
+-   Kieran completed his training contract with McCann Fitzgerald, completing two seats in Mergers & Acquisitions along with a seat in Finance and a seat in Employment.
+
+-   Kieran worked with the Legal Technology team during his traineeship, focusing on using analytics to aid decision making and automation to improve firm processes.
+
+-   Kieran qualified as a solicitor in 2017 and has spent three years working with the firms corporate department, advising large multinational clients on commercial agreements, mergers and corporate restructuring.
+
+## Background and Experience
+
+## Strengths and Weaknesses
+
+## Management Structure
+
+```{r, echo = FALSE, warning = F}
+library(DiagrammeR)
+
+# PayPal 
+
+grViz("
+digraph dot {
+graph [layout = dot]
+node [shape = box ,
+      style = filled,
+      color = grey,
+      label = '']
+node [fillcolor = red]
+1[ label = 'Edward Hynes - Managing Partner']
+node [fillcolor = green]
+2[ label = 'Conor Quane - Head of Corporate']
+3[ label = 'Sam Elliot - Head of Litigation']
+4[ label = 'Kieran Lardner - Head of Property']
+node [fillcolor = orange]
+5[ label = 'Laura McCabe - Insolvency']
+6[ label = 'Amy Flynn - Banking']
+7[ label = 'Joe Donohue - Corporate Transactions']
+8[ label = 'Sarah Flynn - Construction']
+9[ label = 'Andrew Rogers - Real Estate']
+11[ label = 'Gill Lynch - Employment']
+12[ label = 'Ben Hillard - Pensions']
+edge [color = grey,
+      penwidth = 5, color = 'DeepSkyBlue']
+1 -> {2 3 4}
+2 -> {5} 
+5 -> {6} 
+6 -> {7} 
+edge [color = 'DeepSkyBlue',
+      penwidth = 3]
+4 -> {8} 
+8 -> {9} 
+3 -> {11}  
+11 -> {12}  
+}")
+
+```
+
+## Decision Making Process
+
+## Employee financials
+
+## Staffing plan
+
+## Scaling
+
+# Operations
+
+## Premises & Equipment {.tabset}
+
+### The Location
+
+ELHQ Solicitors has decided to lease an office space in Dublin 2 for a variety of reasons.
+As previously discussed, situating the office in the heart of Dublin City will provide the most convenient access to aspiring startup businesses as well as international clients who are looking to establish themselves in Dublin.
+An office space in Dublin City Centre will also provide the Firm with access to the Four Courts and is well-connected to public transport which will allow for ease of access for staff and clients alike.
+Dublin 2 is perfectly situated in terms of business support services, such as accounting firms and auditors.
+
+ELHQ Solicitors has decided to lease a sixth floor office at Watkins House, Hight Street, Dublin 2..
+Conor Quane, Partner, contacted the commercial leasing department at GSP Lettings in search of a suitable office space.
+GSP Lettings provided a verbal quotation for an office on the sixth floor of Watkins House for an annual fee of €21,600 (exclusive of utility bills), resulting in a monthly expense of €1,800.
+Despite the requisite amount being slightly above the Partner's anticipated budget for office letting, it was agreed to lease this office space as there were multiple advantages of doing so.
+
+[ ELHQ Solicitors has agreed to lease the office for an initial period of 18 months with an option to extend for a further 18 months thereafter.
+
+### The Space
+
+The office space itself is spacious and comes fully serviced and furnished.
+It has a floor area of over 1,642 square feet and comprises 2 offices, a boardroom, a private meeting room, toilet facilities and a reception area.
+There is also a kitchenette which includes a fridge, dishwasher and tea/coffee making facilities.
+On the ground floor of Watkins House, there is another reception area that is shared with the other offices in the building.
+
+### Equipment
+
+The office is fully equipped with desks, chairs, furniture and filing space.
+Conor Quane has been designated as the Partner responsible for office management.
+ELHQ has opened an account with Premier Stationery, an office supplies company, who will supply the Firm with all its required stationery and office equipment.
+Premier Stationery have also been contracted to provide and install six telephone units across the office space.
+
+As regards the space itself, there are two offices which comfortably seat two people each.
+Each office has two adjustable desks, two swivel chairs and four filing cabinets.
+These filing cabinets are highly secure and ideally suitable for the storage of Deeds, security and title documents and other highly classified documents.
+
+In the Boardroom there is a large table with eight chairs and the room has floor to ceiling windows for maximum natural light exposure.
+The private meeting room has a round table ideal for client consultations and a large rectangular window which looks out over St Stephen's Green.
+
+The Partners also will purchase stackable chairs for in-house CPD lectures and other social in-office events.
+
+## Technology Requirements {.tabset}
+
+### Software and Hardware
+
+The office at Watkins House, High Street, Dublin 2 is fully connected to high-speed broadband and telephone lines and so there is no expense involved for ELHQ in this regard.
+ELHQ has engaged with Safe Wire Limited who will be responsible for all of the Firm's IT requirements.
+ELHQ intend on signing a Services Agreement with Safe Wire Limited in respect of the Firm's entire IT infrastructure.
+Safe Wire Limited have agreed to provide all the required services required by ELHQ including network security, required software, product-system integration and general IT support and maintenance.
+This will cost ELHQ an estimated [€XXXXX] per annum.
+
+Covid-19 has highlighted the necessity to work from home efficiently and flexibly.
+With this in mind, the Partners will each receive a laptop that will allow the Partners to work remotely and, when needed, from home so that ELHQ will always be best placed to properly serve our clients regardless of any unforeseen circumstances.
+The Firm has decided to purchase four Dell laptops at a price of €XXX each (€XXX overall).
+The Firm has also decided to purchase four desktop computer units for the use of future support staff at a cost of €XXX each (€xxx overall).
+As part of its Service Agreement, Safe Wire Limited will be responsible for setting up and maintaining these computers.
+
+### Case Management System
+
+[Firm] ELHQ Solicitors has decided to use Legal Partner as its case management software.
+Safe Wire Limited has previously worked with several law firms who also used Legal Partner and therefore Safe Wire are well versed in this particular case management system.
+The Partners in ELHQ, having explored several options for a case management system opted for Legal Partner as it is ideally suited for commercial law firms in its makeup and it also provides a three month trial version of the software, which will save the firm [€XXX] in Year 1.
+Therefore, in the first year ELHQ will pay €XXX for the use of Legal Partner and €XXX per annum thereafter.
+
+## Client Management System {.tabset}
+
+The firm has developed an application in house to help keep track of key information about each of it's client's.
+We believe this will improve productivity across the firm and ultimately deliver a more cost-efficient and effective service to our clients.
+This includes information such as:
+
+### Key info about the client
+
+> Key information about that employees may regularly need to input on forms or access
+
+<img src="keycontacts.png" alt="Key Info"/>
+
+### Group Structure Charts
+
+> Easy access to group structure charts designed by our Legal Tech team will help our Corporate Team as they seek to advise on complex restructurings etc. (rephrase)
+
+<img src="structure.png" alt="Group Structure Charts"/>
+
+### Information to aid drafting
+
+> Employees will be able to quickly access common pieces of information that are regularly included in documents we draft.
+> This can then be easily downloaded, coverted to a pdf or copied, so that the employee can quickly update their documents.
+
+<img src="table.png" alt="Drafting info"/>
+
+### Statistics
+
+> Our legal tech team has written code to automate the process of producing visualizations and summary statistics across a number of key metrics.
+
+<img src="statistics.png" alt="Sample Billing info visualizations"/>
+
+## PLACEHOLDER
+
+KL to expand section.
+Layout chart for office.
+trainee rotation.
+finish app demo.
+document generator maybe?
+
+## Human Resources {.tabset}
+
+### Recruitment
+
+It is expected that initially recruitment will be kept to a minimum.
+However, as [Firm] develops, consideration will be given to expanding support staff and fee earners.
+In line with our core values, our recruitment process will focus on attracting diverse, talented and motivated candidates.
+
+[Firm] has allocated a number of roles to our founding Partners who have corresponding qualifications suitable to those positions.
+Where required, [Firm] will fund appropriate courses to assist those Partners and ensure the welfare of our employees.
+
+[Firm] plans to employ one legal secretary and bookkeeper initially, details of which are set out at 8.1.1 and 8.1.2.
+These positions will be advertised on the law society website (www.lawsociety.ie) and through recruitment websites such as irishjobs.ie.
+All partners will be consulted and involved in any direct hiring into the firm through the interview process.
+
+#### Legal Secretary / Receptionist
+
+Our legal secretary / receptionist will deal with correspondence, company filings and assist the bookkeeper in collating invoices and billing clients.
+The legal secretary / receptionist will be responsible for greeting clients, screening calls, and sorting mail.
+The salary for this position will be €30,000 per annum.
+The term of the contract will be one year with a standard six month probationary period.
+
+#### Book-keeper
+
+A part-time bookkeeper will be required by [Firm] to maintain the financial records of the firm and assist with payroll and the annual budget.
+[Firm] have decided to outsource the bookkeeping requirements to SME accountants who specialise in bookkeeping and accounting for small and medium businesses.
+They offer an initial six-month accountancy service for €294 based on €49 a month.
+Our initial contract with them will be for one year.
+
+#### Company Secretarial
+
+Conor Quane will act as Company Secretary for [Firm].
+Conor Quane holds a certificate in Company Secretarial Law and Practice from the Law Society.
+
+#### Compliance and Data Protection Officer
+
+Kieran Lardner will act as the Data Protection and Compliance Officer for [Firm].Kieran Lardner holds a certificate in Data Protection Practice from the Law Society and CIPP/E and CIPM certifications.
+
+**KL** - Check what the name of that cert was again.
+Add references to your cert & Conors cert to the partner's profile section at the top.
+
+#### Human Resources Manager
+
+[Partner] will act as the Human Resources Manager.
+S/he will be responsible for the recruitment, training and development of all employees and will ensure compliance with the Employment Equality Acts 1988 - 2015.
+
+**Lads** - Who will I stick down for this.
+
+### Policies and Procedures
+
+Each employee will be provided with a written contract of employment setting out a probationary period of six months.
+It shall be ensured that all employee contracts comply with the Terms of Employment (Information) Acts 1994 to 2014 and the Employment (Miscellaneous Provisions) Act 2018.
+Each employee will also receive the employee handbook which will contain all the core policies and procedures for the firm.
+A full list of all firm policies is set out in Appendix 4.
+[Firm] is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
+This is especially important in light of the impact of COVID-19.
+Our Human Resources department will strive for fast communication and ensure the business has the ability to communicate to all staff if any policy changes are needed at short notice.
+Our firm employee handbook as well as all training and process manuals will be centrally located on our intranet and appropriate training on these will be provided.
+
+### Disciplinary Procedure
+
+[Firm] will ensure implementation of its written Disciplinary and Grievances Policy, ensuring fair procedures are followed at all times.
+[Partner] will act as the Complaints Officer and will ensure implementation of the Disciplinary and Grievances Policy within the firm.
+His/her role will include the investigation of and response to all employee complaints.
+
+### Training
+
+Training will be the ultimate responsibility of the Human Resources Manager.
+S/he will ensure that all employees receive training in matters related to the carrying out of their specific functions within the firm.
+Employee training will take place upon induction and at regular intervals throughout the course of their employment.
+There will be a focus on training for remote working software to ensure all employees have the ability to utilise the firm's telecommuting options.
+[Firm] will also ensure that the CPD plan, as outlined at paragraph 5.8, is carried out.
+We have allocated €2,500 for all training including CPD expenses per annum.
+
+### Hours of Work
+
+Working hours will generally be 9 am -- 5.30 pm, Monday to Friday.
+However, employees may be required to work outside of these hours from time to time.
+This will be clearly set out in our employee contracts.
+In line with [Firm]'s flexible working policy, we will encourage our staff to use flexible working arrangements to achieve a better balance between work and other priorities.
+[Firm] is committed to agreeing any flexible working arrangements and to promoting an inclusive working environment.
+These arrangement include our flexitime and telecommuting arrangements as set out in the Flexible Working Policy.
+
+### Leave
+
+Permanent employees will be entitled to 21 days annual leave.
+With regard to sickness, any absences in excess of three days must be certified and management reserves the right to request an independent medical examination.
+Full details of our sick leave arrangements are set out in our Sickness and Absence Policy.The availability of all other types of paid and unpaid leave of absence from work, including maternity leave, adoption leave and parental leave are set out in our Leave Policy.
+
+### Health, Safety and Welfare
+
+[Firm] understands the importance of the duty it has to maintain the health, safety and welfare of it's employees.
+[Firm] recognises, in particular in light of COVID-19 that this is a dynamic obligation and will ensure compliance with the Health, Safety and Welfare at Work Act 2005 as well as any guidance issued by the HSE and Department of Health.
+[Firm] will ensure that [Office Address] maintains an up-to-date Health and Safety Risk Assessment.
+[Partner] will act as the Health and Safety Officer and Office Manager for [Firm].
+[Partner] holds a certificate in occupational health and safety and is fully trained in CPR and AED.
+
+[Firm] is committed to the welfare of its employees, both physical and mental.
+We plan to promote the wellbeing of our employees by hosting an annual '[Firm] Health and Wellbeing Week' in which we will raise awareness of the firm's Prevention and Management of Work Related Stress Policy'.
+Employees will have the opportunity to avail of a number of firm supports such as our the 'Bike to Work Scheme' which will be particularly important for workers in the current climate.
+We have also partnered with Iveagh Fitness Club in Dublin 8 to provide a 30% gym membership discount to all employees.
+These will be available following completion of an employee's probationary period.
+In addition we have allocated €1,500 toward social activities throughout the year such as the firm Christmas party and other team building activities.
+
+### Pay and Benefits
+
+Employees will be paid monthly and all pay slips will be issued electronically.
+Partners will commence with a salary of €35,000 to be reviewed after Year 1.
+Employees will also have the opportunity to join [Firm]'s contributory health insurance scheme upon completion of their probationary period.
+
+# Professional Management & Conduct
+
+## Establishing [Firm]
+
+Before commencing practice, [Firm] will be required to complete a Commencement in Practice Form setting out the Partners' experience, professional indemnity insurance details and compliance with the Solicitors Accounts Regulations.
+This form will then be submitted to the Law Society of Ireland (the "Law Society") Practice Regulation Executive.
+
+Under the Solicitors (Professional Names / Notepaper) Regulations 1996, [Firm] will be required to apply to the Law Society Regulation of Practice Committee for approval to use the name [Firm] Solicitors.
+While '[Firm]' represents a combination of the initials of each of the principals of the Firm, [Firm] will still require Law Society approval to establish using a name other than that of the principals.
+
+[Firm] will also provide the Law Society with a copy of its letterhead, a sample of which is provided at Appendix 3.
+
+## Designated Compliance Manager
+
+The Partners have agreed that [Partner] will be [Firm]'s designated Compliance Manager responsible for ensuring compliance with the Law Society's regulatory requirements, professional standards and guidance.
+
+## Practising Certificates
+
+Every practising solicitor in Ireland is required to hold a valid practising certificate under the Solicitors Practising Certificate Regulations 2018.
+There is potential criminal liability if [Firm] provides legal advice without a valid practising certificate so it is essential that [Firm] ensures each of the Partners has a valid and up-to-date practising certificate at all times.
+
+The Compliance Manager will provide each Partner with the practising certificate renewal form in advance of the submission deadline of 1 February each year.
+It will be each Partner's responsibility to ensure that the forms are correctly completed on time.
+Each Partner currently holds a valid practising certificate up to 31 December 2020.
+
+The estimated price for each practising certificate is approximately €2,400 per partner.
+The estimated total practising certificate fees for [Firm] for the year ending 31 December 2020 is approximately €12,000.
+
+## Professional Indemnity Insurance
+
+The Solicitors Professional Indemnity Insurance Regulations 2018 provide that all solicitors must have professional indemnity insurance ("PII") cover in place before practising certificates are granted by the Law Society.
+At present the minimum level of PII cover that must be in place is at least €1.5 million per claim.
+
+[Firm] have received a PII quote from [Insurer].
+[Insurer] have offered PII cover to [Firm] at an initial annual cost of €19,000 with a self-insured excess of €20,000.
+[Firm] have decided to accept this offer as [Insurer] are a reputable insurance undertaking and their quote is a reasonable price for a newly established practice.
+
+## Anti-Money Laundering
+
+[Firm] recognises its responsibility under the Criminal Justice (Money Laundering and Terrorist Financing) Acts 2010 and 2013 to prevent criminally or illegally obtained monies being disguised as legitimate income.
+[Firm]'s AML Policy includes detailed customer due diligence processes which will be followed for all clients and will only accept instructions where satisfied by the information obtained.
+The Partners will continually satisfy themselves in accordance with the AML Policy and take any action necessary if information comes to light which gives rise to suspicion.
+Appropriate records will be kept and compliance will be continually reviewed by the Partners.
+A list of the policies prepared by [Firm], including its AML Policy, is provided at Appendix 4.
+
+## Setting Up and Closing Files
+
+To ensure efficiency and best practice, along with compliance with all legal and ethical obligations, [Firm] will implement an 'Opening Checklist' and 'Closing Checklist' which must be included on each file.
+These checklists deal with matters such as conflict checks, AML, letters of engagement, data protection, deadlines, critical dates and ensuring that any outstanding matters (such as undertakings) are discharged prior to closing a file.
+These checklists will be thorough and will be regularly reviewed to ensure that any new regulatory requirements are included.
+
+## Undertakings
+
+The Partners are cognDublinisant of the gravity of non-compliance with undertakings and therefore are implementing a strict process to ensure undertakings are only given when appropriate and necessary.
+In line with the collective decision-making, unanimous approval of the Partners must be obtained before an undertaking is given.
+All undertakings will be entered on the undertaking register maintained by [Firm], which will be reviewed in detail at each monthly Partners' meeting to ensure undertakings are discharged as soon as possible.
+
+## Continuing Professional Development
+
+Regulation 4 of the Solicitors (Continuing Professional Development) Regulations 2017 (the "CPD Regulations") imposes an obligation on all solicitors holding practising certificates to undertake continuing professional development ("CPD").
+CPD is defined under the CPD Regulations as education or training to be undertaken by a solicitor relating to law, management and professional development skills or regulatory matters.
+The Law Society has published its CPD Scheme for 2020, which sets out the CPD requirements that apply to each solicitor, a copy of which is included at Appendix 5.
+
+Each Partner will be required to undertake 20 hours of CPD per annum, which includes a minimum of 2 hours of regulatory matters and 3 hours of management and professional development skills.
+As the Partners have all been qualified for three years, they are unable to avail of the exemption available to newly qualified solicitors.
+The ways that a solicitor may complete their CPD requirements are via group study, eLearning and writing relevant material, such as writing for a legal journal or periodical.
+
+The Partners plan to attend CPD events hosted by the Law Society and other professional bodies.
+This will satisfy the Partners' CPD requirements and will also give the Partners the opportunity to network with other solicitors and any other interested attendees.
+[Firm] also proposes to host a series of one-hour lectures setting out any relevant legal, regulatory and professional developments.
+[Firm] will invite solicitors and other interested professionals to attend these lectures, which will be available both in-person and via remote access, such as video conferencing.
+
+[Firm] will also host monthly internal group study sessions between the Partners.
+This method of completing CPD is available to [Firm] as there will be more than three people in attendance at each session.
+The Partners have also committed to each writing one article or legal review which will be submitted to interested relevant publications such as the Law Society Gazette or The Parchment.
+
+[Firm] has included the cost of satisfying its CPD requirements in its general training budget as set out in paragraph 8.4.
+
+## [Vendor Firm' Files]
+
+The Partners at [Firm] have decided [to / not to] purchase the files of Rhyme & Partners.
+
+[Rationale for decision]
+
+A detailed review of each of the files is set out in Appendix 6.
+
+# Finances
+
+## Overview
+
+Following extensive consultations with accountants and financial advisers specialising in the legal industry, the Partners have agreed on the following financial projections for the first 24 months of trading. Year 1 will run from 1 February 2021 to 31 January 2022, and Year 2 will run from 1 February 2022 to 31 January 2023. 
+
+In light of the ongoing global economic volatility caused by COVID-19 pandemic, and considering the many uncertainties in establishing a new business, the Partners have prepared the financial projections on a conservative basis. The Partners are collectively committed to keeping expenditure to minimum for the first two years of trading, and until profit levels have stabilised. The Partners have agreed also to hold a monthly meeting to assess the financial performance of the firm and address any emerging issues. 
+
+In line with current trends for corporate law firms, clients will generally be billed on a monthly basis, except where agreed otherwise. This should help to regularize income for the Firm during the first few years of its existence.
+
+Full cash flow projections are set out in Appendix 5, and the main items are discussed below. 
+
+## Incomings
+
+### Funding
+
+The Firm’s initial funding will be comprised of capital contributions from the Partners supplemented with external financing. The Partners chose Big Bank plc as Firm’s proposed bank due to its competitive lending rates and wide range of supports for start-ups and SMEs. 
+
+### Capital Contributions 
+
+The Partners have agreed to contribute €30,000 each to the Firm, amounting to €120,000 in total. Each Partner will take a 25% stake in the firm. The contributions will be funded entirely from the personal savings of each Partner.
+
+### Debt
+
+#### Business Start-Up Package
+
+The Partners decided to avail of the [Bank Package] (the "**Package**").
+The key features of the Package include free current account maintenance and transactions fees for the first two years and a Business Debit Card for [Firm].
+This current account will be used to pay the employees.
+
+#### Loan
+
+Following an examination of the projected cash outflows, it was evident that [Firm] would require additional funding to supplement the capital contribution.
+The Partners considered the level of debt that [Firm] should undertake given the economic uncertainty at this time.
+The Partners decided that taking out a smaller loan would ensure that [Firm] would be able to meet each loan repayment.
+
+In light of those considerations, the branch manager in [Bank] offered [Firm] a loan of €50,000 which the Partners are prepared to accept.
+This loan meets the threshold to qualify for fixed rates instead of a variable rates which offers greater certainty for the financial projections:
+
+-   A €50,000 loan with a fixed interest rate of 6.95% APR repayable in monthly instalments of €988.00 over 5 years; and
+
+-   The term of the loan will begin on 1 January 2021.
+    Payments will occur on the 15th day of each month, with the final repayment occurring on 15 December 2025.
+
+#### Overdraft Facility
+
+[Firm] have also secured an overdraft facility of €25,000 with a variable interest rate of 7.85%.
+This interest rate means the total cost of credit for [Firm] for an overdraft of €25,000 would be €2,034.60. 
+
+The Partners are aware that the costs associated with this facility are expensive and do not intend to use it for the day-to-day running.
+However, the Partners agreed that this facility offers extra support and flexibility in relation to cash shortfalls.
+
+### Fee Incomings
+
+It is anticipated that [Firm] will receive a total fee income of €476,666.66 in Year 1 (10 billable hours x 5 partners x 52 weeks x €200 = €520,000 minus the first month of no fees = €476,666.66).
+
+The clients will be charged on an hourly basis at a rate of €200 an hour.
+This is a competitive rate taking into account the relevant levels of experience of the Partners and research conducted on fee structures of similar law firms.
+
+It is agreed that in Year 1 each Partner will aim to bill 10 hours a week.
+The Partners believe that this is achievable and expect to surpass that target with the clients that they are bringing into [Firm].
+The Partners anticipate that they will bring in new clients into [Firm] toward the end of Year 1 when a resurgence in economic activity is expected.
+
+[Firm] anticipates further growth in the amount of fee income from the period of 1 January 2022 to 31 December 2022 once [Firm]'s brand has developed.
+
+## Outgoings
+
+### Capital Expenditure
+
+#### Office Equipment and Furnishings
+
+We estimate that the cost of fully furnishing our newly acquired premises at [Office Address] will be €10,400.
+
+#### Information Technology
+
+The initial capital cost of setting up the information technology system of the business, including the practice management system will be €20,000.
+This will be paid in monthly instalments for the first year of trading.
+The Partners have opted for a system that will operate fully remotely and all employees have the ability to work from home.
+Please note that information technology will remain an ongoing current expense and is detailed further below.
+
+#### DX System
+
+The cost of setting up the DX system will be €3,300.
+
+### Current Expenditure
+
+#### Rent
+
+The Partners have signed a short term letting agreement for a lease of the premises at [Office Address].
+The rent payable is €1,665 per month.
+
+#### Drawings
+
+Each Partner will be entitled to drawings equaling an annual salary of €35,000 per annum.
+This will amount to a monthly cost to the business of €14,583.33.
+The Partners have agreed that such drawings will be subject to review if the cash flow demands of the business so require.
+
+#### Salaries
+
+A secretary / receptionist will be recruited and a basic salary of €30,000 per annum will be payable to him/her.
+The job specifications for this role are set out in paragraph 8.1.1.
+
+#### Tax {.tabset}
+
+##### Income Tax (self-assessment)
+
+As the Partners are self-employed, they will be required to file income tax returns and pay income tax under the self-assessment system.
+On a preliminary basis, such tax is payable annually on 31 October.
+Each partner will attend to their individual filing requirements with the Revenue Commissioners.
+
+##### Pay As You Earn (PAYE)
+
+The firm will also be required to file income tax returns and make the required deductions (income tax and universal social charge) in respect of its employees.
+
+##### Pay Related Social Insurance (PRSI)
+
+The firm will also be required to process the employees' PRSI contribution and to make an employer's PRSI payment on behalf of each employee to the Revenue Commissioners.
+
+##### Value Added Tax (VAT)
+
+the firm will also be required to register for VAT with the Revenue Commissioners.
+This will be done by submitting a form TR1 for registration.
+The current threshold for suppliers of services is €37,500 and the applicable rate of VAT is 23%.
+The applicable rate of VAT will be charged to clients in respect of the professional services billed by the firm.
+The business will be able to offset its VAT liability against VAT incurred on business related purchases.
+The firm's accountants will be responsible for making the appropriate VAT returns to the Revenue Commissioners on a bi-monthly basis.
+
+#### Practising Certificates
+
+The Partners will renew their practising certificates for 2021, at a cost of €2,400 per Partner (€12,000 in aggregate).
+
+#### Insurance
+
+The firm will be required to take out the following insurance policies:
+
+1.  Professional Indemnity Insurance
+
+    -   The firm has received a quote from FBD Insurance for a policy providing cover of up to €1,500,000. The premiums payable each month will be approximately €1,583.00.
+
+2.  Employers/Public Liability Insurance
+
+    -   The firm has received a quote from Aviva for a policy providing cover of up to €500,000. The premiums payable each month will be approximately €125.00.
+
+#### Marketing
+
+The firm has set out a detailed plan in relation to its medium and long term marketing strategy, as set out in Chapter 6.
+The firm will set aside a budget of approximately €26,000 to execute this plan.
+
+#### Accountant/Financial Services
+
+The Partners have decided to retain the services of a firm of accountants to assist with the management and reconciliation of [Firm]'s office and client accounts.
+The accountants will also provide miscellaneous assistance in relation to the financial management of the business.
+The accountants will also prepare profit and loss accounts and balance sheet financial statements for the business on an annual basis.
+[Firm] will pay a monthly retainer of €2,500 to the accountant.
+A further €4,000 will be payable in December 2021 for the preparation of the financial statements.
+
+#### Electricity and Heat
+
+The estimated costs of heat and electricity for the premises will be €300 per month.
+
+#### Telephone and Broadband
+
+The initial 12 month contract with Vodafone will have monthly payments of €350 per month.
+
+#### Postage/DX
+
+Payments will be approximately €120 per month once the firm has commenced trading.
+
+#### Subscriptions
+
+Each partner will have access to Search4less.com for an annual subscription fee of €175.
+This provides each user with unlimited access to CRO filings and allows these documents to be downloaded free of charge.
+In addition to this, there will be miscellaneous downloads from the Property Registration Authority and other websites.
+The estimated monthly cost of this will be €100 per month.
+
+## Summary
+
+```{r summary plots, warning=FALSE, error=FALSE, fig.width = 12, out.width= "100%", echo = FALSE, message = FALSE}
+
+library(dplyr)
+
+
+
+finances <- data.frame(year = c(rep(1,4),rep(2,4),rep(3,4),rep(4,4), rep(5,4)),
+                       type = rep(c("Expenses","Debt","Fees", "Profit")),
+                       value = c(400,10,500,90,450,12,600,138,500,14,700,186,550,15,800,235,600,17,900,283))
+
+
+finances$type = factor(finances$type, levels = c("Expenses","Debt","Fees","Profit"),
+labels = c("Expenses","Debt Repayments","Fee Income","Net Profit"))
+
+theme_kieran <- function () { 
+  theme_minimal(base_size=11, base_family="Consolas") %+replace% 
+    theme(
+      panel.grid.minor = element_blank(),
+      plot.background = element_rect(fill = 'floralwhite', color = "floralwhite")
+    )
+}
+
+library(ggplot2)
+library(gganimate)
+library(ggplot2)
+library(paletteer)
+library(scales)
+library(gganimate)
+library(ggtext)
+library(tidyverse)
+library(extrafont)
+library(ggrepel)
+library(ggforce)
+library(ggthemes)
+library(patchwork)
+library(dplyr)
+library(ggimage)
+
+finances <- finances %>% mutate(loc = seq(1,n()))
+finance_anim <- finances %>% 
+ggplot(aes(x = year, y = value, color = type)) + 
+geom_line(size = 1.3) + 
+geom_point()  + 
+geom_label(aes(x = year+.5, y = value, label = as.character(value), fill = type), color = 'black', hjust = 0.5, family = "Consolas", alpha = .5)+ 
+transition_reveal(year) + 
+facet_wrap(~type, nrow = 2,scales = "free_y")  +
+scale_color_manual(values = c("#1b9e77", "#d95f02", "#7570b3", "#e7298a"))  +
+scale_fill_manual(values = c("#1b9e77", "#d95f02", "#7570b3","#e7298a")) +
+scale_x_continuous(limits = c(1,6), breaks = seq(1,6,1)) +
+guides(color = FALSE, fill = FALSE)  +
+theme_kieran()  + 
+theme(legend.position = 'bottom',
+# legend.key.size = 5,
+legend.key.size = unit(3,"line"),
+plot.title.position = 'plot',
+plot.title = element_text(face = 'bold',hjust = .5,size = 12), 
+plot.subtitle = element_markdown(hjust = .5,size = 10), 
+legend.text = element_text(size = 12),
+strip.text = element_text( face = 'bold',size = 12, color = "#9ecae1"),
+strip.background.x = element_rect(fill = "#9ecae1"),
+panel.spacing.x = unit(1, 'lines'),
+plot.caption = element_text(face = 'bold', hjust = c(0,1)))+
+labs(subtitle = "<b><span style = 'color:#1b9e77;'>Expenses </span>, <span style = 'color:#d95f02;'>Debt </span>, <span style = 'color:#7570b3;'>Fees </span> & <span style = 'color:#e7298a;'>Profit </span></b>", 
+title = paste0("ELHQ Solicitors 5 year financial projections"),
+x = "Year", 
+y = "€ (in thousands)",
+caption = c("ELHQ Solicitors", "Reg office: Dublin 2"))
+
+# animate(finance_anim, 
+# duration = 18,
+# fps = 5, end_pause = 25,renderer = gifski_renderer("test.gif", loop = T))
+#   geom_image(aes(x = loc, image = l), y = 0,  # add geom_image layer
+#              size = 0.25, hjust = 1,
+#              inherit.aes = FALSE)
+
+
+# get logo 
+get_png <- function(filename) {
+  grid::rasterGrob(png::readPNG(filename), interpolate = TRUE)
+}
+
+l <- get_png("logo.png")
+
+p3 <- ggplot(mapping = aes(x = 0:1, y = 1)) +
+  theme_void() +
+  annotation_custom(l, xmin = .8, xmax = 1)
+
+finance_anim
+
+```
+
+
+
+```{r summary plots 2, eval = FALSE, echo = FALSE}
+# library(gridExtra)
+# 
+# gridExtra::grid.arrange(finance_anim, p3, heights = c(.93, .07))
+# finance_anim
+# 
+# annotation_custom2 <- 
+# function (grob, xmin = -Inf, xmax = Inf, ymin = -Inf, ymax = Inf, data){ layer(data = data, stat = StatIdentity, position = PositionIdentity, 
+#         geom = ggplot2:::GeomCustomAnn,
+#         inherit.aes = TRUE, params = list(grob = grob, 
+#                                           xmin = xmin, xmax = xmax, 
+#                                           ymin = ymin, ymax = ymax))}
+# 
+# a1 = annotation_custom2(l, xmin=7, xmax=8, ymin=3.75, ymax=4.5, data=finances[20,])
+```
+
+# Marketing
+
+## Overview
+
+Our goal is to establish ELHQ Solicitors as a dynamic, and innovative law firm that provides an expert legal service for our clients.
+
+At ELHQ Solicitors, we want to market ourselves as a firm that is capable of adapting quickly to the ever changing legal landscape -- this is in particular focus given the impact of COVID -- 19 on both the legal industry and the wider global economy.
+
+The Partners have adapted to work life during the COVID-19 crisis, and recognize the importance of facilitating the ability to work remotely.
+Further, the Partners at ELHQ Solicitors have seen opportunities that can be maximised through flexibility, innovation and adaptability.
+
+## Target Market
+
+ELHQ Solicitors' target market is public & private corporations as well as various commercial bodies.
+The Partners are placing a particular emphasis on targeting SMEs and start up companies in order to break into the market before expanding the business to target larger corporations.
+Given the current period of economic recovery following the COVID-19 crisis, the Partners believe that this broad focus allows for flexibility and growth in uncertain times.
+
+## Marketing Plan
+
+ELHQ Solicitors has considered how it will employ it's various marketing techniques below, and has conducted a SWOT analysis, a copy of which is provided at Appendix [insert]
+
+### Product
+
+ELHQ Solicitors will adhere to provide a legal service of the highest standard for all of our clients.
+We intend on working for and with like minded clients who approach business in a practical, pragmatic and commercial fashion.
+Our primary areas of expertise include, but are not limited to, Commercial Litigation and Dispute Resolution, Mergers and Acquisitions, Finance, Intellectual Property and Commercial Property.
+
+### Branding/Logo
+
+The Partners have chosen the name ELHQ Solicitors which represents the surnames of each of the four Partners.
+It was felt that the name is distinct and memorable and that the name is suggestive of professionalism and teamwork.
+Insofar as each Partner is a valued asset to the business, the name ELHQ Solicitors inherently reflects this.
+
+ELHQ Solicitors will also instruct Logo Design Co to create a logo that will be memorable and reflective of the Firm's values.
+The logo will be displayed widely on all of the Firm's social media platforms and website as well as on all stationery (including business cards), publications, and correspondence.
+
+### Office Location
+
+The office of ELHQ Solicitors will be located at Watkins House, High Street, Dublin 2.
+After careful consideration the Partners chose this location for three primary reasons.
+
+Firstly, the Partners felt that by situating the office in Dublin City centre, the Firm would be best placed to serve our commercial and corporate clients given that Dublin is something of a hub for ambitious, growing businesses from a national and international standpoint.
+
+Secondly, the standard of living in Dublin is slightly higher than in other parts of the country and the city as a whole is vibrant and energetic.
+This factor combined with the access to several highly respected Third Level Institutions near the city centre will ensure that the office will be well placed to attract and retain the highest quality of legal talent in order to aid the continued growth and success of the Firm.
+
+Thirdly, all four Partners have worked in Dublin in a legal capacity for an extended period and each Partner has established important business relationships with potential future clients through this previously completed work.
+It will be important for these business relationships to be maintained and improved upon so that ELHQ Solicitors will be successful.
+
+### Price
+
+As ELHQ Solicitors is a newly established firm we intend to be highly competitive in respect of the fees that we charge.However, of utmost importance to the Partners is to provide an exceptional service and in this regard to provide value for money.
+As a firm, ELHQ will be responsive and provide practical, commercial assistance in order to reach the heart of any particular legal issue or query quickly.
+
+### Promotion {.tabset}
+
+#### Online Presence {.tabset}
+
+ELHQ Solicitorswill have an active online presence, focusing on engagement with the target audience.
+
+##### Website
+
+ELHQ.iewill be acquired.
+The Firm's website will be designed in such a way that it is easy to navigate as well as being informative.
+Information will be provided about each of the practice areas as well as about each of the Partners, and contact details for each individual Partner will be provided.The website will have an 'Updates' section with regular articles on topical legal issues.
+The Partners commit to producing at least two articles per month which will be shared across all social media platforms.There will also be an option to subscribe for updates, with monthly newsletters and updates sent out to those who register.
+
+##### Social Media
+
+ELHQ Solicitors will have a strong presence across all social media platforms, including LinkedIn, Facebook, Instagram and Twitter,  which will be used to build the brand and to share relevant content.
+The Partners have their own LinkedIn accounts which will be used both to make useful connections and to create a strong online presence for the Firm.
+
+##### Podcast - ELHQ Talks
+
+ELHQ Solicitors will host a monthly podcast discussing relevant topical legal and commercial issues.
+Guest speakers will be invited, which can include clients and experts in the particular area, to provide a more practical discussion on implications of relevant legal updates to the legal and commercial industry.
+It is hoped that the listeners gained from the podcast will increase awareness of ELHQ Solicitors' work. 
+
+Eddie Hynes, Managing Partner, has a contact who has agreed to set up the website and podcast hosting platforms for [€XXX].
+
+#### Advertising
+
+Through social media platforms and the Firm's website the intention is to levy as much free advertising online insofar as is possible but this will be supplemented with various other means of advertising.
+The advertisements for ELHQ Solicitors will adhere strictly to the Solicitors (Advertising) Regulations 2002 and will include the contact details, areas of expertise and logo of the firm.
+It is envisioned that such advertisements will be placed in the Law Society Gazette, the Sunday Business Post and the business supplement of the Irish Times.
+As a large part of the target audience for the Firm are start-up companies and SMEs, the Firm will also make contact with organisations such as "NewCo Ireland" to potentially provide sponsorship at conventions and seminars.
+
+#### Sponsorship and Corproate Social Responsibility
+
+ELHQ is keen to integrate in the community in Dublin City centre and to increase local awareness of its business.
+The Partners are passionate about the Firm's CSR and hope to develop the Firm's reputation as one which gives back to the community that it is based.
+The Partners have agreed to participate in a variety of charitable events in this respect including:
+
+--- Entering a soccer team in the annual five-a-side tournament in Blackhall Place to raise funds for "The Irish Youth Foundation" in support of disadvantaged youths in Ireland.
+
+-   Each Partner to participate in the annual "Calcutta Run", the annual legal fundraiser and to raise funds accordingly.
+
+-   Provide work experience opportunities for Transition Year students who are schooled in the local area.
+    ELHQ Solicitors has allocated a budget of [€XXXX] for sponsorship in Year 1.
+
+#### CPD and Lecturing
+
+ELHQ Solicitors will host monthly CPD conferences on topical legal issues.
+Clients and contacts will be invited, and at each CPD meeting, lunch and sandwiches will be provided.
+These will usually be by way of either a Partner or an expert guest speaker delivering the lecture,with an emphasis on practical and commercial solutions.
+The Partners will also lecture in Law Society PPC and Diploma courses in their area of expertise.
+
+#### Initial Launch Night
+
+To boost awareness around the establishment of ELHQ Solicitors a launch night will be arranged within two months of the Firm opening its doors.
+It is envisaged that Mount Ivy Hotel near the Firm's office will be booked whereby a canapés and drinks reception will be held.
+This of course will be pending the easing of Covid-19 restrictions.
+All existing clients of the Partners, any potential clients of the Firm, local businesses and companies will be invited to attend, along with faculty heads from several nearby Third Level Institutions.
+The event will be promoted primarily through the Firm's social media platforms and website.
