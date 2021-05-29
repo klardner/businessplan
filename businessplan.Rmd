@@ -75,6 +75,12 @@ meta() %>%
 
 # Overview of the Firm {.tabset}
 
+# tHIS IS A 
+
+-   BULLET OP
+
+-   
+
 ## Mission Statement
 
 > At ELHQ Solicitors, we aim to provide the highest standard of legal advice and legal services to our clients, reflective of their commercial situation and their specific needs, in a timely manner and at a competitive rate that is fair to both our clients and our firm.
@@ -183,6 +189,7 @@ An outline of the clauses which will be included in the Partnership Agreement is
 
 <head>
 
+```{=html}
 <style>
 
 
@@ -200,7 +207,7 @@ An outline of the clauses which will be included in the Partnership Agreement is
   float: right;
 }
 </style>
-
+```
 </head>
 
 <body>
@@ -249,16 +256,15 @@ He has also completed seats in Matheson's Construction, Litigation, and Entertai
 
 ### Conor Quane
 
-- Conor Quane graduated with a degree in law from the University of Oxford in 2012, and went on to complete an LLM at Harvard Law School the following year.
+-   Conor Quane graduated with a degree in law from the University of Oxford in 2012, and went on to complete an LLM at Harvard Law School the following year.
 
-- After a two year spell volunteering in a number of refugee camps around the globe, Conor returned to Ireland permanently in 2015 to begin a traineeship with Arthur Cox LLP. 
+-   After a two year spell volunteering in a number of refugee camps around the globe, Conor returned to Ireland permanently in 2015 to begin a traineeship with Arthur Cox LLP.
 
-- He was admitted to the roll of solicitors in 2017.
+-   He was admitted to the roll of solicitors in 2017.
 
-- Since then, Conor has advised extensively on domestic and international M&A and financing transactions.
+-   Since then, Conor has advised extensively on domestic and international M&A and financing transactions.
 
-- His clients have included a large number of major multinational companies and state authorities. 
-
+-   His clients have included a large number of major multinational companies and state authorities.
 
 ### Kieran Lardner
 
@@ -394,7 +400,7 @@ Safe Wire Limited has previously worked with several law firms who also used Leg
 The Partners in ELHQ, having explored several options for a case management system opted for Legal Partner as it is ideally suited for commercial law firms in its makeup and it also provides a three month trial version of the software, which will save the firm [€XXX] in Year 1.
 Therefore, in the first year ELHQ will pay €XXX for the use of Legal Partner and €XXX per annum thereafter.
 
-## Client Management System {.tabset}
+## Client Management System
 
 The firm has developed an application in house to help keep track of key information about each of it's client's.
 We believe this will improve productivity across the firm and ultimately deliver a more cost-efficient and effective service to our clients.
@@ -633,176 +639,241 @@ A detailed review of each of the files is set out in Appendix 6.
 
 ## Overview
 
-Following extensive consultations with accountants and financial advisers specialising in the legal industry, the Partners have agreed on the following financial projections for the first 24 months of trading. Year 1 will run from 1 February 2021 to 31 January 2022, and Year 2 will run from 1 February 2022 to 31 January 2023. 
+Following extensive consultations with accountants and financial advisers specialising in the legal industry, the Partners have agreed on the following financial projections for the first 24 months of trading.
+Year 1 will run from 1 February 2021 to 31 January 2022, and Year 2 will run from 1 February 2022 to 31 January 2023.
 
-In light of the ongoing global economic volatility caused by COVID-19 pandemic, and considering the many uncertainties in establishing a new business, the Partners have prepared the financial projections on a conservative basis. The Partners are collectively committed to keeping expenditure to minimum for the first two years of trading, and until profit levels have stabilised. The Partners have agreed also to hold a monthly meeting to assess the financial performance of the firm and address any emerging issues. 
+In light of the ongoing global economic volatility caused by COVID-19 pandemic, and considering the many uncertainties in establishing a new business, the Partners have prepared the financial projections on a conservative basis.
+The Partners are collectively committed to keeping expenditure to minimum for the first two years of trading, and until profit levels have stabilised.
+The Partners have agreed also to hold a monthly meeting to assess the financial performance of the firm and address any emerging issues.
 
-In line with current trends for corporate law firms, clients will generally be billed on a monthly basis, except where agreed otherwise. This should help to regularize income for the Firm during the first few years of its existence.
+In line with current trends for corporate law firms, clients will generally be billed on a monthly basis, except where agreed otherwise.
+This should help to regularize income for the Firm during the first few years of its existence.
 
-Full cash flow projections are set out in Appendix 5, and the main items are discussed below. 
+Full cash flow projections are set out in Appendix 5, and the main items are discussed below.
+
+## Cash Flow Projections
+
+```{r, echo = FALSE, out.width = "100%", error = FALSE, warning = FALSE, message = FALSE}
+
+# library(dplyr)
+# library(gt)
+# 
+# cashflow2 <- read.csv(file = "cashflownew.csv")
+# 
+# 
+# cashtest <- readRDS("cashflow2.rds")
+# 
+# 
+# 
+# View(cashflow2)
+# colnames(cashflow2)
+# 
+# colnames(cashflow2)[1] <- "cost"
+# 
+# cashflow2 %>% 
+#   gt(groupname_col = "Category") %>% 
+#   cols_label(
+#     cost = "",
+#     Category = ""
+#   ) %>% 
+#   tab_style(
+#     style = cell_borders(sides = "bottom", color = "black", weight = px(3)),
+#     locations = cells_column_labels(everything())
+#   ) %>% 
+#   tab_style(
+#     style = cell_borders(sides = "left", color = "black", weight = px(3)),
+#     locations = cells_column_labels(columns = vars(Total))
+#   ) %>% 
+#   tab_header(
+#     title = "ELHQ - Cash Flow Projections",
+#     subtitle = "Year 2"
+#     ) %>%
+#   tab_style(
+#     style = cell_text(color = "black", weight = "bold", align = "left"),
+#     locations = cells_title("title")
+#   ) %>% 
+#   tab_style(
+#     style = cell_text(align = "left"),
+#     locations = cells_title("subtitle")
+#   ) %>% 
+#   tab_style(
+#     style = list(
+#       cell_fill("black"),
+#       cell_text(color = "white", weight = "bold")
+#       ),
+#     locations = cells_row_groups()
+#   ) 
+#   tab_style(
+#     style = cell_text(color = "blue", weight = "bold"),
+#     locations = cells_body(
+#       columns = vars(Change),
+#       rows = Change >= 0
+#     )
+#   )
+# 
+# 
+# 	# tab_options(
+# 	# table.width = px(500),
+# 	# table.background.color = "beige",
+# 	# column_labels.font.size = 12,
+# 	# column_labels.font.weight = 'bold',
+# 	# column_labels.background.color = "#585d63",
+# 	# row_group.font.weight = 'bold',
+# 	# row_group.background.color = "#E5E1D8",
+# 	# table.font.size = 10,
+# 	# heading.title.font.size = 20,
+# 	# heading.subtitle.font.size = 12.5,
+# 	# table.font.names = "Consolas",
+# 	# data_row.padding = px(1),
+# 	# ) %>% 
+# 	# cols_width(1 ~ px(45)) %>% 
+# 	# cols_width(2 ~ px(105)) %>% 
+# 	# cols_width(3 ~ px(80)) %>% 
+# 	# cols_width(4 ~ px(120)) %>% 
+# 	# cols_width(5 ~ px(150)) %>% 
+# 	# text_transform(
+# 	# locations = cells_body(vars(pic)),
+# 	# fn = function(x) {
+# 	# map_chr(x, ~ local_image(
+# 	# filename = paste0(.x, ".png"),
+# 	# height = 50))
+# 	# }
+# 	# )
+
+```
+
+```{r, eval = FALSE, echo = FALSE}
+library(dplyr)
+
+year_1 <- read.csv("year1.csv")
+colnames(year_1)[1] <- "Type"
+
+year_1$Type <- factor(year_1$Type)
+year_1$Group <- factor(year_1$Group)
+year_1$Category <- factor(year_1$Category)
+
+
+year_2 <- readRDS("year1_firstbackup.rds")
+year_1_new <- year_1 %>%
+  mutate(across(where(is.character), as.numeric))
+
+
+
+
+
+```
+
+```{r, echo = FALSE, eval = FALSE}
+
+
+
+test <- data.frame(y = c(-500,-1000,700,800,400),
+                   group = c("Set up Costs" ,"Ongoing Expenditure", "Receipts","Ongoing Expenditure", "Receipts"),
+                   x = c("negative","negative","negative","negative","positive"),
+                   year = c(1,1,1,2,2))
+
+library(ggplot2)
+
+test %>% 
+  filter(year == 1) %>% 
+ggplot(aes(x = x,y = y, fill = group)) + 
+  geom_bar(stat = "identity")+
+  coord_flip()
+```
+
+```{r, echo = FALSE, eval = FALSE}
+#add your values here
+
+```
 
 ## Incomings
 
 ### Funding
 
-The Firm’s initial funding will be comprised of capital contributions from the Partners supplemented with external financing. The Partners chose Big Bank plc as Firm’s proposed bank due to its competitive lending rates and wide range of supports for start-ups and SMEs. 
+The Firm's initial funding will be comprised of capital contributions from the Partners supplemented with external financing.
+The Partners chose Big Bank plc as Firm's proposed bank due to its competitive lending rates and wide range of supports for start-ups and SMEs.
 
-### Capital Contributions 
+#### Capital Contributions
 
-The Partners have agreed to contribute €30,000 each to the Firm, amounting to €120,000 in total. Each Partner will take a 25% stake in the firm. The contributions will be funded entirely from the personal savings of each Partner.
+The Partners have agreed to contribute €30,000 each to the Firm, amounting to €120,000 in total.
+Each Partner will take a 25% stake in the firm.
+The contributions will be funded entirely from the personal savings of each Partner.
 
-### Debt
+#### Debt
 
-#### Business Start-Up Package
+To ensure sufficient funds are available to meet all start-up costs, and to ensure a healthy level of working capital can be maintained throughout the first year of trading, a term loan of €40,000 has been agreed with Big Bank plc.
+The loan is repayable over 3 years, at a fixed rate of 6.95%.
+Monthly instalments are set at €1200.
+The loan is unsecured.
 
-The Partners decided to avail of the [Bank Package] (the "**Package**").
-The key features of the Package include free current account maintenance and transactions fees for the first two years and a Business Debit Card for [Firm].
-This current account will be used to pay the employees.
+In addition, to protect against any unforeseen cash flow shortfalls, Big Bank plc has agreed to provide an overdraft facility to the Firm, up to an amount of €15,000.
+An interest rate of 8% will apply to any sums borrowed under this facility.
+It is not intended that this facility will be utilised; however, the Partners believe it is prudent to have such funds available for contingencies.
 
-#### Loan
+### Fee Income
 
-Following an examination of the projected cash outflows, it was evident that [Firm] would require additional funding to supplement the capital contribution.
-The Partners considered the level of debt that [Firm] should undertake given the economic uncertainty at this time.
-The Partners decided that taking out a smaller loan would ensure that [Firm] would be able to meet each loan repayment.
+The Partners anticipate a total fee income of €298,340 in Year 1.
 
-In light of those considerations, the branch manager in [Bank] offered [Firm] a loan of €50,000 which the Partners are prepared to accept.
-This loan meets the threshold to qualify for fixed rates instead of a variable rates which offers greater certainty for the financial projections:
+Fees will be based on an initial hourly rate of €250.
+This is a highly competitive rate for solicitors operating in this sector of the Irish legal market, with a similar level of expertise and experience.
+The first invoices will issue in the opening month of trading, and first payments are expected in the second month.
 
--   A €50,000 loan with a fixed interest rate of 6.95% APR repayable in monthly instalments of €988.00 over 5 years; and
+Operating at full capacity, billing 7 hours each per business day, this hourly rate results in monthly revenue per partner of €35,000.
+The Partners expect that the firm can achieve 15% capacity in its first month of trading (equating to fee income of €5250 per partner), with fee income increasing by 5% per month thereafter for the first two years of trading.
+This estimate is made on a conservative basis -- nonetheless, this level of income will be sufficient to result in a positive net cash flow for the first two years, with the support of the capital contributions and loan facilities in place.
 
--   The term of the loan will begin on 1 January 2021.
-    Payments will occur on the 15th day of each month, with the final repayment occurring on 15 December 2025.
+It is expected that total fee income will grow to €571,668 in Year 2.
 
-#### Overdraft Facility
-
-[Firm] have also secured an overdraft facility of €25,000 with a variable interest rate of 7.85%.
-This interest rate means the total cost of credit for [Firm] for an overdraft of €25,000 would be €2,034.60. 
-
-The Partners are aware that the costs associated with this facility are expensive and do not intend to use it for the day-to-day running.
-However, the Partners agreed that this facility offers extra support and flexibility in relation to cash shortfalls.
-
-### Fee Incomings
-
-It is anticipated that [Firm] will receive a total fee income of €476,666.66 in Year 1 (10 billable hours x 5 partners x 52 weeks x €200 = €520,000 minus the first month of no fees = €476,666.66).
-
-The clients will be charged on an hourly basis at a rate of €200 an hour.
-This is a competitive rate taking into account the relevant levels of experience of the Partners and research conducted on fee structures of similar law firms.
-
-It is agreed that in Year 1 each Partner will aim to bill 10 hours a week.
-The Partners believe that this is achievable and expect to surpass that target with the clients that they are bringing into [Firm].
-The Partners anticipate that they will bring in new clients into [Firm] toward the end of Year 1 when a resurgence in economic activity is expected.
-
-[Firm] anticipates further growth in the amount of fee income from the period of 1 January 2022 to 31 December 2022 once [Firm]'s brand has developed.
+The Partners will closely monitor firm performance and market conditions at the monthly financial meetings, and will consider changes to the hourly rates if deemed necessary.
 
 ## Outgoings
 
 ### Capital Expenditure
 
-#### Office Equipment and Furnishings
+The Partners have obtained quotes for all furnishings, IT systems and other items necessary to establish its office at 1 Percy Place, Dublin 2, Dublin.
+This includes legal and office software, IT equipment for the four partners and two secretaries, and sufficient office furniture for staff and clients.
 
-We estimate that the cost of fully furnishing our newly acquired premises at [Office Address] will be €10,400.
+These start up-costs are anticipated to total €18,450, and are more particularly set out in the full Cash Flow Projections at Appendix 5.
 
-#### Information Technology
-
-The initial capital cost of setting up the information technology system of the business, including the practice management system will be €20,000.
-This will be paid in monthly instalments for the first year of trading.
-The Partners have opted for a system that will operate fully remotely and all employees have the ability to work from home.
-Please note that information technology will remain an ongoing current expense and is detailed further below.
-
-#### DX System
-
-The cost of setting up the DX system will be €3,300.
-
-### Current Expenditure
-
-#### Rent
-
-The Partners have signed a short term letting agreement for a lease of the premises at [Office Address].
-The rent payable is €1,665 per month.
+### Current Expenditure {.tabset}
 
 #### Drawings
 
-Each Partner will be entitled to drawings equaling an annual salary of €35,000 per annum.
-This will amount to a monthly cost to the business of €14,583.33.
-The Partners have agreed that such drawings will be subject to review if the cash flow demands of the business so require.
+The Partners have agreed to take drawings of €60,000 each for Year 1, increasing to €84,000 in Year 2.
+This will be payable monthly.
+
+This level of drawings is sustainable within the conservative cash flow projections as set out at Appendix 5, and will maintain a positive net cash flow.
+However, firm performance and market conditions will be closely monitored and drawings may be reduced at any time if required.
 
 #### Salaries
 
-A secretary / receptionist will be recruited and a basic salary of €30,000 per annum will be payable to him/her.
-The job specifications for this role are set out in paragraph 8.1.1.
+The Partners intend to hire two staff members to carry out secretarial and bookkeeping duties.
+The successful applicants will be offered a starting salary of €27,000 per annum.
 
-#### Tax {.tabset}
+#### Tax
 
-##### Income Tax (self-assessment)
+The Firm will be make all required filings and payments for (i) PAYE and PRSI, in respect of its employees, and; (ii) VAT, in respect of all professional services provided to clients.
 
 As the Partners are self-employed, they will be required to file income tax returns and pay income tax under the self-assessment system.
-On a preliminary basis, such tax is payable annually on 31 October.
-Each partner will attend to their individual filing requirements with the Revenue Commissioners.
-
-##### Pay As You Earn (PAYE)
-
-The firm will also be required to file income tax returns and make the required deductions (income tax and universal social charge) in respect of its employees.
-
-##### Pay Related Social Insurance (PRSI)
-
-The firm will also be required to process the employees' PRSI contribution and to make an employer's PRSI payment on behalf of each employee to the Revenue Commissioners.
-
-##### Value Added Tax (VAT)
-
-the firm will also be required to register for VAT with the Revenue Commissioners.
-This will be done by submitting a form TR1 for registration.
-The current threshold for suppliers of services is €37,500 and the applicable rate of VAT is 23%.
-The applicable rate of VAT will be charged to clients in respect of the professional services billed by the firm.
-The business will be able to offset its VAT liability against VAT incurred on business related purchases.
-The firm's accountants will be responsible for making the appropriate VAT returns to the Revenue Commissioners on a bi-monthly basis.
-
-#### Practising Certificates
-
-The Partners will renew their practising certificates for 2021, at a cost of €2,400 per Partner (€12,000 in aggregate).
+Each Partner has agreed to attend to his own filing requirements with the Revenue Commissioners.
 
 #### Insurance
 
-The firm will be required to take out the following insurance policies:
+The Partners have obtained quotes for the following insurance policies from its insurer, the premiums for which amount to €20,900 annually:
 
-1.  Professional Indemnity Insurance
+-   Professional Indemnity Insurance
+-   Public Liability Insurance
+-   Employers' Liability Insurance
+-   Partnership Insurance
 
-    -   The firm has received a quote from FBD Insurance for a policy providing cover of up to €1,500,000. The premiums payable each month will be approximately €1,583.00.
+#### Rent and Miscellaneous Expenses
 
-2.  Employers/Public Liability Insurance
+The Partners have entered into a five-year term lease of premises at 1 Percy Place, Dublin 2, Dublin .
+The rent payable is €3250 per month.
+The Partners have received quotes for electricity, broadband, waste collection and other office maintenance costs.
 
-    -   The firm has received a quote from Aviva for a policy providing cover of up to €500,000. The premiums payable each month will be approximately €125.00.
-
-#### Marketing
-
-The firm has set out a detailed plan in relation to its medium and long term marketing strategy, as set out in Chapter 6.
-The firm will set aside a budget of approximately €26,000 to execute this plan.
-
-#### Accountant/Financial Services
-
-The Partners have decided to retain the services of a firm of accountants to assist with the management and reconciliation of [Firm]'s office and client accounts.
-The accountants will also provide miscellaneous assistance in relation to the financial management of the business.
-The accountants will also prepare profit and loss accounts and balance sheet financial statements for the business on an annual basis.
-[Firm] will pay a monthly retainer of €2,500 to the accountant.
-A further €4,000 will be payable in December 2021 for the preparation of the financial statements.
-
-#### Electricity and Heat
-
-The estimated costs of heat and electricity for the premises will be €300 per month.
-
-#### Telephone and Broadband
-
-The initial 12 month contract with Vodafone will have monthly payments of €350 per month.
-
-#### Postage/DX
-
-Payments will be approximately €120 per month once the firm has commenced trading.
-
-#### Subscriptions
-
-Each partner will have access to Search4less.com for an annual subscription fee of €175.
-This provides each user with unlimited access to CRO filings and allows these documents to be downloaded free of charge.
-In addition to this, there will be miscellaneous downloads from the Property Registration Authority and other websites.
-The estimated monthly cost of this will be €100 per month.
+In addition, the Partners have budgeted for various other items necessary for the functioning and expansion of the Firm, including marketing, client entertainment, charitable donations and practicing certificates.
+All such items are included within the full cash flow projections at Appendix 5.
 
 ## Summary
 
@@ -896,8 +967,6 @@ p3 <- ggplot(mapping = aes(x = 0:1, y = 1)) +
 finance_anim
 
 ```
-
-
 
 ```{r summary plots 2, eval = FALSE, echo = FALSE}
 # library(gridExtra)
