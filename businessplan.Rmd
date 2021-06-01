@@ -14,7 +14,7 @@ output:
 
 This business plan introduces ELHQ Solicitors and sets out ELHQ Solicitors purpose, vision and means of operation.
 
-[Firm] will have its registered office at 1 Percy Place, Dublin 2, Dublin and will open and operate from 1 January 2022.
+ELHQ will have its registered office at 1 Percy Place, Dublin 2, Dublin and will open and operate from 1 January 2022.
 The founding partners are Eddie Hynes, Conor Quane, Kieran Lardner, and Samuel Elliott (each a **"Partner"** and together the **"Partners"**).
 
 We aim to establish ELHQ Solicitors as a dynamic, innovative law firm which will target companies and other commercial bodies (eg, accountancy firms, professional services firms, and funds) operating in and through Ireland.
@@ -36,13 +36,13 @@ ELHQ Solicitors will be funded by capital contribution as well as a loan procure
 Given ELHQ Solicitors' target clientele, it will provide competitive fees facilitated by the use of various innovative legal tools, including modern software platforms and legal AI.
 
 The Partners have decided [to / not to] purchase [files].
-The majority of the files fall outside the scope of practice of [Firm] and contain a number of ethical and professional conduct issues.
+The majority of the files fall outside the scope of practice of ELHQ and contain a number of ethical and professional conduct issues.
 
 <b>[category1]{style="color:#e41a1c;"} , [category2]{style="color:#377eb8;"} , [category3]{style="color:#4daf4a;"} & [category4]{style="color:#e7298a;"}</b>
 
 ## About
 
-Please see our [Website](ronan&co.com) for more info
+Please see our [Website](elhq.ie) for more info
 
 Please look at this **bold** text
 
@@ -74,12 +74,6 @@ meta() %>%
 ```
 
 # Overview of the Firm {.tabset}
-
-# tHIS IS A 
-
--   BULLET OP
-
--   
 
 ## Mission Statement
 
@@ -139,7 +133,7 @@ ELHQ Solicitors' targets are:
 
 ## Vendor Firm
 
-Having analysed the files of [Vendor Firm], [Firm] have decided [to / not to] purchase the files.
+Having analysed the files of [Vendor Firm], ELHQ have decided [to / not to] purchase the files.
 [Rationale for decision].
 
 An in-depth analysis of these files is discussed at paragraph
@@ -342,17 +336,10 @@ edge [color = 'DeepSkyBlue',
 
 ### The Location
 
-ELHQ Solicitors has decided to lease an office space in Dublin 2 for a variety of reasons.
-As previously discussed, situating the office in the heart of Dublin City will provide the most convenient access to aspiring startup businesses as well as international clients who are looking to establish themselves in Dublin.
-An office space in Dublin City Centre will also provide the Firm with access to the Four Courts and is well-connected to public transport which will allow for ease of access for staff and clients alike.
-Dublin 2 is perfectly situated in terms of business support services, such as accounting firms and auditors.
+ELHQ Solicitors  has decided to lease an office space at 1 Percy Place, Dublin 2 for a variety of reasons. As previously discussed, situating the office in the heart of Dublin City  will provide the most convenient access to aspiring startup businesses as well as international clients who are looking to establish themselves in Dublin. An office space in Dublin City Centre will also provide the Firm with access to the Four Courts and is well-connected to public transport which will allow for ease of access for staff and clients alike. Dublin 2 is perfectly situated in terms of business support services, such as accounting firms and auditors. 
 
-ELHQ Solicitors has decided to lease a sixth floor office at Watkins House, Hight Street, Dublin 2..
-Conor Quane, Partner, contacted the commercial leasing department at GSP Lettings in search of a suitable office space.
-GSP Lettings provided a verbal quotation for an office on the sixth floor of Watkins House for an annual fee of €21,600 (exclusive of utility bills), resulting in a monthly expense of €1,800.
-Despite the requisite amount being slightly above the Partner's anticipated budget for office letting, it was agreed to lease this office space as there were multiple advantages of doing so.
+ELHQ Solicitors has decided to enter into a five-year term lease of premises of 1 Percy Place, Dublin 2.  Conor Quane, Partner, contacted the commercial leasing department at *GSP Lettings* in search of a suitable office space. *GSP Lettings* provided a  quotation for an office situated at 1 Percy Place for an annual fee of €39,000 (exclusive of utility bills), resulting in a monthly expense of €3,250. Despite the requisite amount being slightly above the Partner’s anticipated budget for office letting, it was agreed to lease this office space as there were multiple advantages of doing so.       
 
-[ ELHQ Solicitors has agreed to lease the office for an initial period of 18 months with an option to extend for a further 18 months thereafter.
 
 ### The Space
 
@@ -363,42 +350,26 @@ On the ground floor of Watkins House, there is another reception area that is sh
 
 ### Equipment
 
-The office is fully equipped with desks, chairs, furniture and filing space.
-Conor Quane has been designated as the Partner responsible for office management.
-ELHQ has opened an account with Premier Stationery, an office supplies company, who will supply the Firm with all its required stationery and office equipment.
-Premier Stationery have also been contracted to provide and install six telephone units across the office space.
+The office is fully equipped with desks, chairs, furniture and filing space.  Conor Quane  has been designated as the Partner responsible for office management.  ELHQ has opened an account with *Premier Stationery*, an office supplies company, who will supply the Firm with all its required stationery and office equipment.   
 
-As regards the space itself, there are two offices which comfortably seat two people each.
-Each office has two adjustable desks, two swivel chairs and four filing cabinets.
-These filing cabinets are highly secure and ideally suitable for the storage of Deeds, security and title documents and other highly classified documents.
+As regards the space itself, there are two offices which comfortably seat two people each. Each office has two adjustable desks, two swivel chairs and four filing cabinets. These filing cabinets are highly secure and ideally  suitable for the storage of Deeds, security and title documents and other highly classified documents. 
 
-In the Boardroom there is a large table with eight chairs and the room has floor to ceiling windows for maximum natural light exposure.
-The private meeting room has a round table ideal for client consultations and a large rectangular window which looks out over St Stephen's Green.
+In the Boardroom there is a large table with eight chairs and the room  has floor to ceiling windows for maximum natural light exposure. The private meeting room has a round table ideal for client consultations and a large rectangular window which looks out over St Stephen’s Green. 
 
 The Partners also will purchase stackable chairs for in-house CPD lectures and other social in-office events.
+
 
 ## Technology Requirements {.tabset}
 
 ### Software and Hardware
 
-The office at Watkins House, High Street, Dublin 2 is fully connected to high-speed broadband and telephone lines and so there is no expense involved for ELHQ in this regard.
-ELHQ has engaged with Safe Wire Limited who will be responsible for all of the Firm's IT requirements.
-ELHQ intend on signing a Services Agreement with Safe Wire Limited in respect of the Firm's entire IT infrastructure.
-Safe Wire Limited have agreed to provide all the required services required by ELHQ including network security, required software, product-system integration and general IT support and maintenance.
-This will cost ELHQ an estimated [€XXXXX] per annum.
+The office at 1 Percy Place , Dublin 2  is fully connected to high-speed broadband and telephone lines and so there is no expense involved for ELHQ in this regard.  ELHQ has engaged with *Safe Wire Limited* who will be responsible for all of the Firm’s IT requirements. ELHQ intend on signing a Services Agreement with *Safe Wire Limited*  in respect of the Firm’s entire IT infrastructure.   *Safe Wire Limited*  have agreed to provide all the required services required by ELHQ including network security, required software, product-system integration and general IT support and maintenance.  This will cost ELHQ  an estimated  €9,750 per annum. 
 
-Covid-19 has highlighted the necessity to work from home efficiently and flexibly.
-With this in mind, the Partners will each receive a laptop that will allow the Partners to work remotely and, when needed, from home so that ELHQ will always be best placed to properly serve our clients regardless of any unforeseen circumstances.
-The Firm has decided to purchase four Dell laptops at a price of €XXX each (€XXX overall).
-The Firm has also decided to purchase four desktop computer units for the use of future support staff at a cost of €XXX each (€xxx overall).
-As part of its Service Agreement, Safe Wire Limited will be responsible for setting up and maintaining these computers.
+Covid-19 has highlighted the necessity to work from home efficiently and flexibly.  With this in mind, the Partners will each receive a laptop that will allow the Partners to work remotely and, when needed, from home so that ELHQ will always be best placed to properly serve our clients regardless of any unforeseen circumstances.  The Firm has decided to purchase four  Dell laptops at a price of €459 each (€1,836 overall).  The Firm has also decided to purchase four  desktop computer units for the use of future support staff at a cost of €300 each (€1,200 overall). As part of its Service Agreement, *Safe Wire Limited*  will be responsible for setting up and maintaining these computers.
 
 ### Case Management System
 
-[Firm] ELHQ Solicitors has decided to use Legal Partner as its case management software.
-Safe Wire Limited has previously worked with several law firms who also used Legal Partner and therefore Safe Wire are well versed in this particular case management system.
-The Partners in ELHQ, having explored several options for a case management system opted for Legal Partner as it is ideally suited for commercial law firms in its makeup and it also provides a three month trial version of the software, which will save the firm [€XXX] in Year 1.
-Therefore, in the first year ELHQ will pay €XXX for the use of Legal Partner and €XXX per annum thereafter.
+ELHQ Solicitors has decided to use *Legal Partner*  as its case management software. *Safe Wire Limited* has previously worked with several law firms who also used *Legal Partner* and therefore *Safe Wire* are well versed in this particular case management system.  The Partners in ELHQ, having explored several options for a case management system and have opted for *Legal Partner* as it is ideally suited for commercial law firms in its makeup and it also  provides a three month trial version of the software, which will save the firm €2,000 in Year 1. Therefore, in the first year ELHQ  will pay €6,000 for the use of Legal Partner  and €8,000 per annum thereafter. 
 
 ## Client Management System
 
@@ -444,14 +415,14 @@ document generator maybe?
 ### Recruitment
 
 It is expected that initially recruitment will be kept to a minimum.
-However, as [Firm] develops, consideration will be given to expanding support staff and fee earners.
+However, as ELHQ develops, consideration will be given to expanding support staff and fee earners.
 In line with our core values, our recruitment process will focus on attracting diverse, talented and motivated candidates.
 
-[Firm] has allocated a number of roles to our founding Partners who have corresponding qualifications suitable to those positions.
-Where required, [Firm] will fund appropriate courses to assist those Partners and ensure the welfare of our employees.
+ELHQ has allocated a number of roles to our founding Partners who have corresponding qualifications suitable to those positions.
+Where required, ELHQ will fund appropriate courses to assist those Partners and ensure the welfare of our employees.
 
-[Firm] plans to employ one legal secretary and bookkeeper initially, details of which are set out at 8.1.1 and 8.1.2.
-These positions will be advertised on the law society website (www.lawsociety.ie) and through recruitment websites such as irishjobs.ie.
+ELHQ plans to employ one legal secretary and bookkeeper initially, details of which are set out at 8.1.1 and 8.1.2.
+These positions will be advertised on the [law society website](www.lawsociety.ie) and through recruitment websites such as irishjobs.ie.
 All partners will be consulted and involved in any direct hiring into the firm through the interview process.
 
 #### Legal Secretary / Receptionist
@@ -463,45 +434,44 @@ The term of the contract will be one year with a standard six month probationary
 
 #### Book-keeper
 
-A part-time bookkeeper will be required by [Firm] to maintain the financial records of the firm and assist with payroll and the annual budget.
-[Firm] have decided to outsource the bookkeeping requirements to SME accountants who specialise in bookkeeping and accounting for small and medium businesses.
+A part-time bookkeeper will be required by ELHQ to maintain the financial records of the firm and assist with payroll and the annual budget.
+ELHQ have decided to outsource the bookkeeping requirements to SME accountants who specialise in bookkeeping and accounting for small and medium businesses.
 They offer an initial six-month accountancy service for €294 based on €49 a month.
 Our initial contract with them will be for one year.
 
 #### Company Secretarial
 
-Conor Quane will act as Company Secretary for [Firm].
+Conor Quane will act as Company Secretary for ELHQ.
 Conor Quane holds a certificate in Company Secretarial Law and Practice from the Law Society.
 
 #### Compliance and Data Protection Officer
 
-Kieran Lardner will act as the Data Protection and Compliance Officer for [Firm].Kieran Lardner holds a certificate in Data Protection Practice from the Law Society and CIPP/E and CIPM certifications.
+Kieran Lardner will act as the Data Protection and Compliance Officer for ELHQ. Kieran Lardner holds a certificate in Data Protection Practice from the Law Society and CIPP/E and CIPM certifications.
 
 **KL** - Check what the name of that cert was again.
 Add references to your cert & Conors cert to the partner's profile section at the top.
 
 #### Human Resources Manager
 
-[Partner] will act as the Human Resources Manager.
+Kieran Lardner will act as the Human Resources Manager.
 S/he will be responsible for the recruitment, training and development of all employees and will ensure compliance with the Employment Equality Acts 1988 - 2015.
 
-**Lads** - Who will I stick down for this.
 
 ### Policies and Procedures
 
 Each employee will be provided with a written contract of employment setting out a probationary period of six months.
 It shall be ensured that all employee contracts comply with the Terms of Employment (Information) Acts 1994 to 2014 and the Employment (Miscellaneous Provisions) Act 2018.
 Each employee will also receive the employee handbook which will contain all the core policies and procedures for the firm.
-A full list of all firm policies is set out in Appendix 4.
-[Firm] is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
+A full list of all firm policies is set out in Appendix 4. - **KL COME BACK TO**
+ELHQ is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
 This is especially important in light of the impact of COVID-19.
 Our Human Resources department will strive for fast communication and ensure the business has the ability to communicate to all staff if any policy changes are needed at short notice.
 Our firm employee handbook as well as all training and process manuals will be centrally located on our intranet and appropriate training on these will be provided.
 
 ### Disciplinary Procedure
 
-[Firm] will ensure implementation of its written Disciplinary and Grievances Policy, ensuring fair procedures are followed at all times.
-[Partner] will act as the Complaints Officer and will ensure implementation of the Disciplinary and Grievances Policy within the firm.
+ELHQ will ensure implementation of its written Disciplinary and Grievances Policy, ensuring fair procedures are followed at all times.
+Kieran Lardner will act as the Complaints Officer and will ensure implementation of the Disciplinary and Grievances Policy within the firm.
 His/her role will include the investigation of and response to all employee complaints.
 
 ### Training
@@ -510,7 +480,7 @@ Training will be the ultimate responsibility of the Human Resources Manager.
 S/he will ensure that all employees receive training in matters related to the carrying out of their specific functions within the firm.
 Employee training will take place upon induction and at regular intervals throughout the course of their employment.
 There will be a focus on training for remote working software to ensure all employees have the ability to utilise the firm's telecommuting options.
-[Firm] will also ensure that the CPD plan, as outlined at paragraph 5.8, is carried out.
+ELHQ will also ensure that the CPD plan, as outlined at paragraph 5.8, is carried out.
 We have allocated €2,500 for all training including CPD expenses per annum.
 
 ### Hours of Work
@@ -518,8 +488,8 @@ We have allocated €2,500 for all training including CPD expenses per annum.
 Working hours will generally be 9 am -- 5.30 pm, Monday to Friday.
 However, employees may be required to work outside of these hours from time to time.
 This will be clearly set out in our employee contracts.
-In line with [Firm]'s flexible working policy, we will encourage our staff to use flexible working arrangements to achieve a better balance between work and other priorities.
-[Firm] is committed to agreeing any flexible working arrangements and to promoting an inclusive working environment.
+In line with ELHQ's flexible working policy, we will encourage our staff to use flexible working arrangements to achieve a better balance between work and other priorities.
+ELHQ is committed to agreeing any flexible working arrangements and to promoting an inclusive working environment.
 These arrangement include our flexitime and telecommuting arrangements as set out in the Flexible Working Policy.
 
 ### Leave
@@ -530,14 +500,15 @@ Full details of our sick leave arrangements are set out in our Sickness and Abse
 
 ### Health, Safety and Welfare
 
-[Firm] understands the importance of the duty it has to maintain the health, safety and welfare of it's employees.
-[Firm] recognises, in particular in light of COVID-19 that this is a dynamic obligation and will ensure compliance with the Health, Safety and Welfare at Work Act 2005 as well as any guidance issued by the HSE and Department of Health.
-[Firm] will ensure that [Office Address] maintains an up-to-date Health and Safety Risk Assessment.
-[Partner] will act as the Health and Safety Officer and Office Manager for [Firm].
-[Partner] holds a certificate in occupational health and safety and is fully trained in CPR and AED.
+ELHQ understands the importance of the duty it has to maintain the health, safety and welfare of it's employees.
+ELHQ recognises, in particular in light of COVID-19 that this is a dynamic obligation and will ensure compliance with the Health, Safety and Welfare at Work Act 2005 as well as any guidance issued by the HSE and Department of Health.
+ELHQ will ensure that [Office Address] maintains an up-to-date Health and Safety Risk Assessment.
 
-[Firm] is committed to the welfare of its employees, both physical and mental.
-We plan to promote the wellbeing of our employees by hosting an annual '[Firm] Health and Wellbeing Week' in which we will raise awareness of the firm's Prevention and Management of Work Related Stress Policy'.
+Kieran Lardner will act as the Health and Safety Officer and Office Manager for ELHQ.
+Kieran Lardner holds a certificate in occupational health and safety and is fully trained in CPR and AED.
+
+ELHQ is committed to the welfare of its employees, both physical and mental.
+We plan to promote the wellbeing of our employees by hosting an annual 'ELHQ Health and Wellbeing Week' in which we will raise awareness of the firm's Prevention and Management of Work Related Stress Policy'.
 Employees will have the opportunity to avail of a number of firm supports such as our the 'Bike to Work Scheme' which will be particularly important for workers in the current climate.
 We have also partnered with Iveagh Fitness Club in Dublin 8 to provide a 30% gym membership discount to all employees.
 These will be available following completion of an employee's probationary period.
@@ -547,56 +518,56 @@ In addition we have allocated €1,500 toward social activities throughout the y
 
 Employees will be paid monthly and all pay slips will be issued electronically.
 Partners will commence with a salary of €35,000 to be reviewed after Year 1.
-Employees will also have the opportunity to join [Firm]'s contributory health insurance scheme upon completion of their probationary period.
+Employees will also have the opportunity to join ELHQ's contributory health insurance scheme upon completion of their probationary period.
 
 # Professional Management & Conduct
 
-## Establishing [Firm]
+## Establishing ELHQ
 
-Before commencing practice, [Firm] will be required to complete a Commencement in Practice Form setting out the Partners' experience, professional indemnity insurance details and compliance with the Solicitors Accounts Regulations.
+Before commencing practice, ELHQ will be required to complete a Commencement in Practice Form setting out the Partners' experience, professional indemnity insurance details and compliance with the Solicitors Accounts Regulations.
 This form will then be submitted to the Law Society of Ireland (the "Law Society") Practice Regulation Executive.
 
-Under the Solicitors (Professional Names / Notepaper) Regulations 1996, [Firm] will be required to apply to the Law Society Regulation of Practice Committee for approval to use the name [Firm] Solicitors.
-While '[Firm]' represents a combination of the initials of each of the principals of the Firm, [Firm] will still require Law Society approval to establish using a name other than that of the principals.
+Under the Solicitors (Professional Names / Notepaper) Regulations 1996, ELHQ will be required to apply to the Law Society Regulation of Practice Committee for approval to use the name ELHQ Solicitors.
+While 'ELHQ' represents a combination of the initials of each of the principals of the Firm, ELHQ will still require Law Society approval to establish using a name other than that of the principals.
 
-[Firm] will also provide the Law Society with a copy of its letterhead, a sample of which is provided at Appendix 3.
+ELHQ will also provide the Law Society with a copy of its letterhead, a sample of which is provided at Appendix 3.
 
 ## Designated Compliance Manager
 
-The Partners have agreed that [Partner] will be [Firm]'s designated Compliance Manager responsible for ensuring compliance with the Law Society's regulatory requirements, professional standards and guidance.
+The Partners have agreed that [Partner] will be ELHQ's designated Compliance Manager responsible for ensuring compliance with the Law Society's regulatory requirements, professional standards and guidance.
 
 ## Practising Certificates
 
 Every practising solicitor in Ireland is required to hold a valid practising certificate under the Solicitors Practising Certificate Regulations 2018.
-There is potential criminal liability if [Firm] provides legal advice without a valid practising certificate so it is essential that [Firm] ensures each of the Partners has a valid and up-to-date practising certificate at all times.
+There is potential criminal liability if ELHQ provides legal advice without a valid practising certificate so it is essential that ELHQ ensures each of the Partners has a valid and up-to-date practising certificate at all times.
 
 The Compliance Manager will provide each Partner with the practising certificate renewal form in advance of the submission deadline of 1 February each year.
 It will be each Partner's responsibility to ensure that the forms are correctly completed on time.
 Each Partner currently holds a valid practising certificate up to 31 December 2020.
 
 The estimated price for each practising certificate is approximately €2,400 per partner.
-The estimated total practising certificate fees for [Firm] for the year ending 31 December 2020 is approximately €12,000.
+The estimated total practising certificate fees for ELHQ for the year ending 31 December 2020 is approximately €12,000.
 
 ## Professional Indemnity Insurance
 
 The Solicitors Professional Indemnity Insurance Regulations 2018 provide that all solicitors must have professional indemnity insurance ("PII") cover in place before practising certificates are granted by the Law Society.
 At present the minimum level of PII cover that must be in place is at least €1.5 million per claim.
 
-[Firm] have received a PII quote from [Insurer].
-[Insurer] have offered PII cover to [Firm] at an initial annual cost of €19,000 with a self-insured excess of €20,000.
-[Firm] have decided to accept this offer as [Insurer] are a reputable insurance undertaking and their quote is a reasonable price for a newly established practice.
+ELHQ have received a PII quote from [Insurer].
+[Insurer] have offered PII cover to ELHQ at an initial annual cost of €19,000 with a self-insured excess of €20,000.
+ELHQ have decided to accept this offer as [Insurer] are a reputable insurance undertaking and their quote is a reasonable price for a newly established practice.
 
 ## Anti-Money Laundering
 
-[Firm] recognises its responsibility under the Criminal Justice (Money Laundering and Terrorist Financing) Acts 2010 and 2013 to prevent criminally or illegally obtained monies being disguised as legitimate income.
-[Firm]'s AML Policy includes detailed customer due diligence processes which will be followed for all clients and will only accept instructions where satisfied by the information obtained.
+ELHQ recognises its responsibility under the Criminal Justice (Money Laundering and Terrorist Financing) Acts 2010 and 2013 to prevent criminally or illegally obtained monies being disguised as legitimate income.
+ELHQ's AML Policy includes detailed customer due diligence processes which will be followed for all clients and will only accept instructions where satisfied by the information obtained.
 The Partners will continually satisfy themselves in accordance with the AML Policy and take any action necessary if information comes to light which gives rise to suspicion.
 Appropriate records will be kept and compliance will be continually reviewed by the Partners.
-A list of the policies prepared by [Firm], including its AML Policy, is provided at Appendix 4.
+A list of the policies prepared by ELHQ, including its AML Policy, is provided at Appendix 4.
 
 ## Setting Up and Closing Files
 
-To ensure efficiency and best practice, along with compliance with all legal and ethical obligations, [Firm] will implement an 'Opening Checklist' and 'Closing Checklist' which must be included on each file.
+To ensure efficiency and best practice, along with compliance with all legal and ethical obligations, ELHQ will implement an 'Opening Checklist' and 'Closing Checklist' which must be included on each file.
 These checklists deal with matters such as conflict checks, AML, letters of engagement, data protection, deadlines, critical dates and ensuring that any outstanding matters (such as undertakings) are discharged prior to closing a file.
 These checklists will be thorough and will be regularly reviewed to ensure that any new regulatory requirements are included.
 
@@ -604,7 +575,7 @@ These checklists will be thorough and will be regularly reviewed to ensure that 
 
 The Partners are cognDublinisant of the gravity of non-compliance with undertakings and therefore are implementing a strict process to ensure undertakings are only given when appropriate and necessary.
 In line with the collective decision-making, unanimous approval of the Partners must be obtained before an undertaking is given.
-All undertakings will be entered on the undertaking register maintained by [Firm], which will be reviewed in detail at each monthly Partners' meeting to ensure undertakings are discharged as soon as possible.
+All undertakings will be entered on the undertaking register maintained by ELHQ, which will be reviewed in detail at each monthly Partners' meeting to ensure undertakings are discharged as soon as possible.
 
 ## Continuing Professional Development
 
@@ -618,18 +589,18 @@ The ways that a solicitor may complete their CPD requirements are via group stud
 
 The Partners plan to attend CPD events hosted by the Law Society and other professional bodies.
 This will satisfy the Partners' CPD requirements and will also give the Partners the opportunity to network with other solicitors and any other interested attendees.
-[Firm] also proposes to host a series of one-hour lectures setting out any relevant legal, regulatory and professional developments.
-[Firm] will invite solicitors and other interested professionals to attend these lectures, which will be available both in-person and via remote access, such as video conferencing.
+ELHQ also proposes to host a series of one-hour lectures setting out any relevant legal, regulatory and professional developments.
+ELHQ will invite solicitors and other interested professionals to attend these lectures, which will be available both in-person and via remote access, such as video conferencing.
 
-[Firm] will also host monthly internal group study sessions between the Partners.
-This method of completing CPD is available to [Firm] as there will be more than three people in attendance at each session.
+ELHQ will also host monthly internal group study sessions between the Partners.
+This method of completing CPD is available to ELHQ as there will be more than three people in attendance at each session.
 The Partners have also committed to each writing one article or legal review which will be submitted to interested relevant publications such as the Law Society Gazette or The Parchment.
 
-[Firm] has included the cost of satisfying its CPD requirements in its general training budget as set out in paragraph 8.4.
+ELHQ has included the cost of satisfying its CPD requirements in its general training budget as set out in paragraph 8.4.
 
 ## [Vendor Firm' Files]
 
-The Partners at [Firm] have decided [to / not to] purchase the files of Rhyme & Partners.
+The Partners at ELHQ have decided [to / not to] purchase the files of Rhyme & Partners.
 
 [Rationale for decision]
 
@@ -877,7 +848,7 @@ All such items are included within the full cash flow projections at Appendix 5.
 
 ## Summary
 
-```{r summary plots, warning=FALSE, error=FALSE, fig.width = 12, out.width= "100%", echo = FALSE, message = FALSE}
+```{r summary plots, warning=FALSE, error=FALSE, fig.width = 12, out.width= "100%", echo = FALSE, message = FALSE, eval = FALSE}
 
 library(dplyr)
 
@@ -1017,12 +988,12 @@ The Partners have chosen the name ELHQ Solicitors which represents the surnames 
 It was felt that the name is distinct and memorable and that the name is suggestive of professionalism and teamwork.
 Insofar as each Partner is a valued asset to the business, the name ELHQ Solicitors inherently reflects this.
 
-ELHQ Solicitors will also instruct Logo Design Co to create a logo that will be memorable and reflective of the Firm's values.
+ELHQ Solicitors will also instruct *Logo Design Co* to create a logo that will be memorable and reflective of the Firm's values.
 The logo will be displayed widely on all of the Firm's social media platforms and website as well as on all stationery (including business cards), publications, and correspondence.
 
 ### Office Location
 
-The office of ELHQ Solicitors will be located at Watkins House, High Street, Dublin 2.
+The office of ELHQ Solicitors will be located at 1 Percy Place, High Street, Dublin 2, Dublin.
 After careful consideration the Partners chose this location for three primary reasons.
 
 Firstly, the Partners felt that by situating the office in Dublin City centre, the Firm would be best placed to serve our commercial and corporate clients given that Dublin is something of a hub for ambitious, growing businesses from a national and international standpoint.
@@ -1046,7 +1017,7 @@ ELHQ Solicitorswill have an active online presence, focusing on engagement with 
 
 ##### Website
 
-ELHQ.iewill be acquired.
+ELHQ.ie will be acquired.
 The Firm's website will be designed in such a way that it is easy to navigate as well as being informative.
 Information will be provided about each of the practice areas as well as about each of the Partners, and contact details for each individual Partner will be provided.The website will have an 'Updates' section with regular articles on topical legal issues.
 The Partners commit to producing at least two articles per month which will be shared across all social media platforms.There will also be an option to subscribe for updates, with monthly newsletters and updates sent out to those who register.
@@ -1056,13 +1027,13 @@ The Partners commit to producing at least two articles per month which will be s
 ELHQ Solicitors will have a strong presence across all social media platforms, including LinkedIn, Facebook, Instagram and Twitter,  which will be used to build the brand and to share relevant content.
 The Partners have their own LinkedIn accounts which will be used both to make useful connections and to create a strong online presence for the Firm.
 
-##### Podcast - ELHQ Talks
+##### Podcast - LawPod
 
 ELHQ Solicitors will host a monthly podcast discussing relevant topical legal and commercial issues.
 Guest speakers will be invited, which can include clients and experts in the particular area, to provide a more practical discussion on implications of relevant legal updates to the legal and commercial industry.
 It is hoped that the listeners gained from the podcast will increase awareness of ELHQ Solicitors' work. 
 
-Eddie Hynes, Managing Partner, has a contact who has agreed to set up the website and podcast hosting platforms for [€XXX].
+Eddie Hynes, Managing Partner, has a contact who has agreed to set up the website and podcast hosting platforms for €1,500 at a once off costXXX.
 
 #### Advertising
 
@@ -1077,12 +1048,15 @@ ELHQ is keen to integrate in the community in Dublin City centre and to increase
 The Partners are passionate about the Firm's CSR and hope to develop the Firm's reputation as one which gives back to the community that it is based.
 The Partners have agreed to participate in a variety of charitable events in this respect including:
 
---- Entering a soccer team in the annual five-a-side tournament in Blackhall Place to raise funds for "The Irish Youth Foundation" in support of disadvantaged youths in Ireland.
+-   Entering a soccer team in the annual five-a-side tournament in Blackhall Place to raise funds for "*The Irish Youth Foundation*" in support of disadvantaged youths in Ireland.
 
--   Each Partner to participate in the annual "Calcutta Run", the annual legal fundraiser and to raise funds accordingly.
+-   Each Partner to participate in the annual "*Calcutta Run*", the annual legal fundraiser and to raise funds accordingly.
 
 -   Provide work experience opportunities for Transition Year students who are schooled in the local area.
-    ELHQ Solicitors has allocated a budget of [€XXXX] for sponsorship in Year 1.
+
+-   Converse with several of the Third Level Institutions in Dublin and seek to provide an annual scholarship for a law student that has obtained the highest quality average grade, based on their First Year college studies.
+
+-   ELHQ Solicitors has allocated a budget of €17,500 for sponsorship in Year 1.
 
 #### CPD and Lecturing
 
@@ -1098,3 +1072,160 @@ It is envisaged that Mount Ivy Hotel near the Firm's office will be booked where
 This of course will be pending the easing of Covid-19 restrictions.
 All existing clients of the Partners, any potential clients of the Firm, local businesses and companies will be invited to attend, along with faculty heads from several nearby Third Level Institutions.
 The event will be promoted primarily through the Firm's social media platforms and website.
+
+# Appendices
+
+## Review of Fish & Company Files
+
+### File 1 \| Nemo Homes Limited
+
+We have elected not to purchase this file.
+We are a firm focused on the commercial sector, with four partners specializing in this area.
+None of our staff have experience in conveyancing such that we can ensure the "delivery of legal services in a competent manner" in accordance with Clause 9.1 of the Law Society of Ireland's "A Guide to Good Professional Conduct for Solicitors".
+In addition, by handing a matter which our firm is not qualified to handle, we would potentially be in breach of Clause 3.1.1 of the CCBE Code of Conduct for European Lawyers requiring solicitors "not handle a matter which the lawyer knows or ought to know he or she is not competent to handle, without cooperating with a lawyer who is competent to handle it".
+
+### File 2 \| Delia Cuttle
+
+We have elected not to purchase this file.
+As above, we are a firm focused on the commercial sector, with four partners specializing in this area.
+We have limited experience handling disputes relating to personal injury claims, and would not be able to guarantee the delivery of legal services in a competent matter in this respect.
+This would potentially breach Clause 9.1 of the Law Society of Ireland's "A Guide to Good Professional Conduct for Solicitors" and Clause 3.1.1 of the CCBE Code of Conduct for European Lawyers.
+
+### File 3 \| Abayomi "Dory" Bamgbala
+
+We have elected not to purchase this file.
+As above, we are a firm focused on the commercial sector, with four partners specializing in this area.
+We have limited experience handling asylum claims and appeals, and would not be able to guarantee the delivery of legal services in a competent matter in this respect.
+This would potentially breach Clause 9.1 of the Law Society of Ireland's "A Guide to Good Professional Conduct for Solicitors" and Clause 3.1.1 of the CCBE Code of Conduct for European Lawyers.
+
+### File 4 \| Molly Fish
+
+We have elected not to purchase this file.
+Several issues arise at the outset, even with very limited information this file is one which the firm would seek to avoid.
+From a brief review of the file, the issues which arise are as follows.
+It is unclear whether the will has been drafted by Mr. Fish, the Firm's principal.
+According to the Guide to Good Professional Conduct for Solicitors, when a client intends to bequest a gift under his or her will to the solicitor drafting the will, the solicitor should refuse to act and advise the client to seek independent legal advice.
+There are further notable aspects to this file such as the fact that it appears as though the will was drafted with the intention of the will being an emergency will.
+Insofar as Ms. Fish indicated that she wanted to come back once she had learnt more suggests that this will was drafted in rushed circumstances and that her will was not created while being fully informed.
+Even with these red flags aside, as previously stated, we are a firm focused on the commercial sector, with four partners specializing in this area.
+The Partners have no intention to deal with probate matters.
+ELHQ will not be taking on this file.
+
+### File 5 \| Peadar and Jane Finn
+
+The Partners of ELHQ have elected not to purchase this file.
+An analysis of the file highlight several issues which make the file unattractive for the Firm.
+The matter seems quite urgent as the Bank's motion papers are returnable before the Master in two weeks.
+This fact alone would put ELHQ under pressure and would compensate the Firm's ability to provide a legal service to the standard that the firm is seeking to adhere to.
+Furthermore, the Bank are seeking a sum of approximately €91,000.
+This suggests that the Clients may be in financial difficulty and therefore it might prove difficult to recover fees in this matter.
+Due to the significant urgency and the potential difficulty in recovering fees on this file, the Partners have deemed this file too risky to take on.
+ELHQ will not be purchasing this file.
+
+### File 6 \| Peadar and Jane Finn
+
+Significant ethical issues arise in this matter and therefore the Partners of ELHQ have elected not to purchase this file.
+These are the same clients from File 5 above and it would appear that there is an attempt to make an illegitimate property transfer.
+It is a property transfer by the Clients to the Irish version of the maiden name of the wife.
+Although this is only speculation, it would appear that the Clients are attempting to place their assets out of the reach of their Creditors (the Bank) and this would be viewed as a fraudulent transaction.
+As per section 6.1 of the Law Society's Guide to Professional Conduct for Solicitors, Solicitors should not act where their conduct would be viewed as fraudulent, deceitful or contrary to their position as a solicitor and an officer of the court.
+Due to the ethical issues outlined above, ELHQ will not be purchasing this file.
+
+### File 7 \| Angel Promotions Ltd.
+
+We have elected not to purchase this file.
+There is a prohibition on solicitors providing to unqualified persons rewards for introductions in respect of legal business.
+This prohibition is set out under Section 62 of the Solicitors Act 1954, and any such agreements in contravention of this provision will be void.
+In addition, there are notable concerns in providing monies for referrals in respect of solicitors' obligations to remain independent and to avoid situations of conflict, as outlined in the Rules of Professional Conduct within the third edition of the Law Society's guide to Good Professional Conduct for Solicitors.
+
+### File 8 \| Discus Trading B.V
+
+We have elected not to purchase this file.
+The aforementioned issues in respect of file 7 apply here, and in addition there are a number of issues inherent with the file itself in respect of CDD and AML requirements on solicitors.
+
+From the outset, the entity appears to be a Dutch "besloten vennootschap", but is based in Belize (a high risk jurisdiction per the US Dept of State Money Laundering assessment) and operates in the middle east (which appears to generally have a high level of risk in respect of financial crime, according to a 2020 report by riskscreen.com).
+In addition, the client has indicated that it intends to operate as a charity in Ireland, and has a significant amount of funding readily available to procure legal services.
+
+The 2019 IBA Report ["A Lawyer's Guide to Detecting and Preventing Money Laundering"](https://www.anti-moneylaundering.org/Document/Default.aspx?DocumentUid=3DBCE981-598E-45E6-8723-CC89C89E8086) provides a list of a number of red flags that might indicate money laundering.
+These include operating with opaque structures (eg, a Dutch BV operating in Belize), operating from high risk jurisdictions (eg, Belize and the Middle East), operating as a charity, and consulting lawyers who do not have the requisite expertise to carry out work.
+
+ELHQ Solicitors are obligated to carry out both a Business Risk Assessment and a Customer Risk Assessment when onboarding new clients per Section 10 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018, which amends the Criminal Justice (Money Laundering and Terrorist Financing Act 2010. The 2018 act sets out further prescribed procedural CDD obligations. Given the relatively small size of the firm, and given the lack of a dedicated AML / Compliance function in ELHQ Solicitors at time of formation, the partners have decided that it would be prudent to avoid taking on files with high risk clients until such a time as the business can fully meet its AML requirements without expending a significant time and money to ensure compliance.
+
+
+### File 9 \| Jack and Deirdre Pollock pp Ava Pollock
+
+We have elected not to purchase this file. 
+
+This file involves a personal injury case for both an adult and a minor. In addition to being a minor, the minor is in a vulnerable position as she has moderate Aspergers Syndrome. Due to this, the parents do not want the child to be interviewed. This could pose difficulty, as her testimony would be important to the outcome of the case. 
+
+The Pollocks have received an offer of €750 from the driver. Furthermore, the driver may not have been insured. 
+
+The complications outlined above, combined with the fact that no section 150 notice is on file, has resulted in ELHQ deciding not to purchase this file. 
+
+### File 10 \| Scales Import and Export plc
+
+
+We have elected not to purchase this file.
+
+Significant work has been done to date. However, the Section 150 notice that has been issued did not account for the fact that a key-expert witness is expecting exorbitant fees - €5,000 per day's attendance, expenses and a flat fee in the region of €250,000 if the client wins. Although the action being brought could result in an award worth "in the region of several million euro", the issues with the other files of Fish & Co outweigh the potential benefits of this file. (**KL** - Flesh out )
+
+
+
+# To do
+
+1.  Executive Summary
+
+-   Details of any files purchased from Fish & Co.
+
+2.  Mission Statement
+
+-   Paragraph on Vendor Firm
+
+3.  Marketing
+
+-   Appendix Details for SWOT analysis
+
+
+4. HR
+
+-   Firm policies add in? - **KGPL**
+
+5.  Appendices
+
+-   Cash flow projections, to be inserted
+
+-   Add appendices in - **Kieran**
+
+6.  General
+
+-   Check if cash flow needs to be updated in light of new figures added in today -
+
+7.  Clean-up etc
+
+-   **Important** - Add in Eddie Marketing/Premises/Files updates + Sam Files updates.
+    Finish HR sections. Do files 9-10. - **Kieran**
+
+-   Finish up charts - **Kieran**
+
+-   Add in Photos for Partner Profiles - **Kieran**
+
+-   Clean up formatting etc - **Kieran**
+
+-   Change any square brackets - **Kieran**
+
+-   Add in cross-references or amend the references - **Kieran**
+
+-   See if you can get doc width fixed - **Kieran**
+
+-   **IMPORTANT** - Check word-count of HTML version - **Kieran**
+
+8.  Questions for Group
+
+-   Everyone happy with layout?
+    Any comments on the readability etc?
+
+-   Do I need to add in a chart or headings about who did each section etc? I'm happy to leave it but if people want it added in I can do one up.
+    
+-   Management plan section covered/finished? 
+
+-  **Sam** - I think the act you reference in File 8 may have had an update since? [2021 act](http://www.irishstatutebook.ie/eli/2021/act/3/enacted/en/html) [A&L commentary](https://www.algoodbody.com/insights-publications/new-money-laundering-act-2021)
