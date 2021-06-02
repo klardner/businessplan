@@ -165,17 +165,74 @@ An outline of the clauses which will be included in the Partnership Agreement is
 
 ### Edward Hynes
 
--   Edward Hynes graduated from University College Cork in 2012, having studied Law and French.
+<html>
 
--   Edward then went on to attain a Masters in Asset Management from Queen's University Belfast in 2013.
+<head>
 
--   He completed a training contract with a large international firm, whereby his work focused primarily on mergers and acquisitions and on acting for buyers and sellers across various industry sectors.
+```{=html}
+<style>
 
--   Edward was admitted to the roll of solicitors in 2017.
 
--   Since qualification, Edward has regularly advised on corporate reorganisations, shareholder agreements and other commercial arrangements and contracts including agency/franchise/distribution agreements.
+.img1 {
+  float: right;
+}
 
--   Edward continues to advise a large number of international and Irish-based corporate clients, family-owned businesses and start-ups.
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img3 {
+  float: right;
+}
+</style>
+```
+</head>
+
+<body>
+
+::: {.clearfix}
+<img src="eddie.jpg" alt="Pineapple" class="img2" width="170" height="160"/>
+
+<ul>
+
+<li> 
+
+Edward Hynes graduated from University College Cork in 2012, having studied Law and French.
+</li>
+
+<li>
+
+Edward then went on to attain a Masters in Asset Management from Queen's University Belfast in 2013.
+
+</li>
+
+<li>
+
+Edward was admitted to the roll of solicitors in 2017.
+</li>
+
+<li>
+
+Since qualification, Edward has regularly advised on corporate reorganisations, shareholder agreements and other commercial arrangements and contracts including agency/franchise/distribution agreements.
+
+</li>
+
+<li>
+
+Edward continues to advise a large number of international and Irish-based corporate clients, family-owned businesses and start-ups.
+
+</li>
+
+</ul>
+:::
+
+</body>
+
+</html>
+
+
 
 ### Samuel Elliot
 
@@ -460,9 +517,11 @@ S/he will be responsible for the recruitment, training and development of all em
 ### Policies and Procedures
 
 Each employee will be provided with a written contract of employment setting out a probationary period of six months.
-It shall be ensured that all employee contracts comply with the Terms of Employment (Information) Acts 1994 to 2014 and the Employment (Miscellaneous Provisions) Act 2018.
+It shall be ensured that all employee contracts comply with the [Terms of Employment (Information) Acts 1994 to 2014](http://www.irishstatutebook.ie/eli/1994/act/5/enacted/en/html) and the [Employment (Miscellaneous Provisions) Act 2018](http://www.irishstatutebook.ie/eli/2018/act/38/enacted/en/html).
 Each employee will also receive the employee handbook which will contain all the core policies and procedures for the firm.
+
 A full list of all firm policies is set out in Appendix 4. - **KL COME BACK TO**
+
 ELHQ is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
 This is especially important in light of the impact of COVID-19.
 Our Human Resources department will strive for fast communication and ensure the business has the ability to communicate to all staff if any policy changes are needed at short notice.
@@ -522,81 +581,67 @@ Employees will also have the opportunity to join ELHQ's contributory health insu
 
 # Professional Management & Conduct
 
-## Establishing ELHQ
+## Establishing the Firm
 
-Before commencing practice, ELHQ will be required to complete a Commencement in Practice Form setting out the Partners' experience, professional indemnity insurance details and compliance with the Solicitors Accounts Regulations.
-This form will then be submitted to the Law Society of Ireland (the "Law Society") Practice Regulation Executive.
+Prior to commencing practice, each Partner will be required to submit a Commencement in Practice Form to the Law Society of Ireland (the “Law Society”). This form will set out all relevant details of the Partners’ backgrounds and experience, together with details of the Firm’s professional indemnity insurance and adherence to the [Solicitors Accounts Regulations 2014](http://www.irishstatutebook.ie/eli/2014/si/516/made/en/print).  
 
-Under the Solicitors (Professional Names / Notepaper) Regulations 1996, ELHQ will be required to apply to the Law Society Regulation of Practice Committee for approval to use the name ELHQ Solicitors.
-While 'ELHQ' represents a combination of the initials of each of the principals of the Firm, ELHQ will still require Law Society approval to establish using a name other than that of the principals.
+Pursuant to Regulation 4 of SI No. 178 of 1996 of the [Solicitors (Practice, Conduct and Discipline) Regulations 1996]((http://www.irishstatutebook.ie/eli/1996/si/178/made/en/print)), a firm's name shall consist only of the names, or some of the names, of the solicitors of the firm, and if the firm wishes to adopt a name which takes a different form it must seek approval in writing from the Law Society.  While the proposed name of the Firm (‘ELHQ Solicitors’) represents a combination of the initials of each of the Partners of the Firm, Law Society approval will still be required. The Partners will ensure written approval is in place before commencing practice, and will use an alternative name if necessary, consisting of the names of two partners – “Hynes Lardner Solicitors”.
 
-ELHQ will also provide the Law Society with a copy of its letterhead, a sample of which is provided at Appendix 3.
+The Partners will also provide the Law Society with a copy of the Firm’s letterhead, details of its financial year, details of Partners’ change of firm, and any other information required. The Partners are aware of their obligations and responsibilities under the [Solicitors Accounts Regulations 2014](http://www.irishstatutebook.ie/eli/2014/si/516/made/en/print) also, and will be employing a bookkeeper to ensure these standards are met at all times.
 
-## Designated Compliance Manager
+Following Law Society approval, the Partners will register the business name with the CRO pursuant to the [Register of Names Act 1963 (as amended)](http://www.irishstatutebook.ie/eli/1963/act/30/enacted/en/html).
 
-The Partners have agreed that [Partner] will be ELHQ's designated Compliance Manager responsible for ensuring compliance with the Law Society's regulatory requirements, professional standards and guidance.
+
+
+## Compliance Manager
+
+The Firm is committed to upholding the highest moral, ethical and professional standards in carrying out its business. Our core values of Innovation, Partnership, Entrepreneurship, Respect and Diversity will guide the Firm as it grows. 
+
+The Partners have agreed that Samuel Elliott will be the Firm’s initial designated Compliance Officer. In this role he will take responsibility for ensuring the compliance of all Partners and staff with all Law Society regulatory requirements and professional standards, and all relevant national, European and international laws. He will also seek to ensure the Firm remains aligned with its core values at all times.
+
 
 ## Practising Certificates
 
-Every practising solicitor in Ireland is required to hold a valid practising certificate under the Solicitors Practising Certificate Regulations 2018.
-There is potential criminal liability if ELHQ provides legal advice without a valid practising certificate so it is essential that ELHQ ensures each of the Partners has a valid and up-to-date practising certificate at all times.
+Every solicitor is under an obligation to hold a practising certificate before providing any kind of legal advice or service. The Partners are aware that to offer services without a valid practising certificate will amount to professional misconduct and potential criminal liability. It is therefore essential that the Firm ensures each of the Partners has a valid and up-to-date practising certificate at all times.
 
-The Compliance Manager will provide each Partner with the practising certificate renewal form in advance of the submission deadline of 1 February each year.
-It will be each Partner's responsibility to ensure that the forms are correctly completed on time.
-Each Partner currently holds a valid practising certificate up to 31 December 2020.
+With this in mind, the Compliance Officer will provide each Partner with the practising certificate renewal form in advance of the submission deadline of 1 February each year. It will be each Partner’s responsibility to ensure that his form is submitted properly and on time. Each Partner currently holds a valid practising certificate up to 31 December 2021.  
 
-The estimated price for each practising certificate is approximately €2,400 per partner.
-The estimated total practising certificate fees for ELHQ for the year ending 31 December 2020 is approximately €12,000.
+The estimated fees for each practising certificate currently stand at €2070 per partner. The estimated total practising certificate fees for the Firm for the 
 
 ## Professional Indemnity Insurance
 
-The Solicitors Professional Indemnity Insurance Regulations 2018 provide that all solicitors must have professional indemnity insurance ("PII") cover in place before practising certificates are granted by the Law Society.
-At present the minimum level of PII cover that must be in place is at least €1.5 million per claim.
+Pursuant to the [Solicitors Professional Indemnity Insurance Regulations 2018](http://www.irishstatutebook.ie/eli/2018/si/351/made/en/print), all solicitors must have professional indemnity insurance (“PII”) cover in place before practising certificates will be granted by the Law Society.  At present, the minimum level of PII cover that must be in place is at least €1.5 million for each claim. 
 
-ELHQ have received a PII quote from [Insurer].
-[Insurer] have offered PII cover to ELHQ at an initial annual cost of €19,000 with a self-insured excess of €20,000.
-ELHQ have decided to accept this offer as [Insurer] are a reputable insurance undertaking and their quote is a reasonable price for a newly established practice.
+After consultations with a number of local brokers, the Partners secured PII cover from Big Star Insurance Ltd, for an initial annual premium of €12,000, with a self-insured excess of €13,000. The premium will be paid and the cover in place prior to commencement of business. 
+
 
 ## Anti-Money Laundering
 
-ELHQ recognises its responsibility under the Criminal Justice (Money Laundering and Terrorist Financing) Acts 2010 and 2013 to prevent criminally or illegally obtained monies being disguised as legitimate income.
-ELHQ's AML Policy includes detailed customer due diligence processes which will be followed for all clients and will only accept instructions where satisfied by the information obtained.
-The Partners will continually satisfy themselves in accordance with the AML Policy and take any action necessary if information comes to light which gives rise to suspicion.
-Appropriate records will be kept and compliance will be continually reviewed by the Partners.
-A list of the policies prepared by ELHQ, including its AML Policy, is provided at Appendix 4.
+The Partners are aware of the Firm’s responsibilities under the  Criminal Justice (Money Laundering and
+Terrorist Financing) Acts 2010 to 2018 (as amended) (the **"AML Acts”**). 
 
-## Setting Up and Closing Files
+The Firm has put in place an AML Policy, which details the stringent client due diligence processes which will be followed by the Firm in respect of all clients prior to commencing work. The Firm will only accept client instructions where it is satisfied by the information obtained, and the Partners are committed to taking any action necessary if information comes to light which gives rise to suspicion.
 
-To ensure efficiency and best practice, along with compliance with all legal and ethical obligations, ELHQ will implement an 'Opening Checklist' and 'Closing Checklist' which must be included on each file.
-These checklists deal with matters such as conflict checks, AML, letters of engagement, data protection, deadlines, critical dates and ensuring that any outstanding matters (such as undertakings) are discharged prior to closing a file.
-These checklists will be thorough and will be regularly reviewed to ensure that any new regulatory requirements are included.
+All relevant AML records will be kept securely, and compliance will be continually reviewed and overseen by the Compliance Officer. 
+
+## GDPR
+
+Given the sensitivity of the data that will be held by the Firm, it will have various obligations under GDPR as a Data Controller. The Partners have therefore put in place a Data Protection Policy, and have agreed that as part of his role as Compliance Officer, Samuel Elliott will also ensure the Firm complies at all times with its data protection obligations. The partners will notify any breaches to the Data Commissioner without delay.
 
 ## Undertakings
 
-The Partners are cognDublinisant of the gravity of non-compliance with undertakings and therefore are implementing a strict process to ensure undertakings are only given when appropriate and necessary.
-In line with the collective decision-making, unanimous approval of the Partners must be obtained before an undertaking is given.
-All undertakings will be entered on the undertaking register maintained by ELHQ, which will be reviewed in detail at each monthly Partners' meeting to ensure undertakings are discharged as soon as possible.
+The Partners have agreed that no undertakings will be given by an individual Partner on behalf of the Firm without the prior approval of the Managing Partner, Eddie Hynes, and the Compliance Officer, Samuel Elliott. All undertakings given will be recorded on the register of undertakings maintained by the Firm. The Partners are conscious of the gravity of any failure to comply with an undertaking, and will review the register regularly.
 
 ## Continuing Professional Development
 
-Regulation 4 of the Solicitors (Continuing Professional Development) Regulations 2017 (the "CPD Regulations") imposes an obligation on all solicitors holding practising certificates to undertake continuing professional development ("CPD").
-CPD is defined under the CPD Regulations as education or training to be undertaken by a solicitor relating to law, management and professional development skills or regulatory matters.
-The Law Society has published its CPD Scheme for 2020, which sets out the CPD requirements that apply to each solicitor, a copy of which is included at Appendix 5.
+Pursuant to Regulation 4 of the [Solicitors (Continuing Professional Development) Regulations 2017](http://www.irishstatutebook.ie/eli/2017/si/529/made/en/print) (the **“CPD Regulations”**), there is an obligation on all practicing solicitors to undertake a minimum of 20 hours CPD each year. This must include at least 3 hours on management and professional development skills, and 2 hours on regulatory matters. 
 
-Each Partner will be required to undertake 20 hours of CPD per annum, which includes a minimum of 2 hours of regulatory matters and 3 hours of management and professional development skills.
-As the Partners have all been qualified for three years, they are unable to avail of the exemption available to newly qualified solicitors.
-The ways that a solicitor may complete their CPD requirements are via group study, eLearning and writing relevant material, such as writing for a legal journal or periodical.
+As Compliance Officer, Samuel Elliott will keep the Partners informed of upcoming seminars, conferences, Law Society courses and other CPD opportunities. Each Partner will have responsibility for keeping track of his own outstanding hours, and keeping a record of CPD undertaken. CPD costs have been considered and included in the Firm’s cash flow projections. 
 
-The Partners plan to attend CPD events hosted by the Law Society and other professional bodies.
-This will satisfy the Partners' CPD requirements and will also give the Partners the opportunity to network with other solicitors and any other interested attendees.
-ELHQ also proposes to host a series of one-hour lectures setting out any relevant legal, regulatory and professional developments.
-ELHQ will invite solicitors and other interested professionals to attend these lectures, which will be available both in-person and via remote access, such as video conferencing.
+While much of the training can be undertaken online, the Partners hope to attend events in person when possible following the rollback of Covid-19 restrictions. As well as being a CPD learning opportunity, such events will allow the Partners to network with other legal professionals and will help the firm grow and stay abreast of developments in the sector. 
 
-ELHQ will also host monthly internal group study sessions between the Partners.
-This method of completing CPD is available to ELHQ as there will be more than three people in attendance at each session.
-The Partners have also committed to each writing one article or legal review which will be submitted to interested relevant publications such as the Law Society Gazette or The Parchment.
+In addition, the Firm intends to host a number of live-streamed talks on corporate and M&A law. These will be made available via an online portal and will serve the dual purpose of raising the Firm’s public profile online, and providing CPD hours for the Partners. 
 
-ELHQ has included the cost of satisfying its CPD requirements in its general training budget as set out in paragraph 8.4.
 
 ## [Vendor Firm' Files]
 
@@ -1038,7 +1083,7 @@ Eddie Hynes, Managing Partner, has a contact who has agreed to set up the websit
 #### Advertising
 
 Through social media platforms and the Firm's website the intention is to levy as much free advertising online insofar as is possible but this will be supplemented with various other means of advertising.
-The advertisements for ELHQ Solicitors will adhere strictly to the Solicitors (Advertising) Regulations 2002 and will include the contact details, areas of expertise and logo of the firm.
+The advertisements for ELHQ Solicitors will adhere strictly to the [Solicitors (Advertising) Regulations 2002](http://www.irishstatutebook.ie/eli/2002/si/518/made/en/print) and will include the contact details, areas of expertise and logo of the firm.
 It is envisioned that such advertisements will be placed in the Law Society Gazette, the Sunday Business Post and the business supplement of the Irish Times.
 As a large part of the target audience for the Firm are start-up companies and SMEs, the Firm will also make contact with organisations such as "NewCo Ireland" to potentially provide sponsorship at conventions and seminars.
 
@@ -1081,22 +1126,22 @@ The event will be promoted primarily through the Firm's social media platforms a
 
 We have elected not to purchase this file.
 We are a firm focused on the commercial sector, with four partners specializing in this area.
-None of our staff have experience in conveyancing such that we can ensure the "delivery of legal services in a competent manner" in accordance with Clause 9.1 of the Law Society of Ireland's "A Guide to Good Professional Conduct for Solicitors".
-In addition, by handing a matter which our firm is not qualified to handle, we would potentially be in breach of Clause 3.1.1 of the CCBE Code of Conduct for European Lawyers requiring solicitors "not handle a matter which the lawyer knows or ought to know he or she is not competent to handle, without cooperating with a lawyer who is competent to handle it".
+None of our staff have experience in conveyancing such that we can ensure the "delivery of legal services in a competent manner" in accordance with Clause 9.1 of the Law Society of Ireland's ["A Guide to Good Professional Conduct for Solicitors"](https://www.lawsociety.ie/globalassets/documents/committees/conduct-guide.pdf).
+In addition, by handing a matter which our firm is not qualified to handle, we would potentially be in breach of Clause 3.1.1 of the [CCBE Code of Conduct for European Lawyers](https://www.ccbe.eu/fileadmin/speciality_distribution/public/documents/DEONTOLOGY/DEON_CoC/EN_DEON_CoC.pdf) requiring solicitors "not handle a matter which the lawyer knows or ought to know he or she is not competent to handle, without cooperating with a lawyer who is competent to handle it".
 
 ### File 2 \| Delia Cuttle
 
 We have elected not to purchase this file.
 As above, we are a firm focused on the commercial sector, with four partners specializing in this area.
 We have limited experience handling disputes relating to personal injury claims, and would not be able to guarantee the delivery of legal services in a competent matter in this respect.
-This would potentially breach Clause 9.1 of the Law Society of Ireland's "A Guide to Good Professional Conduct for Solicitors" and Clause 3.1.1 of the CCBE Code of Conduct for European Lawyers.
+This would potentially breach Clause 9.1 of the Law Society of Ireland's ["A Guide to Good Professional Conduct for Solicitors"](https://www.lawsociety.ie/globalassets/documents/committees/conduct-guide.pdf) and Clause 3.1.1 of the [CCBE Code of Conduct for European Lawyers](https://www.ccbe.eu/fileadmin/speciality_distribution/public/documents/DEONTOLOGY/DEON_CoC/EN_DEON_CoC.pdf).
 
 ### File 3 \| Abayomi "Dory" Bamgbala
 
 We have elected not to purchase this file.
 As above, we are a firm focused on the commercial sector, with four partners specializing in this area.
 We have limited experience handling asylum claims and appeals, and would not be able to guarantee the delivery of legal services in a competent matter in this respect.
-This would potentially breach Clause 9.1 of the Law Society of Ireland's "A Guide to Good Professional Conduct for Solicitors" and Clause 3.1.1 of the CCBE Code of Conduct for European Lawyers.
+This would potentially breach Clause 9.1 of the Law Society of Ireland's ["A Guide to Good Professional Conduct for Solicitors"](https://www.lawsociety.ie/globalassets/documents/committees/conduct-guide.pdf) and Clause 3.1.1 of the [CCBE Code of Conduct for European Lawyers](https://www.ccbe.eu/fileadmin/speciality_distribution/public/documents/DEONTOLOGY/DEON_CoC/EN_DEON_CoC.pdf).
 
 ### File 4 \| Molly Fish
 
@@ -1133,23 +1178,17 @@ Due to the ethical issues outlined above, ELHQ will not be purchasing this file.
 
 ### File 7 \| Angel Promotions Ltd.
 
-We have elected not to purchase this file.
-There is a prohibition on solicitors providing to unqualified persons rewards for introductions in respect of legal business.
-This prohibition is set out under Section 62 of the Solicitors Act 1954, and any such agreements in contravention of this provision will be void.
-In addition, there are notable concerns in providing monies for referrals in respect of solicitors' obligations to remain independent and to avoid situations of conflict, as outlined in the Rules of Professional Conduct within the third edition of the Law Society's guide to Good Professional Conduct for Solicitors.
+We have elected not to purchase this file. There is a prohibition on solicitors providing to unqualified persons rewards for introductions in respect of legal business. This prohibition is set out under Section 62 of the [Solicitors Act 1954](http://www.irishstatutebook.ie/eli/1954/act/36/enacted/en/html), and any such agreements in contravention of this provision will be void.  In addition, there are notable concerns in providing monies for referrals in respect of solicitors’ obligations to remain independent and to avoid situations of conflict, as outlined in the Rules of Professional Conduct  within the third edition of the Law Society’s [guide to Good Professional Conduct for Solicitors](https://www.lawsociety.ie/globalassets/documents/committees/conduct-guide.pdf). 
 
 ### File 8 \| Discus Trading B.V
 
-We have elected not to purchase this file.
-The aforementioned issues in respect of file 7 apply here, and in addition there are a number of issues inherent with the file itself in respect of CDD and AML requirements on solicitors.
+We have elected not to purchase this file. The aforementioned issues in respect of file 7 apply here, and in addition there are a number of issues inherent with the file itself in respect of CDD and AML requirements on solicitors. 
 
-From the outset, the entity appears to be a Dutch "besloten vennootschap", but is based in Belize (a high risk jurisdiction per the US Dept of State Money Laundering assessment) and operates in the middle east (which appears to generally have a high level of risk in respect of financial crime, according to a 2020 report by riskscreen.com).
-In addition, the client has indicated that it intends to operate as a charity in Ireland, and has a significant amount of funding readily available to procure legal services.
+From the outset, the entity appears to be a Dutch “besloten vennootschap”, but is based in Belize (a high risk jurisdiction per the US Dept of State Money Laundering assessment) and operates in the middle east (which appears to generally have a high level of risk in respect of financial crime, according to a [2020 report](https://www.riskscreen.com/kyc360/news/financial-crime-worries-rise-in-the-middle-east/) by riskscreen.com). In addition, the client has indicated that it intends to operate as a charity in Ireland, and has a significant amount of funding readily available to procure legal services. 
 
-The 2019 IBA Report ["A Lawyer's Guide to Detecting and Preventing Money Laundering"](https://www.anti-moneylaundering.org/Document/Default.aspx?DocumentUid=3DBCE981-598E-45E6-8723-CC89C89E8086) provides a list of a number of red flags that might indicate money laundering.
-These include operating with opaque structures (eg, a Dutch BV operating in Belize), operating from high risk jurisdictions (eg, Belize and the Middle East), operating as a charity, and consulting lawyers who do not have the requisite expertise to carry out work.
+The 2019 IBA Report ["A Lawyer's Guide to Detecting and Preventing Money Laundering"](https://www.anti-moneylaundering.org/Document/Default.aspx?DocumentUid=3DBCE981-598E-45E6-8723-CC89C89E8086) provides a list of a number of red flags that might indicate money laundering. These include operating with opaque structures (eg, a Dutch BV operating in Belize), operating from high risk jurisdictions (eg, Belize and the Middle East), operating as a charity, and consulting lawyers who do not have the requisite expertise to carry out work.
 
-ELHQ Solicitors are obligated to carry out both a Business Risk Assessment and a Customer Risk Assessment when onboarding new clients per Section 10 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018, which amends the Criminal Justice (Money Laundering and Terrorist Financing Act 2010. The 2018 act sets out further prescribed procedural CDD obligations. Given the relatively small size of the firm, and given the lack of a dedicated AML / Compliance function in ELHQ Solicitors at time of formation, the partners have decided that it would be prudent to avoid taking on files with high risk clients until such a time as the business can fully meet its AML requirements without expending a significant time and money to ensure compliance.
+ELHQ Solicitors are obligated to carry out both a Business Risk Assessment and a Customer Risk Assessment when onboarding new clients per Section 10 of the [Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2018](http://www.irishstatutebook.ie/eli/2018/act/26/enacted/en/html), which amends the [Criminal Justice (Money Laundering and Terrorist Financing Act 2010 (“2010 Act”)](http://www.irishstatutebook.ie/eli/2010/act/6/enacted/en/html). The 2010 Act as amended by the [Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021](http://www.irishstatutebook.ie/eli/2021/act/3/enacted/en/html) sets out further prescribed enhanced CDD obligations where an entity is established or resides in a high-risk third country. Given the relatively small size of the firm, and given the lack of a dedicated AML / Compliance function in ELHQ Solicitors at time of formation, the partners have decided that it would be prudent to avoid taking on files with high risk clients until such a time as the business can fully meet its AML requirements without expending a significant time and money to ensure compliance. 
 
 
 ### File 9 \| Jack and Deirdre Pollock pp Ava Pollock
