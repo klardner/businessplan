@@ -43,40 +43,132 @@ The majority of the files fall outside the scope of practice of ELHQ and contain
 
 ## About
 
+Test button to download cashflow projections as excel file
+
+
+
+```{r, echo = FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflow.pdf",
+  output_name = "Cash Flow Projections",
+  button_label = "Download Cash Flow Projections",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+For an excel copy of our cash flow projections, please see below. 
+
+```{r, echo = FALSE}
+library(downloadthis)
+
+cashtest <- readRDS(paste0("cashflow2",".rds"))
+
+cashtest %>%
+  download_this(
+    output_name = "ELHQ_cashflowprojections",
+    output_extension = ".csv",
+    button_label = "Download data as csv",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
+```
+
+
+
+
 Please see our [Website](elhq.ie) for more info
 
-Please look at this **bold** text
-
-**Insert office blurb below before map picture**
-
-```{r eval = FALSE}
-library(googleway)
 
 
 
+As you can see below the office is very close to the Dart Station 
+
+
+```{r, warning = FALSE, echo = FALSE}
+library(googleway) # load package
+
+
+
+set_key(key = "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA") # register with API
+
+
+map_key <- "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA"
+
+elhq_office <- c(53.337306116946785,-6.239605848032218) # set office location 
+
+elhqmapdata <- data.frame(elhqlat = c("53.337306116946785", "53.339629"), elhqlon = c("-6.239605848032218", "-6.238391")) # Set id markers location for dart & office
+
+# elhqmapdata <- data.frame(elhqlat = "53.337035", elhqlon = "-6.240737", lab = "ELHQ Office")
+
+
+test_map <- google_map(key = map_key, search_box = T, location = elhq_office, zoom = 12)  # make map
+
+
+test_map %>% 
+  add_markers(data = elhqmapdata, lat = "elhqlat", lon = "elhqlon", label = c("ELHQ Office","Dart Station"), title = c("ELHQ Office","Dart Station")) # add id's
+```
+
+
+```{r eval = FALSE, echo = FALSE}
+google_map(key = map_key, search_box = T, location = elhq_office, zoom = 5) %>%  # make map 
+  # add_traffic() %>% 
+  add_markers(data = elhqmapdata, lat = "elhqlat", lon = "elhqlon", label = "ELHQ Office", title = "ELHQ Office")
+
+
+  
+df <- data.frame(west = -6.2418 , east = -6.239, north = 53.337, south = 53.336)
+
+test_map %>% 
+   add_rectangles(data = df, north = 'north', south = 'south',
+                 east = 'east', west = 'west')
+
+
+```
+
+
+```{r, eval = FALSE, echo = FALSE}
+elhqmapdata <- data.frame(elhqlat = "53.337306116946785", elhqlon = "-6.239605848032218")
+elhqmapdata <- data.frame(elhqlat = "53.337035", elhqlon = "-6.240737", lab = "ELHQ Office")
+
+add_markers(map = elhq_map, data = elhqmapdata, lat = "elhqlat", lon = "elhqlon", info_window = "info")
+  
 
 # code to  display map 
 
-map_key <- "2345835"
+# map_key <- "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA"
 google_map(key = map_key, search_box = T) %>%
-  add_traffic()
-```
-
-```{r}
-
-# library(ggmap)
-
-# locus = c(lon = -6.239605848032218, lat = 53.337306116946785)
-
-# myMap <- get_map(location=locus, zoom= 18, source="google", 
- #                maptype="roadmap", crop=TRUE)
-
-#ggmap(myMap)
-
+  add_traffic() %>% 
+  add_markers(lat = 53.337306116946785, lon = -6.239605848032218, info_window = "info")
 ```
 
 
-```{r, include = F, warning = F}
+```{r eval = FALSE}
+```
+
+```{r, eval = FALSE, echo = FALSE}
+
+# register_google(key = "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA", write = TRUE)
+library(ggmap)
+
+locus = c(lon = -6.239605848032218, lat = 53.337306116946785)
+
+locus = "1 Percy Place, Ballsbridge, Dublin 2, Ireland"
+
+myMap <- get_map(location=locus, zoom= 15, source="google",
+                maptype="roadmap")
+
+ggmap(myMap)
+
+```
+
+
+```{r, eval = FALSE, include = F, warning = F, echo = FALSE}
 library(metathis)
 meta() %>%
   meta_social(
@@ -333,15 +425,75 @@ He has also completed seats in Matheson's Construction, Litigation, and Entertai
 
 ### Conor Quane
 
--   Conor Quane graduated with a degree in law from the University of Oxford in 2012, and went on to complete an LLM at Harvard Law School the following year.
+<html>
 
--   After a two year spell volunteering in a number of refugee camps around the globe, Conor returned to Ireland permanently in 2015 to begin a traineeship with Arthur Cox LLP.
+<head>
 
--   He was admitted to the roll of solicitors in 2017.
+```{=html}
+<style>
 
--   Since then, Conor has advised extensively on domestic and international M&A and financing transactions.
 
--   His clients have included a large number of major multinational companies and state authorities.
+.img1 {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img4 {
+  float: right;
+}
+</style>
+```
+</head>
+
+<body>
+
+::: {.clearfix}
+<img src="conor.jpg" alt="Pineapple" class="img4" width="170" height="160"/>
+
+<ul>
+
+<li>
+
+Conor Quane graduated with a degree in law from the University of Oxford in 2012, and went on to complete an LLM at Harvard Law School the following year.
+
+</li>
+
+<li>
+
+After a two year spell volunteering in a number of refugee camps around the globe, Conor returned to Ireland permanently in 2015 to begin a traineeship with Arthur Cox LLP.
+
+</li>
+
+<li>
+
+He was admitted to the roll of solicitors in 2017.
+
+</li>
+
+<li>
+
+ Since then, Conor has advised extensively on domestic and international M&A and financing transactions.
+
+</li>
+
+<li>
+
+His clients have included a large number of major multinational companies and state authorities.
+
+</li>
+
+</ul>
+:::
+
+</body>
+
+</html>
+
 
 ### Kieran Lardner
 
@@ -1294,6 +1446,8 @@ Significant work has been done to date. However, the Section 150 notice that has
 -   See if you can get doc width fixed - **Kieran**
 
 -   **IMPORTANT** - Check word-count of HTML version - **Kieran**
+
+-   Add in Conors updates to finance and pmang section - **Kieran**
 
 8.  Questions for Group
 
