@@ -5,12 +5,13 @@ output:
     thumbnails: true
     lightbox: true
     gallery: false
+    use_bookdown: true
     highlight: tango
     includes:
       in_header: meta.html
 ---
 
-# Executive Summary
+# Executive Summary {#summary}
 
 This business plan introduces ELHQ Solicitors and sets out ELHQ Solicitors purpose, vision and means of operation.
 
@@ -46,10 +47,34 @@ Please see our [Website](elhq.ie) for more info
 
 Please look at this **bold** text
 
-```{r, eval = FALSE, include = F, warning = F}
+**Insert office blurb below before map picture**
 
+```{r eval = FALSE}
+library(googleway)
+
+
+
+
+# code to  display map 
+
+map_key <- "2345835"
+google_map(key = map_key, search_box = T) %>%
+  add_traffic()
+```
+
+```{r}
+
+# library(ggmap)
+
+# locus = c(lon = -6.239605848032218, lat = 53.337306116946785)
+
+# myMap <- get_map(location=locus, zoom= 18, source="google", 
+ #                maptype="roadmap", crop=TRUE)
+
+#ggmap(myMap)
 
 ```
+
 
 ```{r, include = F, warning = F}
 library(metathis)
@@ -73,7 +98,7 @@ meta() %>%
 
 ```
 
-# Overview of the Firm {.tabset}
+# Overview of the Firm {.tabset}  
 
 ## Mission Statement
 
@@ -138,7 +163,7 @@ Having analysed the files of [Vendor Firm], ELHQ have decided [to / not to] purc
 
 An in-depth analysis of these files is discussed at paragraph
 
-# Management Plan
+# Management Plan {#managementplan}
 
 ## General Management
 
@@ -159,7 +184,8 @@ As a result, the Partners have agreed to enter into a formal written partnership
 In particular, the Partnership Agreement will address the financial rights of the partners, remuneration, partnership property and dissolution of partnership. 
 
 The Partners will draft the Partnership Agreement in an effort to reduce costs.
-An outline of the clauses which will be included in the Partnership Agreement is attached at Appendix 1
+
+An outline of the clauses which will be included in the Partnership Agreement is attached at [Appendix 1](#appendix1)
 
 ## Partner Profiles {.tabset}
 
@@ -387,7 +413,7 @@ edge [color = 'DeepSkyBlue',
 
 ## Scaling
 
-# Operations
+# Operations {#operations}
 
 ## Premises & Equipment {.tabset}
 
@@ -396,6 +422,8 @@ edge [color = 'DeepSkyBlue',
 ELHQ Solicitors  has decided to lease an office space at 1 Percy Place, Dublin 2 for a variety of reasons. As previously discussed, situating the office in the heart of Dublin City  will provide the most convenient access to aspiring startup businesses as well as international clients who are looking to establish themselves in Dublin. An office space in Dublin City Centre will also provide the Firm with access to the Four Courts and is well-connected to public transport which will allow for ease of access for staff and clients alike. Dublin 2 is perfectly situated in terms of business support services, such as accounting firms and auditors. 
 
 ELHQ Solicitors has decided to enter into a five-year term lease of premises of 1 Percy Place, Dublin 2.  Conor Quane, Partner, contacted the commercial leasing department at *GSP Lettings* in search of a suitable office space. *GSP Lettings* provided a  quotation for an office situated at 1 Percy Place for an annual fee of €39,000 (exclusive of utility bills), resulting in a monthly expense of €3,250. Despite the requisite amount being slightly above the Partner’s anticipated budget for office letting, it was agreed to lease this office space as there were multiple advantages of doing so.       
+
+
 
 
 ### The Space
@@ -520,7 +548,7 @@ Each employee will be provided with a written contract of employment setting out
 It shall be ensured that all employee contracts comply with the [Terms of Employment (Information) Acts 1994 to 2014](http://www.irishstatutebook.ie/eli/1994/act/5/enacted/en/html) and the [Employment (Miscellaneous Provisions) Act 2018](http://www.irishstatutebook.ie/eli/2018/act/38/enacted/en/html).
 Each employee will also receive the employee handbook which will contain all the core policies and procedures for the firm.
 
-A full list of all firm policies is set out in Appendix 4. - **KL COME BACK TO**
+A full list of all firm policies is set out in [Appendix 4](#appendix4). - **KL COME BACK TO**
 
 ELHQ is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
 This is especially important in light of the impact of COVID-19.
@@ -579,7 +607,7 @@ Employees will be paid monthly and all pay slips will be issued electronically.
 Partners will commence with a salary of €35,000 to be reviewed after Year 1.
 Employees will also have the opportunity to join ELHQ's contributory health insurance scheme upon completion of their probationary period.
 
-# Professional Management & Conduct
+# Professional Management & Conduct  {#profman}
 
 ## Establishing the Firm
 
@@ -649,9 +677,9 @@ The Partners at ELHQ have decided [to / not to] purchase the files of Rhyme & Pa
 
 [Rationale for decision]
 
-A detailed review of each of the files is set out in Appendix 6.
+A detailed review of each of the files is set out in [Appendix 3](#appendix3).
 
-# Finances
+# Finances {#finances}
 
 ## Overview
 
@@ -665,7 +693,8 @@ The Partners have agreed also to hold a monthly meeting to assess the financial 
 In line with current trends for corporate law firms, clients will generally be billed on a monthly basis, except where agreed otherwise.
 This should help to regularize income for the Firm during the first few years of its existence.
 
-Full cash flow projections are set out in Appendix 5, and the main items are discussed below.
+Full cash flow projections are set out in [Appendix 5](#appendix5), and the main items are discussed below.
+
 
 ## Cash Flow Projections
 
@@ -849,7 +878,7 @@ The Partners will closely monitor firm performance and market conditions at the 
 The Partners have obtained quotes for all furnishings, IT systems and other items necessary to establish its office at 1 Percy Place, Dublin 2, Dublin.
 This includes legal and office software, IT equipment for the four partners and two secretaries, and sufficient office furniture for staff and clients.
 
-These start up-costs are anticipated to total €18,450, and are more particularly set out in the full Cash Flow Projections at Appendix 5.
+These start up-costs are anticipated to total €18,450, and are more particularly set out in the full Cash Flow Projections at [Appendix 5](#appendix5).
 
 ### Current Expenditure {.tabset}
 
@@ -858,7 +887,7 @@ These start up-costs are anticipated to total €18,450, and are more particular
 The Partners have agreed to take drawings of €60,000 each for Year 1, increasing to €84,000 in Year 2.
 This will be payable monthly.
 
-This level of drawings is sustainable within the conservative cash flow projections as set out at Appendix 5, and will maintain a positive net cash flow.
+This level of drawings is sustainable within the conservative cash flow projections as set out at [Appendix 5](#appendix5), and will maintain a positive net cash flow.
 However, firm performance and market conditions will be closely monitored and drawings may be reduced at any time if required.
 
 #### Salaries
@@ -1000,7 +1029,7 @@ finance_anim
 # a1 = annotation_custom2(l, xmin=7, xmax=8, ymin=3.75, ymax=4.5, data=finances[20,])
 ```
 
-# Marketing
+# Marketing {#marketing}
 
 ## Overview
 
@@ -1019,7 +1048,7 @@ Given the current period of economic recovery following the COVID-19 crisis, the
 
 ## Marketing Plan
 
-ELHQ Solicitors has considered how it will employ it's various marketing techniques below, and has conducted a SWOT analysis, a copy of which is provided at Appendix [insert]
+ELHQ Solicitors has considered how it will employ it's various marketing techniques below, and has conducted a SWOT analysis, a copy of which is provided at [Appendix 2](#appendix2)
 
 ### Product
 
@@ -1120,7 +1149,11 @@ The event will be promoted primarily through the Firm's social media platforms a
 
 # Appendices
 
-## Review of Fish & Company Files
+## Appendix 1 | Partnership Agreement {#appendix1}
+
+## Appendix 2 | SWOT Analysis {#appendix2}
+
+## Appendix 3 | Review of Fish & Company Files {#appendix3}
 
 ### File 1 \| Nemo Homes Limited
 
@@ -1209,6 +1242,10 @@ We have elected not to purchase this file.
 Significant work has been done to date. However, the Section 150 notice that has been issued did not account for the fact that a key-expert witness is expecting exorbitant fees - €5,000 per day's attendance, expenses and a flat fee in the region of €250,000 if the client wins. Although the action being brought could result in an award worth "in the region of several million euro", the issues with the other files of Fish & Co outweigh the potential benefits of this file. (**KL** - Flesh out )
 
 
+## Appendix 4 | Company Policies  {#appendix4}
+
+## Appendix 5 | Cash Flow Projections  {#appendix5}
+
 
 # To do
 
@@ -1233,7 +1270,7 @@ Significant work has been done to date. However, the Section 150 notice that has
 
 -   Cash flow projections, to be inserted
 
--   Add appendices in - **Kieran**
+-   Add appendices in - **Kieran** - Format partnership agreement? or add as PDF?  
 
 6.  General
 
@@ -1246,13 +1283,13 @@ Significant work has been done to date. However, the Section 150 notice that has
 
 -   Finish up charts - **Kieran**
 
--   Add in Photos for Partner Profiles - **Kieran**
+-   Add in Photos for Partner Profiles - **Kieran**. - Still need to add in Conor + Me
 
 -   Clean up formatting etc - **Kieran**
 
 -   Change any square brackets - **Kieran**
 
--   Add in cross-references or amend the references - **Kieran**
+-   Add in cross-references or amend the references - **Kieran** - Have started adding them in. Will finish the rest 
 
 -   See if you can get doc width fixed - **Kieran**
 
@@ -1267,4 +1304,3 @@ Significant work has been done to date. However, the Section 150 notice that has
     
 -   Management plan section covered/finished? 
 
--  **Sam** - I think the act you reference in File 8 may have had an update since? [2021 act](http://www.irishstatutebook.ie/eli/2021/act/3/enacted/en/html) [A&L commentary](https://www.algoodbody.com/insights-publications/new-money-laundering-act-2021)
