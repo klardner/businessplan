@@ -35,6 +35,8 @@ output:
 
 # Executive Summary {#summary}
 
+For the best viewing experience, please open this file in your preferred web browser. 
+
 This business plan introduces ELHQ Solicitors and sets out ELHQ Solicitors purpose, vision and means of operation.
 
 ELHQ will have its registered office at 1 Percy Place, Dublin 2, Dublin and will open and operate from 1 January 2022.
@@ -422,17 +424,72 @@ His clients have included a large number of major multinational companies and st
 
 ### Kieran Lardner
 
--   Kieran Lardner graduated from University College Dublin in 2013, having studied Business and Law.
 
--   Kieran completed a three year Masters in Data Analytics in University College Dublin in 2016.
+<html>
 
--   Kieran spent a year working in the Property department at McCann Fitzgerald prior to commencing his traineeship.
+<head>
 
--   He completed his training contract with McCann Fitzgerald, completing two seats in Mergers & Acquisitions along with a seat in Finance and a seat in Employment.
+```{=html}
+<style>
+.img1 {
+  float: right;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.img5 {
+  float: right;
+}
+</style>
+```
+</head>
 
--   Kieran worked with the Legal Technology team during his traineeship, focusing on using analytics to aid decision making and automation to improve firm processes.
+<body>
 
--   Kieran qualified as a solicitor in 2017 and has spent three years working with the firms' corporate and property departments, advising large multinational clients on commercial agreements, mergers and corporate restructuring.
+::: {.clearfix}
+<img src="kieran.jpg" alt="Pineapple" class="img5" width="170" height="160"/>
+
+<ul>
+
+<li>
+
+Kieran Lardner graduated from University College Dublin in 2013, having studied Business and Law.
+</li>
+
+<li>
+
+Kieran completed a three year Masters in Data Analytics in University College Dublin in 2016.
+</li>
+
+<li>
+
+Kieran spent a year working in the Property department at McCann Fitzgerald prior to commencing his traineeship.
+</li>
+
+<li>
+
+He completed his training contract with McCann Fitzgerald, completing two seats in Mergers & Acquisitions along with a seat in Finance and a seat in Employment.
+</li>
+
+<li>
+
+Kieran worked with the Legal Technology team during his traineeship, focusing on using analytics to aid decision making and automation to improve firm processes.
+</li>
+<li>
+
+Kieran qualified as a solicitor in 2017 and has spent three years working with the firms' corporate and property departments, advising large multinational clients on commercial agreements, mergers and corporate restructuring.
+</li>
+
+</ul>
+:::
+
+</body>
+
+</html>
+
+
 
 ## Background and Experience
 
@@ -441,9 +498,7 @@ The below chart demonstrates this.
 
 All of our founding partners are skilled in our key practice area (Corporate).
 Furthermore, each partner brings experience in key areas the firm intends on being a market leader in, resulting in a nice balance of knowledge across practice areas.
-**Rephrase**
 
-*Maybe change to years experience in each? rather than an arbitrary scale*
 
 ```{r, echo = FALSE, warning=FALSE}
 library(radarchart)
@@ -463,7 +518,7 @@ chartJSRadar(scores = scores, labs = labs, maxScale = 10)
 ## Management Structure
 
 Below is an outline of how we expect our management structure to operate once we take on additional employees.
-**Rephrase**
+
 
 ```{r, echo = FALSE, warning = F}
 library(DiagrammeR)
@@ -570,7 +625,7 @@ Therefore, in the first year ELHQ will pay €6,000 for the use of Legal Partner
 
 Our firms in-house legal tech team has developed a website, saving on the cost of having it externally developed.
 We hope the professional look of the website will help establish that we are a well-run and forward-thinking business.
-**rephrase**
+
 
 Please see our website [here](https://elhq.netlify.app/) or view it below.
 
@@ -664,7 +719,6 @@ It shall be ensured that all employee contracts comply with the [Terms of Employ
 Each employee will also receive the employee handbook which will contain all the core policies and procedures for the firm.
 
 A full list of all firm policies is set out in [Appendix 4](#appendix4).
-- **KL COME BACK TO**
 
 ELHQ is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
 This is especially important in light of the impact of COVID-19.
@@ -834,11 +888,14 @@ This should help to regularize income for the Firm during the first few years of
 
 Full cash flow projections are set out in [Appendix 5](#appendix5), and the main items are discussed below.
 
-```{r, echo = FALSE, warning= FALSE}
-flow <- data.frame(year = c(1,1,1,1,1,2,2),
-                      category = c("Expenditure","Expenditure", "Receipts","Receipts","Receipts", "Expenditure", "Receipts"),
-                      group = c("Ongoing expenditure", "Set-up costs", "Fees","Capital Contributions", "Term Loan", "Ongoing Expenditure","Fees"),
-                      value = c(13986,415002,298340,120000,40000,512414,571668))
+A breakdown of our costs by category in our first year can be seen in the below interactive chart. 
+
+
+```{r, echo = FALSE, warning= FALSE, message=FALSE, dpi=200}
+flow <- data.frame(year = c(1,1,1,1,1,2,2,2),
+                      category = c("Expenditure","Expenditure", "Receipts","Receipts","Receipts", "Expenditure", "Receipts","Net Cash Flow"),
+                      group = c("Ongoing expenditure", "Set-up costs", "Fees","Capital Contributions", "Term Loan", "Ongoing Expenditure","Fees", "Net"),
+                      value = c(13986,415002,298340,120000,40000,512414,571668,59254))
 
 # saveRDS(flow,paste0("cashflowplotly",".rds"))
 
@@ -846,6 +903,8 @@ flow <- data.frame(year = c(1,1,1,1,1,2,2),
 library(plotly)
 library(scales)
 library(dplyr)
+library(ggthemes)
+library(ggplot2)
 
 # text = paste("Date:", date, "\nnewlabel:", diff)))
 
@@ -869,18 +928,94 @@ plot <- ggplot(flow1, aes(x=category, y=value, text =  paste("Category:", catego
     theme_fivethirtyeight()+
     theme(legend.position = 'none')
 
-ggplotly(plot, tooltip = "text") %>%
-  layout(title = list(text = paste0('<b>ELHQ - Year 1 Expenditure vs Receipts</b>',
-                                    '<br>',
-                                    '<sup>',
-                                     '<i>Hover groups to see breakdown</i>','</sup>')))
+P1 <- ggplotly(plot, tooltip = "text") %>% 
+  config(displayModeBar = FALSE)
+# %>%
+  # layout(title = list(text = paste0('<b>ELHQ - Year 1 Expenditure vs Receipts</b>',
+  #                                   '<br>',
+  #                                   '<sup>',
+  #                                    '<i>Hover groups to see breakdown</i>','</sup>')))
 
-
-flow2 <- flow %>% filter(year == 1)
-
-
+P1
 ```
 
+
+In year 2, there are no set-up costs and the only source of income is fee income. The below chart shows our net cash flow in Year 2. 
+
+
+```{r, echo = FALSE, warning= FALSE, message=FALSE, out.width="100%"}
+flow2 <- flow %>% filter(year == 2)
+
+flow2$category = factor(flow2$category, levels = c("Expenditure","Receipts","Net Cash Flow"),
+labels = c("Expenditure","Receipts","Net Cash Flow"))
+
+library(forcats)
+
+flow3 <- flow2 %>% mutate(category = fct_reorder(category, desc(value)))
+
+# plot2 <- ggplot(flow3, aes(x=category, y=value)) + 
+#     geom_bar(stat='identity')  +
+#     scale_y_continuous(labels=dollar_format(suffix="",prefix="€"))+
+#     labs(y = "",title =  "ELHQ - Year 2 Expenditure vs Receipts",
+#          subtitle = "Hover to see breakdown")+
+#     theme_fivethirtyeight()+
+#     theme(legend.position = 'none')
+
+plot2 <- ggplot(flow3, aes(x=category, y=value, text =  paste("Category:", category, "\nValue: €",value ))) + 
+    geom_bar(stat='identity', fill = c("#1b9e77","#d95f02","#7570b3"))  +
+    scale_y_continuous(labels=dollar_format(suffix="",prefix="€"))+
+    labs(y = "",title =  "ELHQ - Year 2 Expenditure vs Receipts",
+         subtitle = "Hover to see breakdown")+
+    theme_fivethirtyeight()+
+    theme(legend.position = 'none')
+
+
+P2 <- ggplotly(plot2, tooltip = "text") %>%
+  layout(title = list(text = paste0("<b><span style = 'color:#000000;'>ELHQ Year 2 - </span><span style = 'color:#1b9e77;'>Receipts</span>, <span style = 'color:#d95f02;'> Expenditure </span> & <span style = 'color:#7570b3;'>Net Cash Flow </span></b>",                                    '<br>',
+                                    '<sup>',
+                                     '<i>Hover to see value</i>','</sup>')))
+
+P2
+```
+
+
+
+
+```{r, eval = FALSE, echo = FALSE}
+ 
+
+
+ objectname = data 
+objectname %>% 
+ggplot(aes(x = xvar, y = round(yvar,2), color = facetvar)) + 
+geom_line(size = 1.3) + 
+geom_point()  + 
+geom_label(aes(x = xvar+5, y = yvar, label = as.character(yvar), fill = facetvar), color = 'black', hjust = 0.5, family = "Consolas", alpha = .5)+ 
+transition_reveal(xvar) + 
+facet_wrap(~facetvar, nrow = 2,scales = "free_y")  +
+scale_color_manual(values = c("color1", "color2", "color3", "color4"))  +
+scale_fill_manual(values = c("color1", "color2", "color3","color4")) +
+scale_x_continuous(limits = c(limits), breaks = seq(breaks)) +
+guides(color = FALSE, fill = FALSE)  +
+theme_owen()  + 
+theme(legend.position = 'bottom',
+# legend.key.size = 5,
+legend.key.size = unit(3,"line"),
+plot.title.position = 'plot',
+plot.title = element_text(face = 'italic',hjust = .5,size = 12), 
+plot.subtitle = element_markdown(hjust = .5,size = 10), 
+legend.text = element_text(size = 12),
+strip.text = element_text(size = 7),
+strip.background.x = element_rect(fill = "#E5E1D8"),
+panel.spacing.x = unit(1, 'lines'),
+plot.caption = element_text(face = 'bold', hjust = c(0,1)))+ 
+labs(subtitle = "<b><span style = 'color:color1;'>Set-up costs </span> , <span style = 'color:color2;'>category2 </span> , <span style = 'color:color3;'>category3 </span> & <span style = 'color:color4;'>category4 </span></b>", 
+title = paste0("title \n (As of ", format(Sys.Date(), format="%B %d, %Y"), ")"),
+x = "xlab", 
+y = "ylab", 
+caption = c("Credit: Kieran Lardner @lardner23", "Source: fbref.com"))
+
+```
 
 ## Cash Flow Projections
 
@@ -1215,7 +1350,9 @@ The Partners have chosen the name ELHQ Solicitors which represents the surnames 
 It was felt that the name is distinct and memorable and that the name is suggestive of professionalism and teamwork.
 Insofar as each Partner is a valued asset to the business, the name ELHQ Solicitors inherently reflects this.
 
-ELHQ Solicitors will also instruct *Logo Design Co* to create a logo that will be memorable and reflective of the Firm's values.
+Kieran Lardner hasd designed the logo.
+1[](logo2.png)
+
 The logo will be displayed widely on all of the Firm's social media platforms and website as well as on all stationery (including business cards), publications, and correspondence.
 
 ### Office Location
@@ -1244,11 +1381,10 @@ ELHQ Solicitorswill have an active online presence, focusing on engagement with 
 
 ##### Website
 
-**UPDATE**
+Kieran Lardner and our Legal Technology team have designed the [website](https://elhq.netlify.app/)
+The Firm's website has been designed in such a way that it is easy to navigate as well as being informative.
 
-ELHQ.ie will be acquired.
-The Firm's website will be designed in such a way that it is easy to navigate as well as being informative.
-Information will be provided about each of the practice areas as well as about each of the Partners, and contact details for each individual Partner will be provided.The website will have an 'Updates' section with regular articles on topical legal issues.
+Information has been provided about each of the Partners, and contact details for each individual Partner will be provided.The website will has an 'insights' section where we will  regular articles on topical legal issues. The website also has a 'case studies' section where we can showcase the ways we've helped our clients. 
 The Partners commit to producing at least two articles per month which will be shared across all social media platforms.There will also be an option to subscribe for updates, with monthly newsletters and updates sent out to those who register.
 
 ##### Social Media
@@ -1556,7 +1692,6 @@ We have elected not to purchase this file.
 Significant work has been done to date.
 However, the Section 150 notice that has been issued did not account for the fact that a key-expert witness is expecting exorbitant fees - €5,000 per day's attendance, expenses and a flat fee in the region of €250,000 if the client wins.
 Although the action being brought could result in an award worth "in the region of several million euro", the issues with the other files of Fish & Co outweigh the potential benefits of this file.
-(**KL** - Flesh out )
 
 ## Appendix 4 \| Company Policies {#appendix4}
 
