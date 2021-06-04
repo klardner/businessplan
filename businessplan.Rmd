@@ -1,14 +1,12 @@
 ---
-title: "ELHQ & Co Solicitors"
-output: 
+title: "ELHQ Solicitors"
+output:
   rmdformats::readthedown:
     thumbnails: true
     lightbox: true
     gallery: false
     use_bookdown: true
     highlight: tango
-    includes:
-      in_header: meta.html
 ---
 ```{css, echo=FALSE}
 #header {
@@ -34,6 +32,20 @@ output:
 ```
 
 # Executive Summary {#summary}
+
+Our cover page can be accessed below. 
+```{r download button cover page , echo = FALSE, warning=FALSE}
+library(downloadthis)
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\coverpage.docx",
+  output_name = "Group 24C- Business Plan Cover Page",
+  button_label = "Group 24C - Cover Page",
+  button_type = "primary",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
 
 For the best viewing experience, please open this file in your preferred web browser. 
 
@@ -288,7 +300,7 @@ Edward continues to advise a large number of international and Irish-based corpo
 
 </html>
 
-### Samuel Elliot
+### Samuel Elliott
 
 <html>
 
@@ -515,6 +527,8 @@ chartJSRadar(scores = scores, labs = labs, maxScale = 10)
 
 ## Strengths and Weaknesses
 
+Our strengths and weaknesses are set out in [Appendix 2](#appendix2)
+
 ## Management Structure
 
 Below is an outline of how we expect our management structure to operate once we take on additional employees.
@@ -642,22 +656,26 @@ This includes information such as:
 ### Key info about the client
 
 > Key information about our clients that employees may regularly need to input on forms or access regularly can be found for any client at the click of a button.
+
 <img src="app_overview.png" alt="Key Info"/>
 
 ### Group Structure Charts
 
 > Easy access to group structure charts designed by our Legal Tech team will help our Corporate Team as they seek to advise on complex restructurings etc.
+
 <img src="app_structurecharts.png" alt="Group Structure Charts"/>
 
 ### Information to aid drafting
 
 > Employees will be able to quickly access common pieces of information that are regularly included in documents we draft.
 > This can then be easily downloaded, coverted to a pdf or copied, so that the employee can quickly update their documents.
+
 <img src="app_compinfo.png" alt="Drafting info"/>
 
 ### Statistics
 
 > Our legal tech team has written code to automate the process of producing visualizations and summary statistics across a number of key metrics.
+
 <img src="app_statistics.png" alt="Sample Billing info visualizations"/>
 
 A demo of the application can be viewed below.
@@ -678,7 +696,7 @@ In line with our core values, our recruitment process will focus on attracting d
 ELHQ has allocated a number of roles to our founding Partners who have corresponding qualifications suitable to those positions.
 Where required, ELHQ will fund appropriate courses to assist those Partners and ensure the welfare of our employees.
 
-ELHQ plans to employ one legal secretary and bookkeeper initially, details of which are set out at 8.1.1 and 8.1.2. **REFERENCE**
+ELHQ plans to employ one legal secretary and bookkeeper initially.
 These positions will be advertised on the [law society website](https://lawsociety.ie) and through recruitment websites such as irishjobs.ie.
 All partners will be consulted and involved in any direct hiring into the firm through the interview process.
 
@@ -710,7 +728,7 @@ Kieran Lardner holds a certificate in Technology Law from the Law Society and CI
 #### Human Resources Manager
 
 Kieran Lardner will act as the Human Resources Manager.
-S/he will be responsible for the recruitment, training and development of all employees and will ensure compliance with the Employment Equality Acts 1988 - 2015.
+He will be responsible for the recruitment, training and development of all employees and will ensure compliance with the Employment Equality Acts 1988 - 2015.
 
 ### Policies and Procedures
 
@@ -718,7 +736,7 @@ Each employee will be provided with a written contract of employment setting out
 It shall be ensured that all employee contracts comply with the [Terms of Employment (Information) Acts 1994 to 2014](http://www.irishstatutebook.ie/eli/1994/act/5/enacted/en/html) and the [Employment (Miscellaneous Provisions) Act 2018](http://www.irishstatutebook.ie/eli/2018/act/38/enacted/en/html).
 Each employee will also receive the employee handbook which will contain all the core policies and procedures for the firm.
 
-A full list of all firm policies is set out in [Appendix 4](#appendix4).
+Firm policies have been drafted and are set out in [Appendix 4](#appendix4).
 
 ELHQ is committed to ensuring the policies and procedures remain adaptable and accessible at all times and reserves the right to amend the provisions of these policies and procedures as required.
 This is especially important in light of the impact of COVID-19.
@@ -888,10 +906,10 @@ This should help to regularize income for the Firm during the first few years of
 
 Full cash flow projections are set out in [Appendix 5](#appendix5), and the main items are discussed below.
 
-A breakdown of our costs by category in our first year can be seen in the below interactive chart. 
+A breakdown of our costs by category in our first year can be seen in the below chart. 
 
 
-```{r, echo = FALSE, warning= FALSE, message=FALSE, dpi=200}
+```{r, echo = FALSE, warning= FALSE, message=FALSE, dpi=100}
 flow <- data.frame(year = c(1,1,1,1,1,2,2,2),
                       category = c("Expenditure","Expenditure", "Receipts","Receipts","Receipts", "Expenditure", "Receipts","Net Cash Flow"),
                       group = c("Ongoing expenditure", "Set-up costs", "Fees","Capital Contributions", "Term Loan", "Ongoing Expenditure","Fees", "Net"),
@@ -923,20 +941,21 @@ flow1 <- flow %>% filter(year == 1)
 plot <- ggplot(flow1, aes(x=category, y=value, text =  paste("Category:", category, "\nSub-Category:",group, "\nValue: €",value ), fill = group)) + 
     geom_bar(stat='identity')  +
     scale_y_continuous(labels=dollar_format(suffix="",prefix="€"))+
-    labs(y = "",title =  "ELHQ - Year 1 Expenditure vs Receipts",
-         subtitle = "Hover to see breakdown")+
+    labs(y = "",title =  "ELHQ - Year 1 Expenditure vs Receipts")+
     theme_fivethirtyeight()+
-    theme(legend.position = 'none')
-
-P1 <- ggplotly(plot, tooltip = "text") %>% 
-  config(displayModeBar = FALSE)
+    theme(legend.position = 'top', legend.title = element_blank())
+# 
+# P1 <- ggplotly(plot, tooltip = "text") %>%
+# config(displayModeBar = FALSE)
 # %>%
-  # layout(title = list(text = paste0('<b>ELHQ - Year 1 Expenditure vs Receipts</b>',
-  #                                   '<br>',
-  #                                   '<sup>',
-  #                                    '<i>Hover groups to see breakdown</i>','</sup>')))
+# layout(title = list(text = paste0('<b>ELHQ - Year 1 Expenditure vs Receipts</b>',
+#                                   '<br>',
+#                                   '<sup>',
+#                                    '<i>Hover groups to see breakdown</i>','</sup>')))
+# 
+# P1
 
-P1
+plot
 ```
 
 
@@ -950,6 +969,7 @@ flow2$category = factor(flow2$category, levels = c("Expenditure","Receipts","Net
 labels = c("Expenditure","Receipts","Net Cash Flow"))
 
 library(forcats)
+library(ggtext)
 
 flow3 <- flow2 %>% mutate(category = fct_reorder(category, desc(value)))
 
@@ -964,18 +984,17 @@ flow3 <- flow2 %>% mutate(category = fct_reorder(category, desc(value)))
 plot2 <- ggplot(flow3, aes(x=category, y=value, text =  paste("Category:", category, "\nValue: €",value ))) + 
     geom_bar(stat='identity', fill = c("#1b9e77","#d95f02","#7570b3"))  +
     scale_y_continuous(labels=dollar_format(suffix="",prefix="€"))+
-    labs(y = "",title =  "ELHQ - Year 2 Expenditure vs Receipts",
-         subtitle = "Hover to see breakdown")+
+    labs(y = "",title =  "<b><span style = 'color:#000000;'>ELHQ Year 2 - </span><span style = 'color:#1b9e77;'>Receipts</span>, <span style = 'color:#d95f02;'> Expenditure </span> & <span style = 'color:#7570b3;'>Net Cash Flow </span></b>")+
     theme_fivethirtyeight()+
-    theme(legend.position = 'none')
+    theme(legend.position = 'none', plot.title = element_markdown())
 
 
-P2 <- ggplotly(plot2, tooltip = "text") %>%
-  layout(title = list(text = paste0("<b><span style = 'color:#000000;'>ELHQ Year 2 - </span><span style = 'color:#1b9e77;'>Receipts</span>, <span style = 'color:#d95f02;'> Expenditure </span> & <span style = 'color:#7570b3;'>Net Cash Flow </span></b>",                                    '<br>',
-                                    '<sup>',
-                                     '<i>Hover to see value</i>','</sup>')))
+# P2 <- ggplotly(plot2, tooltip = "text") %>%
+#   layout(title = list(text = paste0("<b><span style = 'color:#000000;'>ELHQ Year 2 - </span><span style = 'color:#1b9e77;'>Receipts</span>, <span style = 'color:#d95f02;'> Expenditure </span> & <span style = 'color:#7570b3;'>Net Cash Flow </span></b>",                                    '<br>',
+#                                     '<sup>',
+#                                      '<i>Hover to see value</i>','</sup>')))
 
-P2
+plot2
 ```
 
 
@@ -1350,8 +1369,9 @@ The Partners have chosen the name ELHQ Solicitors which represents the surnames 
 It was felt that the name is distinct and memorable and that the name is suggestive of professionalism and teamwork.
 Insofar as each Partner is a valued asset to the business, the name ELHQ Solicitors inherently reflects this.
 
-Kieran Lardner hasd designed the logo.
-1[](logo2.png)
+Kieran Lardner has designed the logo.
+
+<img src="logo2.png" alt="Firm Logo"/>
 
 The logo will be displayed widely on all of the Firm's social media platforms and website as well as on all stationery (including business cards), publications, and correspondence.
 
@@ -1693,6 +1713,7 @@ Significant work has been done to date.
 However, the Section 150 notice that has been issued did not account for the fact that a key-expert witness is expecting exorbitant fees - €5,000 per day's attendance, expenses and a flat fee in the region of €250,000 if the client wins.
 Although the action being brought could result in an award worth "in the region of several million euro", the issues with the other files of Fish & Co outweigh the potential benefits of this file.
 
+
 ## Appendix 4 \| Company Policies {#appendix4}
 
 ### Employment Contracts {-}
@@ -1856,63 +1877,4 @@ cashtest %>%
   )
 ```
 
-
-# To do
-
-1.  Executive Summary
-
--   Details of any files purchased from Fish & Co.
-
-2.  Mission Statement
-
--   Paragraph on Vendor Firm
-
-3.  Marketing
-
--   Appendix Details for SWOT analysis
-
-
-4. HR
-
--   Firm policies add in? - **KGPL**
-
-5.  Appendices
-
--   Cash flow projections, to be inserted
-
--   Add appendices in - **Kieran** - Format partnership agreement? or add as PDF?  
-
-6.  General
-
--   Check if cash flow needs to be updated in light of new figures added in today -
-
-7.  Clean-up etc
-
--   **Important** - Add in Eddie Marketing/Premises/Files updates + Sam Files updates.
-    Finish HR sections. Do files 9-10. - **Kieran**
-
--   Finish up charts - **Kieran**
-
--   Add in Photos for Partner Profiles - **Kieran**. - Still need to add in Conor + Me
-
--   Clean up formatting etc - **Kieran**
-
--   Change any square brackets - **Kieran**
-
--   Add in cross-references or amend the references - **Kieran** - Have started adding them in. Will finish the rest 
-
--   See if you can get doc width fixed - **Kieran**
-
--   **IMPORTANT** - Check word-count of HTML version - **Kieran**
-
--   Add in Conors updates to finance and pmang section - **Kieran**
-
-8.  Questions for Group
-
--   Everyone happy with layout?
-    Any comments on the readability etc?
-
--   Do I need to add in a chart or headings about who did each section etc? I'm happy to leave it but if people want it added in I can do one up.
-    
--   Management plan section covered/finished? 
 
