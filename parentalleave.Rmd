@@ -1,0 +1,136 @@
+---
+title: "ELHQ - Parental Leave Policy"
+author: 
+date: 
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![](blank.png) ![](blank.png)  ![](logo2.png)
+
+The policy is in line with the Parental Leave Acts 1998 to 2006, with the principal
+elements set out below. It covers employees of ELHQ Solicitors (the **“Employer”**) provided that they meet the conditions outlined below.
+
+## Purpose
+The purpose of parental leave is to provide temporary unpaid leave to employees
+who are natural parents, adoptive parents or acting in loco parentis to the child to
+take care of their child before they reach 8 years of age.
+
+## Entitlements and conditions
+
+-   Employees who are natural parents, adoptive parents or acting in loco
+parentis to a child are entitled to 18 working weeks’ unpaid leave to enable
+care of their child.
+-   An employee must have one year’s continuous service with the Employer
+before he/she is entitled to parental leave. However, an employee with less
+than 1 year’s continuous service may be entitled to a pro rata parental leave
+entitlement after 3 months’ service, if the child is about to go beyond the
+specified age limit. The parental leave entitlement is one weeks’ unpaid leave
+for each month of continuous employment.
+-   The leave must be taken before the child reaches eight years of age,
+except in certain circumstances in the case of an adopted or disabled child.
+-   In the case of an adopted child, who is under six years of age at the time of
+adoption, the leave must be taken before the child reaches eight years of age.
+If the child is aged between six and eight years at the time of adoption, the
+leave must be taken within two years of the adoption order.
+
+In the case of a child with a disability or long-term illness, leave may be taken up to
+the child reaching 16 years. In addition, where illness or other incapacity prevents the
+employee taking care of the child, the employee’s parental leave may be
+suspended/postponed until he/she is no longer sick provided that he/she produces
+satisfactory evidence of sickness.
+
+-   14 weeks’ unpaid parental leave is available per eligible child. However,
+where a parent has more that one eligible child, they may not take more than
+14 weeks’ parental leave in any 12-month period, except in the case where
+the children concerned are children of a multiple birth.
+-   Each parent has a separate entitlement to parental leave from his/her job, but
+the leave may not be transferred between the parents, i.e. the mother cannot
+take the father’s leave and vice versa. Where both parents work for the
+Employer, and with their respective managers’/supervising partners’
+agreement, up to 14 weeks of parental leave may be transferred from one
+parent to another...
+-   The leave may be taken in a block of 18 weeks, or two separate blocks of not
+less than six weeks with a minimum of 10 weeks between each block, or by
+**agreement** with the Employer broken down into pre-planned time off.
+-   Periods of training or probation will be suspended while an employee is on
+parental leave and will be completed on their return.
+
+## Requests for parental leave
+
+Requests for parental leave must be given to the Employer, a minimum of 6 weeks
+prior to the proposed date of commencement. The request must specify the start
+date, duration and manner in which it is proposed the parental leave will be taken. A
+copy birth certificate or adoption order for the child must be attached.
+
+## Employer’s decision re parental leave
+
+The Employer may decide to postpone the parental leave for up to 6 months, if
+satisfied that granting the leave would have a substantial adverse effect on the
+operation of the business, if there are difficulties with finding a replacement or if a
+number of employees are already availing of parental leave. The Employer must
+discuss the postponement with the employee and must provide an explanation in
+writing no later than four weeks before the proposed date of commencement of the
+parental leave, specifying the grounds for the postponement.
+
+The Employer must produce a Confirmation Document, confirming details of parental
+leave, for the employee to sign at least 4 weeks prior to the date of commencement.
+The confirmation document will specify the date of commencement of the leave, its
+duration and the manner in which it will be taken.
+
+Both the employee and the Employer will hold signed copies of all Confirmation
+Documents.
+
+## Protection of employment rights
+
+All employment, statutory and contractual rights are protected while on parental
+leave, with the exception of remuneration and superannuation benefits.
+
+Employees will continue to accrue both annual leave and public holiday entitlements
+during parental leave.
+
+An employee will return to his/her normal or usual job on completion of the period of
+parental leave.
+
+## Illness during Parental Leave
+-   An employee who falls ill while on parental leave and as a result is unable to
+care for the child may suspend the parental leave for the duration of the
+illness following which period, parental leave recommences. An employee
+seeking to postpone or suspend a period of parental leave must notify the
+Employer in writing, as soon as is reasonably practicable after becoming
+sick, and include with the notice the relevant evidence in respect of the
+sickness.
+
+## Abuse of Parental Leave
+-   An employee must use his/her parental leave to take care of the child
+concerned. The Employer may terminate the leave if it has reasonable
+grounds to believe that the leave is being used for a purpose other than
+taking care of the child concerned. If following an investigation the employee
+is found to have been abusing this leave he/she may be subject to disciplinary
+action.
+-   Before terminating the parental leave the Employer must notify the employee
+in writing of its intention to do so and invite the employee to make
+representations on the matter within seven days. The Employer must then
+consider the employee's submission before deciding whether to terminate the
+leave.
+-   If the Employer decides to terminate the leave the employee must be notified
+in writing of such termination specifying the grounds and the date of
+termination. The date of termination of leave must be no less than seven days
+after the notification of termination is given. In a case were the leave is
+terminated and the employee returns to work, the period between the date of
+the employees returning to work and the date on which the leave would have
+ended if the employee had completed the leave does not count as parental
+leave.
+
+## Refusal to grant Parental Leave
+
+-   The Employer may by notice in writing refuse to grant parental leave if it has
+reasonable grounds to believe the employee is not entitled. The notice shall
+contain a statement in summary form of the grounds for refusing to grant the
+parental leave concerned.
+-   Before refusing the parental leave the Employer must notify the employee in
+writing of its intention to do so and invite the employee to make representations on the matter within seven days. The Employer must then
+consider the employee's submission before deciding whether to refuse the
+leave.

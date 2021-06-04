@@ -1,0 +1,236 @@
+---
+title: "ELHQ - Maternity Leave Policy"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.align = 'center')
+```
+
+![](blank.png) ![](blank.png)  ![](logo2.png)
+
+## Scope
+
+This policy is in line with the Maternity Protection Acts 1994 and 2004 and the
+Adoptive Leave Acts 1995 and 2005 (the "Acts”), with the principal elements set out
+below. It informs all employees covered by the Acts of their rights and entitlements
+whilst in the employment of *ELHQ Solicitors* (the **“Employer”**).
+
+The Maternity Protection Acts 1994 and 2004 (as amended) cover all female
+employees regardless of their length of service or number of hours worked who
+-   are pregnant;
+-   have recently given birth (within 14 weeks of the birth);
+-   are breastfeeding (within 26 weeks of the birth)
+and who have informed their employer of their condition.
+
+## Entitlements and conditions
+
+-   Pregnant employees are entitled to 26 consecutive weeks’ maternity
+leave of which at least two weeks must be taken before the date of birth and
+at least four weeks after the date of birth. A longer period of maternity leave
+may be available in circumstances where the baby was premature and such
+period will be provided in the manner provided by law.
+
+-   The employee must give the Employer at least four weeks’ written notice of
+their intention to take maternity leave and also forward to the Employer a
+medical certificate confirming pregnancy and specifying the expected week of
+birth.
+
+-   In the case of premature birth, the employee’s 26 weeks maternity leave
+begins immediately and dates from the day of the birth.
+-   The employee must give the Employer at least four weeks’ notice in writing of
+her intention to return to work.
+-   An employee is also entitled to take additional unpaid maternity leave of up to
+16 weeks’ immediately after the end of her maternity leave.
+-   The employee must inform the Employer in writing of her intention to take the
+16 weeks’ additional leave not later than four weeks before the end of the 26
+week maternity leave period.
+-   Employees who are breastfeeding and within 26 weeks of the birth of their
+child may be entitled to limited time off/breaks for breastfeeding purposes. 
+
+## Breastfeeding Arrangements
+
+A full-time employee who is breastfeeding will be entitled, for the period specified
+below, to work breaks equivalent to one (1) hour per day for the purposes of breast
+feeding in the workplace. For the purposes of the 2004 Act "breastfeeding" means
+breastfeeding a child or expressing breast milk and feeding it to a child immediately
+or storing it for the purposes of feeding it to a child at a later time. This entitlement
+may be availed of for up to 26 weeks after the date of birth of the child. Breastfeeding
+breaks may be taken as one 60 minute break, two 30 minute breaks, or three 20 
+minute breaks per day as agreed with your manager. Part-time employees will be
+entitled to a pro-rata benefit to that provided to full-time employees.
+
+To avail of this benefit, the employee must inform the Employer of the intention to
+avail of work breaks when advising the Employer that she will be returning to work,
+i.e. not later than four weeks before the intended return to work date. The employee
+should include a copy of the child’s birth certificate with such an application. Availing
+of such breaks will not result in any reduction of pay for the employee.
+
+## Father’s leave
+
+The policy also provides time off for male employees in the event of the death of the
+mother of a new born child within 40 weeks following the date of birth. If the mother
+dies within 24 weeks of the birth then a father who is employed under a contract of
+employment will be entitled to avail of the remainder of the 24 weeks leave as well as
+additional leave.
+
+If the mother's death is over 24 weeks after the birth, the father is entitled to leave
+until 40 weeks after the birth.
+
+## Ante/post natal medical care
+
+All employees will be entitled to paid leave for ante-natal and post-natal care. An
+employee will receive paid leave for ante-natal medical appointments before the birth
+and post-natal medical appointments.
+
+An employee must give the Employer two weeks’ written notice of any appointment
+and must be able to produce a certificate that the visit took place and at what time
+and date.
+
+If an employee requires, due to urgent medical reasons, an unscheduled ante-natal
+or post-natal examination, the employee must explain to the Employer, no later
+than one week after the appointment, why the required notice was not given and also
+must prove that the appointment was kept.
+
+## Ante-natal classes
+
+An employee is also entitled to paid leave to attend one set of ante-natal classes,
+except for the last three classes in a set. This is a once-off entitlement. Expectant
+fathers are entitled to paid time off to attend the last two ante-natal classes in a set of
+classes that the expectant mother is attending. This is a once-off entitlement for
+fathers in relation to one birth only. Two weeks’ notice in writing must be given to the
+Employer, of the times and location of classes accompanied by an appointment card
+from the relevant body running the classes.
+
+## Miscarriage
+
+There is no entitlement to statutory maternity leave for a miscarriage occurring up to
+and including the 24th week of pregnancy. Any confinement occurring after the 24th
+week, even if it does not result in a live birth, is covered.
+
+## Social welfare maternity benefit
+
+During maternity leave, employees who have the necessary PRSI contributions are
+entitled to maternity benefit from the Department of Social Protection are
+recommended to be made at least 6 weeks before the start date of maternity leave.
+Claims should be made on an MB10 form (maternity benefit form), which must be
+completed, signed and stamped by the employee, the employee’s doctor (not earlier
+than 16 weeks before the baby is due) and by the Employer and returned to the
+address on the form.
+
+During the 16-week period of additional maternity leave no payment is made by the
+Employer but an employee may be entitled to a credited social insurance contribution
+for each week of unpaid leave they take (up to the maximum of 16).
+
+## Payment by the employer during maternity leave
+
+An employee who is on maternity leave is normally entitled to payments from the
+Department of Social Protection for 26 weeks maternity leave depending on meeting
+certain PRSI eligibility criteria.
+Under the Maternity Protection Acts, 1994 and 2004 and the Adoptive Leave Acts,
+1995 and 2005 an employer is not legally obliged to pay employees while they are on
+maternity leave.
+
+However, for all Employees with more than 6 months service, the Employer will
+make up the short-fall between the Social Welfare maternity benefit and the
+employee’s salary for the first 26 weeks of Maternity Leave. The Employer will not
+pay the employee during any period of additional maternity leave. The employee will
+sign a letter to confirm that she will return to work for the Employer after maternity
+leave.
+
+## Postponement of Leave in the Event of the Hospitalisation of the Child
+
+If the child falls ill and is hospitalised, and the employee has availed of at least 14
+weeks maternity leave, with not less than 4 of those weeks being after the week of
+the birth, then she may make a request to have the remaining maternity leave, and
+additional maternity leave, postponed until the child is released from hospital. The
+decision to offer this postponement lies entirely at the discretion of the employer.
+
+The employee should request this postponement in writing directly to the Employer
+as soon as possible, with a letter confirming the hospitalisation of the child. The
+Employer will respond in writing to requests as soon as is reasonably practicable.
+
+Where the postponement is granted, the employee will return to work on an agreed
+date. The maximum period of postponement of leave is six months from the return to
+work date. The employee must provide a letter or appropriate document from the
+hospital or the child’s GP confirming the date that the child was discharged from
+hospital, before resuming leave. Resumed leave must be taken in one continuous
+block and must commence within seven days of the child’s discharge from hospital.
+
+## Employee absence due to sickness during period of postponement
+
+If the employee should fall ill during a period of postponement, and subsequently is
+absent from work, she will be deemed to have resumed maternity leave from the first
+day of absence. If the employee prefers to avail of sick leave, she must write to the
+Employer and confirm this. If an employee opts to transfer to sick leave, she forfeits
+her right to any remaining leave entitlements.
+
+## Termination of Additional Maternity Leave
+
+Should the employee fall ill and wish to terminate additional maternity leave she may
+request the Employer in writing to terminate such leave. This request may be made
+during the last 4 weeks of maternity leave or during additional maternity leave. If the
+Employer agrees to terminate such additional leave, the leave shall end on the date
+agreed and the employee shall commence sick leave.
+
+**IMPORTANT**: When this kind of request is made, and granted, the employee forfeits
+her right to the remaining additional leave. In such circumstances, the sick leave will
+be treated in the same manner as any other absence on sick leave, and normal sick
+leave reporting arrangements will apply. The decision to offer this termination of
+maternity leave lies entirely at the discretion of the Employer.
+
+## Employment protection
+During maternity leave and additional maternity leave, an employee will be deemed
+to be in employment and her employment rights, with the exception of remuneration,
+are preserved as if she were present at work. An employee who is absent on
+maternity leave will be treated as if she had not been absent.
+
+At the end of maternity leave, an employee will be entitled to return to work in the job
+which the employee held immediately before the start of that period, so far as it is
+reasonably practicable. However, if this is not reasonably practicable f, the employee
+will be offered suitable alternative work under a new contract of employment with
+terms and conditions no less favourable than those she had in her original job.
+
+## Paternity leave
+
+The following individuals are eligible for paternity leave of 2 weeks:
+
+-   The father of the child
+-   The spouse, civil partner or cohabitant of the mother of the child
+-   The parent of a donor-conceived child
+
+If the child in question has been adopted, individuals are eligible for paternity leave if
+they are:
+-   The nominated parent in the case of a married same-sex couple or
+-   The spouse, civil partner or cohabitant of the adopting mother or sole male
+adopter
+
+The 2 weeks must be taken consecutively. This leave can start anytime within the
+first 26 weeks following birth or adoption.
+
+## Payment by the employer during paternity leave
+
+An employee who is on paternity leave may qualify for Paternity Benefit from the
+Department of Social Protection if they have sufficient PRSI contributions..
+
+Under the Paternity Leave and Benefit Act 2016 and the Adoptive Leave Acts, 1995
+and 2005 an employer is not legally obliged to pay employees while they are on
+paternity leave. 
+
+However, for Employees with more than 6 month's service, the Employer will
+make up the short-fall between the Social Welfare maternity benefit and the
+employee’s salary for the first 26 weeks of Maternity Leave. The Employer will not
+pay the employee during any period of additional maternity leave. The employee will
+sign a letter to confirm that she will return to work for the Employer after maternity
+leave.
+
+An employee may be entitled to 2 weeks’ Paternity Benefit, which is payable by the
+State to employees who have the requisite PRSI contributions. You should contact
+the Department of Social Protection to arrange to apply for Paternity Benefit.
+
+# Adoptive leave
+
+In the case of adoption, the adopting mothers and sole male adopters are entitled to
+24 weeks’ adoptive leave from the date of placement and an additional 16 weeks’
+leave at the end of this 24-week period. Notification and payment are in line with
+Maternity Leave above. 

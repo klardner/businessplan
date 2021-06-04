@@ -1,0 +1,99 @@
+---
+title: "ELHQ - Health & Safety Policy"
+author: 
+date: 
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![](blank.png) ![](blank.png)  ![](logo2.png)
+
+## Health and Safety at ELHQ
+
+It is the intention of ELHQ Solicitors (the **“Firm”**) to safeguard the health, safety and
+welfare of all its employees by all reasonable and practical means. The Firm and its
+employees must comply with the Safety, Health and Welfare at Work Acts 2005 to
+2014, (the “Acts”). These Acts apply to all employers, employees (including fixedterm and temporary employees) and self-employed people in their workplaces. 
+
+The
+Firm and its employees must also endeavour to conduct its operations in such a way
+as to ensure that members of the public or other individuals at our place of work (who
+are not employees of the Firm) are not exposed to unnecessary risks.
+
+It is the Firm’s policy to exercise vigilance, to detect and, where possible, remove
+hazards from the workplace, to provide training and instruction to ensure employees
+perform their work in a safe and proper manner, and to provide safety equipment and
+clothing where necessary.
+
+The Firm will promote standards of safety, health and welfare that comply with the
+provisions and requirements of the Acts and other relevant legislation, standards,
+and codes of practice. The Firm will, insofar as is reasonably practicable, periodically
+review the system in place for the management of occupational safety and health
+and where necessary improve it. The Firm will also consult with staff on matters
+related to safety, health and welfare at work.
+
+In order to prevent workplace injuries and ill health the Firm is required, among other
+things, to:
+-   Provide and maintain a safe workplace that is well designed and maintained,
+and which uses safe plant, machinery and equipment which is well designed
+and maintained
+-   Provide a safe means of access to and egress from the place of work
+-   Provide safe systems of work
+-   Provide welfare facilities and arrangements that are well designed and
+maintained
+-   Prevent risks from use of any article or substance and from exposure to
+physical agents, noise and vibration
+-   Prevent any improper conduct or behaviour likely to put the safety, health and
+welfare of employees at risk
+-   Provide instruction and training to employees on health and safety
+-   Provide suitable and maintained protective clothing and equipment
+-   Ensure that Emergency Plans are tested and revised regularly
+
+Kieran Lardner, Health and Safety officer, has overall responsibility for health and safety at the
+Firm. Day to day management of health and safety is the responsibility of the Firm’s
+Safety Officer. The Firm’s Safety Officer is Kieran Lardner.
+
+The Firm expects employees to recognise and undertake their responsibility to work
+safely and efficiently and to adhere to the Firm’s safety rules and regulations while at
+work. All employees have an obligation under the Acts to do everything they can to
+prevent injury to themselves and to others. Employees also have a responsibility to report hazards or potentially hazardous situations to their manager and/or the Firm’s
+Safety Officer. 
+
+\newpage
+
+**All employees have the following duties while at work:**
+
+1. To take reasonable care for their own health and safety and that of other
+person(s) who may be affected by their acts or omissions at work;
+2. To co-operate so far as it is necessary to enable the Firm to perform any duty or
+comply with any requirement imposed under any statutory provision affecting
+safety health and welfare at work;
+3. To neither interfere with nor misuse anything provided in the interests of health,
+safety or welfare;
+4. Not to be under the influence of any intoxicant in the workplace to the extent that
+it is likely to endanger his or her own safety, health or welfare at work or that of
+any other person;
+5. Not to engage in improper conduct or behaviour that is likely to endanger his or
+her own safety or that of any other person;
+6. To attend such training and, as appropriate, undergo such assessment as may
+reasonably be required by the Firm or as may be prescribed relating to safety,
+health and welfare at work or relating to the work carried out by the employee;
+7. To undergo any reasonable medical or other assessment if requested to do so by
+the Firm.
+
+
+**Employees also have a duty to:**
+
+1. Avoid taking unnecessary risks.
+2. Wear the appropriate safety equipment and clothing.
+3. Report without delay defects in vehicles, equipment or appliances.
+4. Report without delay all incidents that have led to (or equally important MAY lead
+to) injury or damage.
+5. Assist in the investigation of accidents with the aim of introducing controls to
+prevent their re-occurrence.
+6. Avoid improvising in a manner that may entail unnecessary risks.
+7. Suggest ways of eliminating hazards.
+8. Set a personal example.
+9. Avoid intentionally or recklessly interfering with safety measures provided.

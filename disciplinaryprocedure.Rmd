@@ -9,8 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![image](logo2.png)
-
+![](blank.png) ![](blank.png)  ![](logo2.png)
 
 # Disciplinary Procedure
 

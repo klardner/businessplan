@@ -1,5 +1,5 @@
 ---
-title: "ELHQ Solicitors"
+title: "ELHQ & Co Solicitors"
 output: 
   rmdformats::readthedown:
     thumbnails: true
@@ -7,10 +7,9 @@ output:
     gallery: false
     use_bookdown: true
     highlight: tango
-    self_contained: false
-    toc_float: false
+    includes:
+      in_header: meta.html
 ---
-
 ```{css, echo=FALSE}
 #header {
   background-image: "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\logo2.png";
@@ -75,24 +74,12 @@ This should provide easy access to both clients and employees.
 
 ```{r, warning = FALSE, echo = FALSE}
 library(googleway) # load package
-
-
-
 set_key(key = "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA") # register with API
-
-
 map_key <- "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA"
-
 elhq_office <- c(53.337306116946785,-6.239605848032218) # set office location 
-
 elhqmapdata <- data.frame(elhqlat = c("53.337306116946785", "53.339629", "53.330702"), elhqlon = c("-6.239605848032218", "-6.238391","-6.258211")) # Set id markers location for dart & office
-
 # elhqmapdata <- data.frame(elhqlat = "53.337035", elhqlon = "-6.240737", lab = "ELHQ Office")
-
-
 test_map <- google_map(key = map_key, search_box = T, location = elhq_office, zoom = 12)  # make map
-
-
 test_map %>% 
   add_markers(data = elhqmapdata, lat = "elhqlat", lon = "elhqlon", label = c("ELHQ Office","Dart Station", "Luas Stop"), title = c("ELHQ Office","Dart Station","Luas Stop")) # add id's
 ```
@@ -101,27 +88,19 @@ test_map %>%
 google_map(key = map_key, search_box = T, location = elhq_office, zoom = 5) %>%  # make map 
   # add_traffic() %>% 
   add_markers(data = elhqmapdata, lat = "elhqlat", lon = "elhqlon", label = "ELHQ Office", title = "ELHQ Office")
-
-
   
 df <- data.frame(west = -6.2418 , east = -6.239, north = 53.337, south = 53.336)
-
 test_map %>% 
    add_rectangles(data = df, north = 'north', south = 'south',
                  east = 'east', west = 'west')
-
-
 ```
 
 ```{r, eval = FALSE, echo = FALSE}
 elhqmapdata <- data.frame(elhqlat = "53.337306116946785", elhqlon = "-6.239605848032218")
 elhqmapdata <- data.frame(elhqlat = "53.337035", elhqlon = "-6.240737", lab = "ELHQ Office")
-
 add_markers(map = elhq_map, data = elhqmapdata, lat = "elhqlat", lon = "elhqlon", info_window = "info")
   
-
 # code to  display map 
-
 # map_key <- "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA"
 google_map(key = map_key, search_box = T) %>%
   add_traffic() %>% 
@@ -132,19 +111,13 @@ google_map(key = map_key, search_box = T) %>%
 ```
 
 ```{r, eval = FALSE, echo = FALSE}
-
 # register_google(key = "AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA", write = TRUE)
 library(ggmap)
-
 locus = c(lon = -6.239605848032218, lat = 53.337306116946785)
-
 locus = "1 Percy Place, Ballsbridge, Dublin 2, Ireland"
-
 myMap <- get_map(location=locus, zoom= 15, source="google",
                 maptype="roadmap")
-
 ggmap(myMap)
-
 ```
 
 ```{r, eval = FALSE, include = F, warning = F, echo = FALSE}
@@ -165,8 +138,6 @@ meta() %>%
 ```
 
 ```{r, include = F, warning = F}
-
-
 ```
 
 # Overview of the Firm {.tabset}
@@ -175,9 +146,7 @@ meta() %>%
 
 > At ELHQ Solicitors, we aim to provide the highest standard of legal advice and legal services to our clients, reflective of their commercial situation and their specific needs, in a timely manner and at a competitive rate that is fair to both our clients and our firm.
 > We aim to provide an integrated service that closely aligns with our clients' values and their unique needs.
-
 > We fulfil our mission through implementing our core values to provide a high level of service for commercial companies and service providers in Ireland.
-
 ## Core Values
 
 **Innovation**
@@ -242,7 +211,7 @@ While there is no requirement that partnership arrangements must be in writing, 
 
 As a result, the Partners have agreed to enter into a formal written partnership agreement (the "**Partnership Agreement**") in order to override certain default provisions in the 1890 Act.
 
-In particular, the Partnership Agreement will address the financial rights of the partners, remuneration, partnership property and dissolution of partnership. 
+In particular, the Partnership Agreement will address the financial rights of the partners, remuneration, partnership property and dissolution of partnership. 
 
 The Partners will draft the Partnership Agreement in an effort to reduce costs.
 
@@ -258,18 +227,14 @@ An outline of the clauses which will be included in the Partnership Agreement is
 
 ```{=html}
 <style>
-
-
 .img1 {
   float: right;
 }
-
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
-
 .img3 {
   float: right;
 }
@@ -329,18 +294,14 @@ Edward continues to advise a large number of international and Irish-based corpo
 
 ```{=html}
 <style>
-
-
 .img1 {
   float: right;
 }
-
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
-
 .img2 {
   float: right;
 }
@@ -400,18 +361,14 @@ He has also completed seats in Matheson's Construction, Litigation, and Entertai
 
 ```{=html}
 <style>
-
-
 .img1 {
   float: right;
 }
-
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
-
 .img4 {
   float: right;
 }
@@ -490,18 +447,14 @@ Furthermore, each partner brings experience in key areas the firm intends on bei
 
 ```{r, echo = FALSE, warning=FALSE}
 library(radarchart)
-
-
 labs <- c("Corporate", "Banking", "Litigation",
           "Finance",  "Property", "Employment")
-
 scores <- list(
   "Eddie Hynes" = c(10, 10, 7, 5, 3, 7),
   "Samuel Elliott" = c(10, 6, 10, 2, 9, 9),
   "Conor Quane" = c(10, 6, 6, 10, 6, 6),
   "Kieran Lardner" = c(9, 5, 5, 9, 8, 9)
 )
-
 chartJSRadar(scores = scores, labs = labs, maxScale = 10)
 ```
 
@@ -514,9 +467,7 @@ Below is an outline of how we expect our management structure to operate once we
 
 ```{r, echo = FALSE, warning = F}
 library(DiagrammeR)
-
 # PayPal 
-
 grViz("
 digraph dot {
 graph [layout = dot]
@@ -551,7 +502,6 @@ edge [color = 'DeepSkyBlue',
 3 -> {11}  
 11 -> {12}  
 }")
-
 ```
 
 # Operations {#operations}
@@ -637,26 +587,22 @@ This includes information such as:
 ### Key info about the client
 
 > Key information about our clients that employees may regularly need to input on forms or access regularly can be found for any client at the click of a button.
-
 <img src="app_overview.png" alt="Key Info"/>
 
 ### Group Structure Charts
 
 > Easy access to group structure charts designed by our Legal Tech team will help our Corporate Team as they seek to advise on complex restructurings etc.
-
 <img src="app_structurecharts.png" alt="Group Structure Charts"/>
 
 ### Information to aid drafting
 
 > Employees will be able to quickly access common pieces of information that are regularly included in documents we draft.
 > This can then be easily downloaded, coverted to a pdf or copied, so that the employee can quickly update their documents.
-
 <img src="app_compinfo.png" alt="Drafting info"/>
 
 ### Statistics
 
 > Our legal tech team has written code to automate the process of producing visualizations and summary statistics across a number of key metrics.
-
 <img src="app_statistics.png" alt="Sample Billing info visualizations"/>
 
 A demo of the application can be viewed below.
@@ -891,7 +837,6 @@ Full cash flow projections are set out in [Appendix 5](#appendix5), and the main
 ## Cash Flow Projections
 
 ```{r, echo = FALSE, out.width = "100%", error = FALSE, warning = FALSE, message = FALSE}
-
 # library(dplyr)
 # library(gt)
 # 
@@ -976,41 +921,26 @@ Full cash flow projections are set out in [Appendix 5](#appendix5), and the main
 # 	# height = 50))
 # 	# }
 # 	# )
-
 ```
 
 ```{r, eval = FALSE, echo = FALSE}
 library(dplyr)
-
 year_1 <- read.csv("year1.csv")
 colnames(year_1)[1] <- "Type"
-
 year_1$Type <- factor(year_1$Type)
 year_1$Group <- factor(year_1$Group)
 year_1$Category <- factor(year_1$Category)
-
-
 year_2 <- readRDS("year1_firstbackup.rds")
 year_1_new <- year_1 %>%
   mutate(across(where(is.character), as.numeric))
-
-
-
-
-
 ```
 
 ```{r, echo = FALSE, eval = FALSE}
-
-
-
 test <- data.frame(y = c(-500,-1000,700,800,400),
                    group = c("Set up Costs" ,"Ongoing Expenditure", "Receipts","Ongoing Expenditure", "Receipts"),
                    x = c("negative","negative","negative","negative","positive"),
                    year = c(1,1,1,2,2))
-
 library(ggplot2)
-
 test %>% 
   filter(year = 1) %>% 
 ggplot(aes(x = x,y = y, fill = group)) + 
@@ -1020,7 +950,6 @@ ggplot(aes(x = x,y = y, fill = group)) +
 
 ```{r, echo = FALSE, eval = FALSE}
 #add your values here
-
 ```
 
 ## Incomings
@@ -1115,19 +1044,12 @@ All such items are included within the full cash flow projections at Appendix 5.
 ## Summary
 
 ```{r summary plots, warning=FALSE, error=FALSE, fig.width = 12, out.width= "100%", echo = FALSE, message = FALSE, eval = FALSE}
-
 library(dplyr)
-
-
-
 finances <- data.frame(year = c(rep(1,4),rep(2,4),rep(3,4),rep(4,4), rep(5,4)),
                        type = rep(c("Expenses","Debt","Fees", "Profit")),
                        value = c(400,10,500,90,450,12,600,138,500,14,700,186,550,15,800,235,600,17,900,283))
-
-
 finances$type = factor(finances$type, levels = c("Expenses","Debt","Fees","Profit"),
 labels = c("Expenses","Debt Repayments","Fee Income","Net Profit"))
-
 theme_kieran <- function () { 
   theme_minimal(base_size=11, base_family="Consolas") %+replace% 
     theme(
@@ -1135,7 +1057,6 @@ theme_kieran <- function () {
       plot.background = element_rect(fill = 'floralwhite', color = "floralwhite")
     )
 }
-
 library(ggplot2)
 library(gganimate)
 library(ggplot2)
@@ -1151,7 +1072,6 @@ library(ggthemes)
 library(patchwork)
 library(dplyr)
 library(ggimage)
-
 finances <- finances %>% mutate(loc = seq(1,n()))
 finance_anim <- finances %>% 
 ggplot(aes(x = year, y = value, color = type)) + 
@@ -1181,28 +1101,21 @@ title = paste0("ELHQ Solicitors 5 year financial projections"),
 x = "Year", 
 y = "€ (in thousands)",
 caption = c("ELHQ Solicitors", "Reg office: Dublin 2"))
-
 # animate(finance_anim, 
 # duration = 18,
 # fps = 5, end_pause = 25,renderer = gifski_renderer("test.gif", loop = T))
 #   geom_image(aes(x = loc, image = l), y = 0,  # add geom_image layer
 #              size = 0.25, hjust = 1,
 #              inherit.aes = FALSE)
-
-
 # get logo 
 get_png <- function(filename) {
   grid::rasterGrob(png::readPNG(filename), interpolate = TRUE)
 }
-
 l <- get_png("logo.png")
-
 p3 <- ggplot(mapping = aes(x = 0:1, y = 1)) +
   theme_void() +
   annotation_custom(l, xmin = .8, xmax = 1)
-
 finance_anim
-
 ```
 
 ```{r summary plots 2, eval = FALSE, echo = FALSE}
@@ -1292,14 +1205,14 @@ The Partners commit to producing at least two articles per month which will be s
 
 ##### Social Media
 
-ELHQ Solicitors will have a strong presence across all social media platforms, including LinkedIn, Facebook, Instagram and Twitter,  which will be used to build the brand and to share relevant content.
+ELHQ Solicitors will have a strong presence across all social media platforms, including LinkedIn, Facebook, Instagram and Twitter,  which will be used to build the brand and to share relevant content.
 The Partners have their own LinkedIn accounts which will be used both to make useful connections and to create a strong online presence for the Firm.
 
 ##### Podcast - LawPod
 
 ELHQ Solicitors will host a monthly podcast discussing relevant topical legal and commercial issues.
 Guest speakers will be invited, which can include clients and experts in the particular area, to provide a more practical discussion on implications of relevant legal updates to the legal and commercial industry.
-It is hoped that the listeners gained from the podcast will increase awareness of ELHQ Solicitors' work. 
+It is hoped that the listeners gained from the podcast will increase awareness of ELHQ Solicitors' work. 
 
 Eddie Hynes, Managing Partner, has a contact who has agreed to set up the website and podcast hosting platforms for €1,500 at a once off cost.
 
@@ -1350,7 +1263,6 @@ Download the Draft Partnership Agreement
 
 ```{r download button Partnership Agreement , echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
   path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\partnershipagreement.pdf",
   output_name = "ELHQ - Draft Partnership Agreement",
@@ -1600,13 +1512,17 @@ Although the action being brought could result in an award worth "in the region 
 
 ## Appendix 4 \| Company Policies {#appendix4}
 
-```{r download button employment , echo = FALSE, warning=FALSE}
-library(downloadthis)
+### Employment Contracts {-}
 
+
+ELHQ Employment contracts for both fixed-term and permanent employees have been prepared. They can be downloaded below. 
+
+```{r download button employment perm , echo = FALSE, warning=FALSE}
+library(downloadthis)
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\ELHQ_contract.doc",
-  output_name = "ELHQ Template Employment Contract",
-  button_label = "Download Template Employment Contract",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\contractperm.doc",
+  output_name = "ELHQ Template Employment Contract - Permanent",
+  button_label = "ELHQ Employment Contract - Permanent",
   button_type = "primary",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -1614,11 +1530,27 @@ download_file(
 )
 ```
 
-```{r download button dignity policy ,eval = FALSE, echo = FALSE, warning=FALSE}
+```{r download button employment fixed , echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\contractfixed.docx",
+  output_name = "ELHQ Template Employment Contract - Fixed",
+  button_label = "ELHQ Employment Contract - Fixed-term",
+  button_type = "primary",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+### Company Policies {-}
+
+A number of policies have been prepared for the firm. They can be accessed below. 
+
+```{r download button dignity policy, echo = FALSE, warning=FALSE}
+library(downloadthis)
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\dignitypolicy.pdf",
   output_name = "ELHQ - Dignity Policy",
   button_label = "Dignity Policy",
   button_type = "danger",
@@ -1629,11 +1561,10 @@ download_file(
 ```
 
 
-```{r download button grievance prodcedure ,eval = FALSE, echo = FALSE, warning=FALSE}
+```{r download button grievance prodcedure, echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\grievanceprocedure.pdf",
   output_name = "ELHQ - Grievance Procedure",
   button_label = "Grievance Procedure",
   button_type = "danger",
@@ -1643,11 +1574,10 @@ download_file(
 )
 ```
 
-```{r download button disciplinary procedure ,eval = FALSE, echo = FALSE, warning=FALSE}
+```{r download button disciplinary procedure, echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\disciplinaryprocedure.pdf",
   output_name = "ELHQ - Disciplinary Procedure",
   button_label = "Disciplinary Procedure",
   button_type = "danger",
@@ -1658,11 +1588,10 @@ download_file(
 ```
 
 
-```{r download button maternity leave ,eval = FALSE, echo = FALSE, warning=FALSE}
+```{r download button maternity leave, echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\maternityleave.pdf",
   output_name = "ELHQ - Maternity Leave Policy",
   button_label = "Maternity Leave Policy",
   button_type = "danger",
@@ -1673,11 +1602,10 @@ download_file(
 ```
 
 
-```{r download button parental leave ,eval = FALSE, echo = FALSE, warning=FALSE}
+```{r download button parental leave, echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\parentalleave.pdf",
   output_name = "ELHQ - Parental Leave Policy",
   button_label = "Parental Leave Policy",
   button_type = "danger",
@@ -1689,12 +1617,11 @@ download_file(
 
 
 
-```{r download button health and safety ,eval = FALSE, echo = FALSE, warning=FALSE}
+```{r download button health and safety, echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
-  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
-  output_name = "ELHQ - Maternity Leave Policy",
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\healthandsafety.pdf",
+  output_name = "ELHQ - Health and Safety",
   button_label = "Health & Safety",
   button_type = "danger",
   has_icon = TRUE,
@@ -1719,7 +1646,6 @@ To download our cash flow projections as a PDF, please see below.
 
 ```{r download button cash flow , echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 download_file(
   path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
   output_name = "ELHQ - Cash Flow Projections",
@@ -1735,9 +1661,7 @@ For an excel copy of our cash flow projections, please see below.
 
 ```{r download button pdf cash flow, echo = FALSE, warning=FALSE}
 library(downloadthis)
-
 cashtest <- readRDS(paste0("cashflow2",".rds"))
-
 cashtest %>%
   download_this(
     output_name = "ELHQ_cashflowprojections",
@@ -1749,48 +1673,63 @@ cashtest %>%
   )
 ```
 
+
 # To do
 
+1.  Executive Summary
+
+-   Details of any files purchased from Fish & Co.
+
+2.  Mission Statement
+
+-   Paragraph on Vendor Firm
+
+3.  Marketing
+
+-   Appendix Details for SWOT analysis
 
 
+4. HR
 
+-   Firm policies add in? - **KGPL**
 
-##  Marketing
+5.  Appendices
 
+-   Cash flow projections, to be inserted
 
+-   Add appendices in - **Kieran** - Format partnership agreement? or add as PDF?  
 
+6.  General
 
-##  Appendices
-
--   Add in disciplinary procedure docs etc
-
-##  General
-
--   Cash flow. Make some charts based off the financials 
+-   Check if cash flow needs to be updated in light of new figures added in today -
 
 7.  Clean-up etc
 
-
-
+-   **Important** - Add in Eddie Marketing/Premises/Files updates + Sam Files updates.
+    Finish HR sections. Do files 9-10. - **Kieran**
 
 -   Finish up charts - **Kieran**
 
--   Add in Photos for Partner Profiles - **Kieran**.
-
-    -   Still need to add in my photo
+-   Add in Photos for Partner Profiles - **Kieran**. - Still need to add in Conor + Me
 
 -   Clean up formatting etc - **Kieran**
 
 -   Change any square brackets - **Kieran**
 
--   Add in cross-references or amend the references - **Kieran** - Check this is done 
+-   Add in cross-references or amend the references - **Kieran** - Have started adding them in. Will finish the rest 
 
--   See if you can get doc width fixed - **Kieran** - See how it's viewing on smaller devices. 
+-   See if you can get doc width fixed - **Kieran**
 
 -   **IMPORTANT** - Check word-count of HTML version - **Kieran**
--   Fix mobile version code for website, desktop seems fine - **Kieran**
 
+-   Add in Conors updates to finance and pmang section - **Kieran**
 
+8.  Questions for Group
 
+-   Everyone happy with layout?
+    Any comments on the readability etc?
 
+-   Do I need to add in a chart or headings about who did each section etc? I'm happy to leave it but if people want it added in I can do one up.
+    
+-   Management plan section covered/finished? 
 

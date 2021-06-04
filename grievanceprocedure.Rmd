@@ -2,16 +2,14 @@
 title: "ELHQ - Grievance Procedure"
 author: 
 date: 
-output: 
-  pdf_document:
-    fig_caption: false
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![image](logo2.png)
+![](blank.png) ![](blank.png)  ![](logo2.png)
 
 ## Introductory Paragraph
 
