@@ -1,0 +1,174 @@
+---
+title: "ELHQ Solicitors - Disciplinary Procedure"
+author: 
+date: 
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![image](logo2.png)
+
+
+# Disciplinary Procedure
+
+The aim of our Disciplinary Procedure is to ensure adherence to the Firm’s rules, policies
+and procedures and to aid employees whose performance, attitude or conduct falls below
+Firm’s standards. The intention is that potential disciplinary cases be dealt with at an early
+stage with a view to resolving problems as quickly and fairly as possible.
+
+Issues will always be discussed before any decision concerning disciplinary action or
+dismissal is taken. The principles of natural justice and fair procedures will be upheld at all
+times. 
+
+An employee may be suspended on full pay at any time or re-assigned or relocated to
+another business unit or work location in the course of the Disciplinary Procedure. At the
+discretion of the Firm, the Disciplinary Procedure may only apply to an employee who has
+completed his/her probationary period.
+
+At each stage, the complaint(s) against an employee shall be notified to the employee and
+they shall be given the opportunity to state their case accompanied by a Firm colleague of
+their choice (or a legal representative from outside the Firm).
+
+Where relevant, where a sanction is applied short of dismissal, the employee shall be
+informed of the alleged shortcoming, what needs to be done by way of improvement, the
+period during which such improvement is to be shown and the consequences of nonimprovement. If any assistance or training is to be provided, this will also be detailed in
+writing after the relevant stage of the procedure.
+
+The procedural steps set out below are a guide. The Firm may skip some steps in
+appropriate cases. The point at which the procedure is entered, or the omission of any of the
+steps, will depend entirely on the seriousness of the alleged offence from the Firm’s
+perspective.
+
+(i) **Verbal Warning**
+
+In cases of minor infringements, the employee will be requested to attend a meeting with
+his/her manager or another member of management. If the manager feels that aspects of the employee’s performance or conduct are below standard he/she will receive a verbal warning.
+
+This warning will outline the improvements that must be made and that if those
+improvements are not made within a 3 month period then the next step of the procedure will
+be implemented.
+
+
+This warning will remain active for 3 months.
+
+If there is a further infringement relating to conduct or performance within the 3 month
+period or if conduct or performance is not improved after the formal verbal warning the next
+step of this procedure will be implemented.
+
+
+(ii) **First Written Warning**
+
+Where an employee’s performance or conduct does not improve within the required
+timeframe, or if a second or subsequent minor infringement occurs after a formal verbal
+warning, the employee will be requested to attend a meeting with a member of management.
+At the meeting the employee will be informed of the allegation relating to the performance or
+conduct which is below standard. If it is felt that further action is required, the employee will
+receive a first written warning.
+
+The warning will advise of the improvements that are required and that if these are not made
+that the next step in the procedure will be implemented.
+
+This warning will remain active for 6 months.
+
+If there is a further allegation relating to conduct or performance within the 6-month period
+or if conduct or performance is not improved after the first written warning the next step of
+this procedure will be implemented.
+
+Depending on the nature and seriousness of the offence, a first written warning may be given
+where no previous verbal warning has been given.
+
+(iii) **Final Written Warning**
+
+Where the employee’s performance does not improve within the required time frame, or
+where a second or subsequent minor infringement occurs after a first written warning, the
+employee will be requested to attend a meeting with a senior manager or another member of
+management. At the meeting the employee will again be informed of the allegation relating to
+the performance or conduct which is below standard. If it is felt that further action is required,
+the employee will receive a final written warning.
+
+The warning will advise of the improvements that are required and that if these are not made
+that the next stage in the procedure may lead to dismissal.
+
+This warning will remain active for 12 months.
+
+If there is a further allegation relating to conduct or performance within the 12-month period
+or if conduct or performance is not improved after the final written warning the next step of
+this procedure will be implemented.
+
+Consideration may be given to imposing alternative penalties to a final written warning, such
+as suspension with or without pay for a specified period.
+
+In more serious cases, even where no verbal or written warning has previously been given, a
+final written warning may be issued.
+
+(iv) **Dismissal**
+
+Dismissal will normally arise after the completion of the first three stages, if the employee’s
+conduct or performance is still not acceptable to the Firm or if further minor infringement(s)
+occur after a final written warning.
+
+This stage may also be implemented in certain circumstances involving serious misconduct
+even where no previous warnings have been issued to the employee.
+The employee will be requested to attend a meeting with a senior manager.Action will only be taken after a full investigation and once the employee has
+had an opportunity to answer the allegations. If it is felt that dismissal is justified, the
+employee will then be dismissed.
+
+Where a decision to dismiss has been taken, the employee will receive a formal written
+notice of the decision, together with a clear statement of the reasons for dismissal.
+
+## Appeal
+
+
+An employee may appeal against any disciplinary action taken. Any appeal should be made
+in writing addressed to Kieran Lardner within 5
+working days after notification of the decision. The appeal should set out the grounds on
+which the employee is appealing and whether or not the employee wishes to be represented
+and whether the employee intends to call any witnesses.
+
+The appeal will be conducted, where possible, by someone of appropriate seniority who has
+not been involved in the matter under appeal.
+
+The employee will be informed of the findings of the appeal hearing, which will either confirm
+the disciplinary action already advised, alter it to more appropriate action, or reverse it,
+thereby cancelling the disciplinary action.
+The decision is final, and no further appeal may be made.
+
+## Serious Misconduct
+
+The Firm may summarily dismiss any employee who is guilty of serious misconduct.
+There are certain actions, constituting serious misconduct, which might impair the Firm’s
+operations or jeopardise employee safety or the Firm’s reputation. The following are
+examples of such actions, which could be serious enough to warrant summary dismissal:
+
+-   Violent, abusive or threatening behaviour
+-   Theft or in any way misappropriating Firm property or money
+-   Malicious or wilful damage to Firm property
+-   Reporting to work under the influence of drugs or alcohol
+-   Sexual Harassment.
+
+This list is not exhaustive.
+
+Before any disciplinary action is taken, the employee shall be informed of the allegations
+against him/her. The employee is to be given ample opportunity to state his/her case with the
+opportunity to be accompanied by an appropriate representative. The matter wlill be fully
+investigated.
+
+When a decision in respect of the matter has been made, the employee will be informed in
+writing of the decision.
+
+Where the Firm is satisfied that serious misconduct has occurred, the Firm may (instead of
+dismissing the employee) impose one or more penalties short of dismissal, including
+demotion, suspension without pay or other similar sanctions.
+
+## Suspension with pay pending investigation or disciplinary outcome
+
+In certain circumstances arise or if it is necessary to conduct an investigation into alleged or
+suspected misconduct, the Firm reserves the right to suspend an employee with pay pending
+completion of the investigation or, if appropriate, the disciplinary process. This is done with
+no inference of guilt or otherwise against the employee.
+
+During a period of such suspension, the employee will not be entitled to access the Firm’s
+premises except with the prior consent of the Firm. 

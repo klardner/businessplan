@@ -1,0 +1,541 @@
+---
+title: "ELHQ Solicitors - Dignity at Work Policy"
+author: 
+date: 
+output: 
+  pdf_document:
+    fig_caption: false
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\begin{center}
+  \includegraphics[width=2in,height=2in]{logo2.png}\LARGE\\}
+  \end{center}
+
+
+\begin{center}
+![](logo2.png)
+\end{center}
+
+<img src="logo2.png" alt="Logo"/>
+
+
+# Part A -- Introduction, Objectives and Definitions
+
+ELHQ Solicitors is committed to protecting the dignity of all those who
+work within the firm. In particular, we are committed to ensuring that
+our firm is free from any form of bullying, harassment or sexual
+harassment and that our work environment is conducive to providing a
+high quality legal service in an atmosphere of respect, safety and
+equality. All employees have the right to be treated with dignity and
+respect.
+
+No bullying or harassment or sexual harassment within the firm or in
+connection with the work of the firm will be tolerated. Complaints of
+bullying or harassment may be dealt with either in a formal or an
+informal way, or by alternative means, as described below.
+
+Complaints by employees or other persons in the workplace of bullying or
+harassment at work will be treated with fairness, sensitivity, respect
+and (as far as possible) confidentiality for all parties concerned. Any
+person accused of bullying or harassment will be afforded natural
+justice and treated with fairness and sensitivity.
+
+Both the firm's management and its employees have responsibilities for
+creating and contributing to the maintenance of a work environment free
+from bullying and harassment. Employees also have an obligation to
+cooperate with the investigation of complaints of bullying or harassment
+in the firm. Managers and supervisors have a particular responsibility
+to implement this policy and to make every effort to ensure that
+bullying and harassment does not occur, particularly in work areas for
+which they are responsible. Managers and supervisors have an obligation
+to deal promptly and effectively with any incidents of bullying or
+harassment of which they are aware or ought to be aware.
+
+Bullying, sexual harassment and harassment by employers, employees and
+nonemployees such as clients, customers and business contacts will not
+be tolerated and could lead to disciplinary action (in the case of
+employees) and other sanctions, for example the suspension of contracts
+or services, or exclusions from premises (in the case of non-employees).
+
+## Bullying
+
+Bullying at work is defined as repeated inappropriate behaviour, direct
+or indirect, whether verbal, physical or otherwise, conducted by one or
+more persons against another or others, at the place of work and/or in
+the course of employment, which could reasonably be regarded as
+undermining the individual's right to dignity at work.
+
+An isolated incident of the type of behaviour contemplated by this
+definition may be an affront to dignity but as a once off incident, it
+is not considered to be bullying.
+
+A key characteristic of bullying is that it usually takes place over a
+period of time. It is regular and persistent inappropriate behaviour
+which is specifically targeted at one employee or a group of employees.
+It may be perpetrated by someone in a position of authority, by
+employees against a manager or by employees at the same level.
+
+The following is a non-exhaustive list of examples of types of behaviour
+that may constitute bullying:
+
+-   Exclusion with negative consequences. Hostility through sustained
+unfriendly conduct.
+-   Verbal abuse/insult, including shouting, use of obscene language and
+spreading malicious rumours.
+-   Being treated less favourably than colleagues.
+-   Intrusion -- pestering, spying or stalking.
+-   Menacing behaviour.
+-   Intimidation.
+-   Aggression.
+-   Undermining behaviour.
+-   Excessive monitoring of work.
+-   Humiliation.
+-   Withholding work-related information.
+-   Repeatedly manipulating a person's job content and targets.
+-   Applying blame for things beyond the person's control.
+-   Constant humiliation, ridicule, belittling efforts.
+-   Inappropriate overruling of a person's authority, reducing a job to
+routine taskswell below the person's skills and capabilities without prior discussion
+or explanation.
+-    Use of social media to undermine or exclude colleagues.
+
+
+## Harassment
+
+Harassment is any form of unwanted conduct related to any of the following grounds:
+
+-   gender
+-   civil status
+-   family status
+-   sexual orientation
+-   religious belief (or lack thereof)
+-   age
+-   disability
+-   race, colour, nationality or ethnic or national origin
+-   membership of the Traveller community which has the purpose or effect of violating a person’s dignity and/or creating an intimidating, hostile, degrading, humiliating or offensive environment for the person. 
+
+Harassment may be targeted at one employee or a group of employees. Harassment may consist of a single incident or repeated inappropriate behaviour. An act of
+harassment may occur outside the work premises or normal working hours provided the
+perpetrator was acting in the course of employment, for example, at a training course,
+conference or work-related social event. Harassment includes situations where the
+victim does not have the relevant characteristic but the harasser believes that the victim
+has that characteristic.
+
+Many forms of behaviour, including spoken words, gestures or the display/circulation of
+words, pictures or other material, may constitute harassment. The following is a nonexhaustive list of examples of types of behaviour that constitute harassment:
+
+-   Verbal harassment – jokes, comments, ridicule or songs
+-   Written harassment – including faxes, text messages, emails or notices
+-   Physical harassment – jostling, shoving or any form of assault
+-   Intimidatory harassment – gestures, posturing or threatening poses
+-   Visual displays such as posters, emblems or badges
+-   Excessive monitoring of work
+-   Isolation or exclusion from social activities
+-   Unreasonably changing a person’s job content or targets
+-   Pressure to behave in a manner that the employee thinks is inappropriate, for
+example being required to dress in a manner unsuited to a person’s ethnic or
+religious background.
+-   Harassment through social media
+
+Unlike with bullying, a single incident may constitute harassment.
+
+## Sexual harassment
+
+Sexual harassment is any form of unwanted verbal, non-verbal or physical conduct of a
+sexual nature which has the purpose or effect of violating a person’s dignity and/or
+creating an intimidating, hostile, degrading, humiliating or offensive environment for the
+person.
+
+Many forms of behaviour can constitute sexual harassment. It includes examples like
+those contained in the following list:
+
+-   Physical conduct of a sexual nature — This may include unwanted physical
+contact such as unnecessary touching, patting or pinching or brushing against
+another employee’s body, assault and coercive sexual intercourse.
+-   Verbal conduct of a sexual nature — This includes unwelcome sexual advances,
+propositions or pressure for sexual activity, continued suggestions for social
+activity outside the work place after it has been made clear that such suggestions
+are unwelcome, unwanted or offensive flirtations, suggestive remarks, innuendos
+or lewd comments.
+-   Non-verbal conduct of a sexual nature — This may include the display of
+pornographic or sexually suggestive pictures, objects, written materials, emails,
+text-messages or faxes. It may also include leering, whistling or making sexually
+suggestive gestures.
+-   Gender-based conduct — This includes conduct that denigrates or ridicules or is
+intimidatory or physically abusive of an employee because of his or her sex such 
+as derogatory or degrading abuse or insults which are gender-related.
+
+This list is illustrative rather than exhaustive. A single incident may constitute sexual
+harassment.
+
+In this policy, the expression “bullying and/or harassment” should be read as including
+“bullying, harassment and/or sexual harassment”.
+
+### Intention irrelevant
+
+The intention of the perpetrator of the sexual harassment or harassment is irrelevant.
+The fact that the perpetrator has no intention of sexually harassing or harassing the
+employee is no defence. The effect of the behaviour on the employee is what is relevant.
+It is up to the employee to decide what behaviour is unwelcome irrespective of the
+attitude of others to the matter
+
+### Reasonable discipline and management is not bullying or harassment
+
+The reasonable and essential discipline arising from the good management of the
+performance of an employee at work does not amount to bullying or harassment. For
+example, an employee whose performance is continuously signaled at a level below
+required targets may feel threatened and insecure in their work but this in itself does not
+indicate bullying or harassment. Fair and constructive criticism of an employee’s
+performance, conduct or attendance does not constitute bullying.
+
+Similarly, actions taken which can be justified as regards the safety, health and welfare
+of employees do not amount to bullying or harassment.
+
+### Bullying and/or harassment can exist in many situations
+
+Provisions in this policy which refer to an “employee” shall also apply, where the context
+requires, to any person working within the firm, including partners, solicitors, legal executives, support staff, trainee solicitors and temporary agency staff. 
+
+Bullying/harassment by nonemployees may result in the termination/non-renewal of business contracts, the
+suspension/non-renewal of services, exclusion from the premises or the imposition of
+other appropriate sanctions.
+
+Bullying and/or harassment at work can involve people in many different work situations
+and at all levels:
+
+-   partner/manager/supervisor to employee;
+-   employee to partner/supervisor/manager;
+-   one employee to another (or group to group);
+-   customer or business contact to employee;
+-   employee/supervisor/manager/partner to customer/business contact.
+
+All such situations are encompassed by this policy. This policy extends to behaviour
+which occurs outside the firm’s premises, such as at social functions or training events,
+provided there is a sufficient link with the work of the firm and its employees.
+
+
+### Preservation of rights and prevention of victimisation
+
+Making a complaint under this policy will not affect an employee’s statutory rights. No
+one will be victimised for making a complaint in good faith or for acting in good faith as a
+witness in an investigation.
+
+Nothing in this policy limits the right of the firm to investigate any matter which may
+relate to bullying and/or harassment in circumstances other than where a complaint has
+been made. All employees continue to have an obligation to cooperate with any such
+investigation.
+
+### Designated contact person
+
+Kieran Lardner has been designated as the contact person in respect of this
+policy. In the event that any employee has any question or query about the operation of
+this policy or requires any clarification about it, they may approach the designated
+contact person for advice, which will be given in strictest confidence. Please note that
+speaking to the designated contact person is not the same as making a formal or
+informal complaint.
+
+### Allocation of Responsibilities
+
+Management and others in positions of authority have a particular responsibility to
+ensure that sexual harassment and harassment does not occur and that complaints are
+addressed speedily. In particular, management will:
+
+-   provide good example by treating all in the workplace with courtesy and respect
+-   promote awareness of the organisation’s policy and complaints procedures
+-   be vigilant for signs of harassment and take action before a problem escalates
+-   respond sensitively to an employee who makes a complaint of harassment
+-   explain the procedures to be followed if a complaint of sexual harassment or
+harassment is made
+-   ensure that an alleged perpetrator is treated fairly
+-   ensure that an employee making a complaint is not victimised for doing so
+-   monitor and follow up the situation after a complaint is made so that sexual
+harassment or harassment does not recur.
+
+This policy will be communicated effectively to all those potentially affected by it.
+Incidents of sexual harassment and harassment will be monitored and training provided.
+The policy will be reviewed on a regular basis in line with changes in the law, relevant caselaw or other developments. 
+
+### Statutory Redress
+
+This policy is designed to support employees in the resolution of complaints of
+bullying/harassment. However, it does not prevent employees from exercising statutory
+entitlements under the Industrial Relations Acts, 1946 to 2015 or the Employment
+Equality Acts 1998 to 2015. Complaints under the Employment Equality Act must
+normally be brought within 6 months of the most recent act of discrimination.
+
+# Part B - Dealing with Bullying and Harrassment
+
+1. LAWCARE
+The Law Society has arranged with an independent organisation, LawCare, to
+provide a 365 day a year confidential helpline service for lawyers, their families
+and their staff. LawCare is a charitable organisation which offers support and
+assistance in a wide range of circumstances, including those where people feel
+they are suffering stress and/or distress as a result of bullying or harassment in
+the workplace.
+
+LawCare’s helpline number is 1800 991801 (Monday to Friday 9 am to 7.30 pm;
+weekends / Public Holidays 10 am to 4 pm). For further information about the
+range of situations in which LawCare offers support, please refer to
+www.lawcare.ie.
+
+**Very important**: Speaking to LawCare is not the same as making a formal or
+informal complaint. LawCare provides support and assistance, but employees
+may still need to make a formal or informal complaint in order to resolve the
+problem in the context of which bullying or harassment may have occurred.
+Formal and informal complaints should be made by employees in the manner
+prescribed in this policy
+
+2. **THE INFORMAL COMPLAINT PROCESS**
+
+## Method of making an informal complaint
+
+Any employee who believes he or she is being bullied should, where possible,
+indicate directly to the person complained of that the behaviour in question is
+unacceptable.
+
+If the employee believes that approach is not suitable or has been unsuccessful,
+the employee may then make an informal complaint.
+
+Informal complaints should be addressed to Kieran Lardner, the Partner responsible for Compliance with the Firms' policies. 
+
+It is preferable that an informal complaint is made in writing but it may also be
+verbal.
+
+The firm will designate a person to handle the complaint. If the complaint was
+verbal, a written note of what is complained of will be taken by the designated
+person and a copy given to the complainant.
+
+## Procedure which will be followed
+
+The designated person will establish the facts, the context and then the next
+course of action in dealing with the matter under the informal procedure.
+
+(a) *Where specific examples are given*
+
+If the complaint concerns bullying and/or harassment and includes
+specific examples of the behaviour complained of, the person complained
+against will be presented with the complaint and given a chance to
+respond.
+
+After the response is received (or a reasonable period has elapsed
+without a response having been received) a method will be agreed to progress the issue to resolution so that both parties can return to a
+harmonious working environment without bullying or harassment being a
+factor.
+
+If the behaviour complained of does not concern bullying or harassment
+as defined, an alternative approach will be put in place and a rationale
+recorded.
+
+(b) *Where no specific examples are given*
+
+If no specific examples are provided, there is no complaint to be
+answered under this policy, though other means of protecting and
+repairing work-place relationships may be considered by the designated
+person.
+
+In either case, line managers will be kept informed, as appropriate, about the
+process in train.
+
+The designated person will keep a record of all stages: the complaint, the first
+meeting, action agreed and signed records of the final meeting. The purpose of
+the records, which will not include detail of discussions, is to provide evidence
+that the complaint was dealt with in an appropriate manner.
+All parties will maintain, insofar as possible, the confidentiality of the informal
+process. Breaches of confidentiality will be treated as a serious disciplinary
+matter.
+
+
+
+## Resolution
+
+When resolution is found through informal procedures, both parties will be given
+support or periodical reviews, as appropriate. These may include counseling or
+other appropriate interventions.
+Where a complaint is not upheld and is found not to have been made in good
+faith, the complainant will be subject to disciplinary action.
+
+4. **THE FORMAL COMPLAINT PROCEDURE**
+
+In cases where an employee believes an informal complaint is not a suitable
+means of addressing his or her concern, or where the employee believes that
+their previous recourse to the informal complaint procedure has been
+unsatisfactory, the employee may make a formal complaint of bullying and/or
+harassment.
+
+In cases where an employee makes an informal complaint but where the firm’s
+management believes (because of the gravity of the subject matter of the
+complaint or for some other reason) that the informal complaint procedure is
+inadequate to address the compliant, that complaint may, with the consent of the
+employee, be dealt with using the formal complaint procedure.
+
+## Method of making a formal complaint
+
+Formal complaints should be made in writing and signed and dated. The
+complaint should be confined to precise details of alleged incidents of bullying or
+harassment, including the dates of such incidents and the names of any
+witnesses.
+
+Formal complaints should be addressed to Kieran Lardner.
+
+On receipt of a formal complaint, an investigator will be designated by the firm’s
+management. In exceptional circumstances, if either party has an objection to the
+designated investigator, the firm’s management may designate an alternative
+investigator. An objection to the designated investigator must be made in writing
+to the firm’s management and must clearly outline the grounds of the objection.
+
+## Complaints in writing
+
+Where a formal complaint is made but the complainant declines to submit a
+written statement, then a written record will be made of the complaint by the
+designated investigator. The complainant will be asked to sign this record.
+
+In the event that the complainant refuses to sign this record, the complainant will
+be made aware that the ability of the firm to investigate the complaint on a formal
+basis may be compromised by any failure by the complainant to cooperate with
+the firm’s procedures. Efforts will be made to clarify this issue before any further
+steps are taken.
+
+The complainant will be advised of the aims and objectives of the formal process,
+the procedures and time-frame involved, and the possible outcomes. He or she
+will be assured of support as required throughout the process. He or she will be
+given a copy of this policy.
+
+## Procedure which will be followed
+
+The investigation will be governed by terms of reference which will include the
+following provisions:
+
+-   a provision to the effect that the investigation will be conducted in
+accordance with this policy;
+-   an indicative time-frame for the completion of the investigation;
+-   provisions relating to the scope of the investigation, indicating that the
+investigator will consider whether the complaint falls within the definition
+of bullying or harassment at work and whether the complaint has been
+upheld.
+
+The person complained against will be notified in writing that an allegation of
+bullying or harassment has been made against him or her. He or she will be
+advised of the aims and objectives of the formal process and procedures and
+time frame involved and the possible outcomes. He or she will be assured of
+support as required throughout the process. A meeting will be organised at which
+he or she is given a copy of the complaint in full and any relevant documents
+including this policy.
+
+The investigator will meet with the complainant and the person complained
+against and any witnesses or relevant persons with a view to establishing the
+facts. The complainant and the person complained against will both be entitled to
+be accompanied by an appropriate representative. This may be by a Firm
+colleague of their choice (or a legal representative from outside the Firm)
+
+All interviews with parties and witnesses will be conducted sensitively and with
+due respect to the rights of all concerned. The investigation will be conducted on
+a confidential basis, insofar as that is possible.
+
+Statements from all parties and witnesses will be reduced to writing. Copies of
+the record of their statements will be given to and agreed with those who make
+statements to the investigator.
+
+## During the investigation
+
+All parties will continue to work normally during the investigation unless directed
+otherwise. The firm’s management will make every effort to ensure the protection
+of all involved in the investigation.
+
+The parties to the complaint should not communicate regarding the complaint. 
+
+Any effort by any employee to intimidate or otherwise influence any complainant
+or witness during the course of an investigation will be regarded as a disciplinary
+matter.
+
+## Conclusion of investigation
+
+The objective of an investigation will be to ascertain whether or not, on the
+balance of probabilities:
+
+(a) the behaviour complained of occurred and, if so,
+(b) whether or not that behaviour amounted to bullying and/or harassment as
+defined.
+
+It will be open to the designated investigator to determine that behaviour
+occurred which did not amount to bullying or harassment but which was
+inappropriate in some other way. In that event, separate disciplinary action may
+follow.
+
+The investigation will be completed as quickly as practicable, preferably within
+the indicated time-frame. The investigator will submit a report to the firm’s
+management, which report will include conclusions. The complainant and the
+person complained against will be given a copy of the report as soon as
+practicable by the firm’s management and given an opportunity to comment,
+within a prescribed period of time, before the firm’s management decides on any
+further course of action.
+
+The firm’s management will decide the action which is to be taken arising from
+the report in light of the investigator’s report and any comments made by the
+parties. The firm’s management will then, in writing, inform the complainant and
+the person complained against of the next steps which are to occur.
+
+## Action where the complaint is upheld
+
+If a complaint is upheld, the matter will be treated as a serious disciplinary issue
+and the firm will follow the appropriate disciplinary procedures. If the perpetrator
+is not an employee (for example, if he or she is a client) other appropriate
+measures will be taken.
+
+The firm may also take other appropriate action to support and protect the victim
+and or to ensure that similar situations do not arise in future.
+
+## Action where complaint is not upheld
+
+If the complaint is not upheld but the complainant is found to have acted in good
+faith, the firm may take appropriate measures to support both the complainant
+and the person complained against. This will include the making of appropriate
+efforts to ensure that anyone with knowledge of the complaint is made aware of
+the finding that it was not upheld.
+
+Where a complaint is not upheld and is found not to have been made in good faith, the complainant will be the subject of disciplinary action.
+
+## Appeals
+
+If either party is dissatisfied with the outcome of the formal complaints procedure,
+they may lodge an appeal within 7 days of receipt of notification of the outcome
+of the process.
+
+The reasons for the appeal should be outlined in writing to the firm’s
+management. The appeal will be heard by another person, of at least the same
+level of seniority as the original investigator. The appeal will focus only on the
+aspect of the case cited by the appellant as being the subject of the appeal.
+
+The grounds of the appeal and any outcome and methodology employed will be
+appended to the investigation file.
+
+## Resolution
+Both parties will be given appropriate support and periodical reviews, insofar as
+is reasonable, after the formal process has been concluded.
+
+5. **EXTERNAL INVESTIGATION**
+
+In any situation where, by reason of the size of the firm, seniority of a
+complainant or a person complained against, or for any other reason, it is not
+appropriate for a formal complaint, informal complaint or appeal to be
+investigated by an employee of the firm, then the firm reserves the right to
+appoint an appropriate external person to carry out the investigation. Any such
+external person will carry out his or her functions in accordance with the
+provisions of this policy and the firm will give appropriate effect to the findings of
+such an external person.
+
+This policy is valid from 1 May 2021. It may be amended from time to time at the
+discretion of the firm's management. 
+
+Signed on behalf of ELHQ
+Solicitors:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+        
+  .               Principal solicitor / managing partner
+

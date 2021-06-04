@@ -1,5 +1,5 @@
 ---
-title: "ELHQ & Co Solicitors"
+title: "ELHQ Solicitors"
 output: 
   rmdformats::readthedown:
     thumbnails: true
@@ -69,6 +69,7 @@ Our social pages(twitter & facebook) can be accessed by clicking on the icons on
 <img src="websitesociallink.png" alt="Website image"/>
 
 Our proposed office is located in Ballsbridge, Dublin 2.
+
 As you can see below, our office is very close to both the dart and the Luas station.
 This should provide easy access to both clients and employees.
 
@@ -210,12 +211,10 @@ Our team has proven experience acting for clients in the following sectors:
 -   Finance
 -   Litigation
 -   Corporate
--   Real Estate
+-   Property
 -   Construction
 -   Litigation
 -   Employment
--   Data Protection
--   Intellectual Property
 
 ## Targets
 
@@ -235,11 +234,11 @@ However, a management committee will be formed and any significant decisions wil
 
 The Partners will have monthly meetings where they will report any issues or concerns, discuss ELHQ Solicitors' progress and take any decisions as necessary.
 
-The Partners considered the alternative structure of an LLP, but decided that a traditional partnership was the best option for ELHQ Solicitors' at this time given the legal certainty that the established structure offers.
+The Partners considered the alternative structure of an LLP, but decided that a traditional partnership was the best option for ELHQ Solicitors at this time given the legal certainty that the established structure offers.
 
 ## Partnership Agreement
 
-While there is no requirement that partnership arrangements must be in writing, the Partners have agreed that certain provisions of the Partnership Act, 1890 (the "**1890 Act**") are not appropriate for the modern management structure that is envisaged by ELHQ Solicitors.
+While there is no requirement that partnership arrangements must be in writing, the Partners have agreed that certain provisions of the [Partnership Act, 1890](http://www.irishstatutebook.ie/eli/1890/act/39/enacted/en/print.html) (the "**1890 Act**") are not appropriate for the modern management structure that is envisaged by ELHQ Solicitors.
 
 As a result, the Partners have agreed to enter into a formal written partnership agreement (the "**Partnership Agreement**") in order to override certain default provisions in the 1890 Act.
 
@@ -468,22 +467,23 @@ His clients have included a large number of major multinational companies and st
 
 -   Kieran Lardner graduated from University College Dublin in 2013, having studied Business and Law.
 
--   He completed a three year Masters in Data Analytics in University College Dublin in 2016.
+-   Kieran completed a three year Masters in Data Analytics in University College Dublin in 2016.
 
--   He spent a year working in the Property department at McCann Fitzgerald prior to commencing his traineeship.
+-   Kieran spent a year working in the Property department at McCann Fitzgerald prior to commencing his traineeship.
 
 -   He completed his training contract with McCann Fitzgerald, completing two seats in Mergers & Acquisitions along with a seat in Finance and a seat in Employment.
 
 -   Kieran worked with the Legal Technology team during his traineeship, focusing on using analytics to aid decision making and automation to improve firm processes.
 
--   Kieran qualified as a solicitor in 2017 and has spent three years working with the firms corporate and property departments, advising large multinational clients on commercial agreements, mergers and corporate restructuring.
+-   Kieran qualified as a solicitor in 2017 and has spent three years working with the firms' corporate and property departments, advising large multinational clients on commercial agreements, mergers and corporate restructuring.
 
 ## Background and Experience
 
 We believe our backgrounds complement each other very well.
 The below chart demonstrates this.
+
 All of our founding partners are skilled in our key practice area (Corporate).
-Furthermore, each partner brings experience in key areas the firm intends on being a market leader in.
+Furthermore, each partner brings experience in key areas the firm intends on being a market leader in, resulting in a nice balance of knowledge across practice areas.
 **Rephrase**
 
 *Maybe change to years experience in each? rather than an arbitrary scale*
@@ -525,11 +525,11 @@ node [shape = box ,
       color = grey,
       label = '']
 node [fillcolor = red]
-1[ label = 'Edward Hynes - Managing Partner']
+1[ label = 'Edward Hynes - Managing Partner & Head of Banking']
 node [fillcolor = green]
-2[ label = 'Conor Quane - Head of Corporate']
-3[ label = 'Samuel Elliott - Head of Litigation']
-4[ label = 'Kieran Lardner - Head of Property']
+2[ label = 'Conor Quane - Head of Corporate & Finance ']
+3[ label = 'Samuel Elliott - Head of Litigation & Employment']
+4[ label = 'Kieran Lardner - Head of Property & Construction']
 node [fillcolor = orange]
 5[ label = 'Laura McCabe - Insolvency']
 6[ label = 'Amy Flynn - Banking']
@@ -562,6 +562,7 @@ edge [color = 'DeepSkyBlue',
 
 ELHQ Solicitors has decided to lease an office space at 1 Percy Place, Dublin 2 for a variety of reasons.
 As previously discussed, situating the office in the heart of Dublin City will provide the most convenient access to aspiring startup businesses as well as international clients who are looking to establish themselves in Dublin.
+
 An office space in Dublin City Centre will also provide the Firm with access to the Four Courts and is well-connected to public transport which will allow for ease of access for staff and clients alike.
 Dublin 2 is perfectly situated in terms of business support services, such as accounting firms and auditors.
 
@@ -630,7 +631,7 @@ knitr::include_url("https://elhq.netlify.app/", height = "800px")
 ## Client Management System
 
 The firm has developed an [application](https://klardner.shinyapps.io/clientappdemo/) in house to help keep track of key information about each of it's client's.
-Please feel free to visit [it](klardner.client.shinyapps.io) We believe this will improve productivity across the firm and ultimately deliver a more cost-efficient and effective service to our clients.
+Please feel free to visit [it](https://klardner.shinyapps.io/clientappdemo/) We believe this will improve productivity across the firm and ultimately deliver a more cost-efficient and effective service to our clients.
 This includes information such as:
 
 ### Key info about the client
@@ -676,8 +677,8 @@ In line with our core values, our recruitment process will focus on attracting d
 ELHQ has allocated a number of roles to our founding Partners who have corresponding qualifications suitable to those positions.
 Where required, ELHQ will fund appropriate courses to assist those Partners and ensure the welfare of our employees.
 
-ELHQ plans to employ one legal secretary and bookkeeper initially, details of which are set out at 8.1.1 and 8.1.2.
-These positions will be advertised on the [law society website](www.lawsociety.ie) and through recruitment websites such as irishjobs.ie.
+ELHQ plans to employ one legal secretary and bookkeeper initially, details of which are set out at 8.1.1 and 8.1.2. **REFERENCE**
+These positions will be advertised on the [law society website](https://lawsociety.ie) and through recruitment websites such as irishjobs.ie.
 All partners will be consulted and involved in any direct hiring into the firm through the interview process.
 
 #### Legal Secretary / Receptionist
@@ -702,10 +703,8 @@ Conor Quane holds a certificate in Company Secretarial Law and Practice from the
 #### Compliance and Data Protection Officer
 
 Kieran Lardner will act as the Data Protection and Compliance Officer for ELHQ.
-Kieran Lardner holds a certificate in Data Protection Practice from the Law Society and CIPP/E and CIPM certifications.
+Kieran Lardner holds a certificate in Technology Law from the Law Society and CIPP/E and CIPM certifications.
 
-**KL** - Check what the name of that cert was again.
-Add references to your cert & Conors cert to the partner's profile section at the top.
 
 #### Human Resources Manager
 
@@ -759,8 +758,8 @@ Full details of our sick leave arrangements are set out in our Sickness and Abse
 ### Health, Safety and Welfare
 
 ELHQ understands the importance of the duty it has to maintain the health, safety and welfare of it's employees.
-ELHQ recognises, in particular in light of COVID-19 that this is a dynamic obligation and will ensure compliance with the Health, Safety and Welfare at Work Act 2005 as well as any guidance issued by the HSE and Department of Health.
-ELHQ will ensure that [Office Address] maintains an up-to-date Health and Safety Risk Assessment.
+ELHQ recognises, in particular in light of COVID-19 that this is a dynamic obligation and will ensure compliance with the [Health, Safety and Welfare at Work Act 2005](https://www.irishstatutebook.ie/eli/2005/act/10/enacted/en/print) as well as any guidance issued by the HSE and Department of Health.
+ELHQ will ensure that 1 Percy Place maintains an up-to-date Health and Safety Risk Assessment.
 
 Kieran Lardner will act as the Health and Safety Officer and Office Manager for ELHQ.
 Kieran Lardner holds a certificate in occupational health and safety and is fully trained in CPR and AED.
@@ -785,7 +784,7 @@ Employees will also have the opportunity to join ELHQ's contributory health insu
 Prior to commencing practice, each Partner will be required to submit a Commencement in Practice Form to the Law Society of Ireland (the **"Law Society"**).
 This form will set out all relevant details of the Partners' backgrounds and experience, together with details of the Firm's professional indemnity insurance and adherence to the [Solicitors Accounts Regulations 2014](http://www.irishstatutebook.ie/eli/2014/si/516/made/en/print).
 
-Pursuant to Regulation 4 of SI No. 178 of 1996 of the [Solicitors (Practice, Conduct and Discipline) Regulations 1996]((http://www.irishstatutebook.ie/eli/1996/si/178/made/en/print)), a firm's name shall consist only of the names, or some of the names, of the solicitors of the firm, and if the firm wishes to adopt a name which takes a different form it must seek approval in writing from the Law Society.
+Pursuant to Regulation 4 of SI No. 178 of 1996 of the [Solicitors (Practice, Conduct and Discipline) Regulations 1996](http://www.irishstatutebook.ie/eli/1996/si/178/made/en/print), a firm's name shall consist only of the names, or some of the names, of the solicitors of the firm, and if the firm wishes to adopt a name which takes a different form it must seek approval in writing from the Law Society.
 While the proposed name of the Firm ('ELHQ Solicitors') represents a combination of the initials of each of the Partners of the Firm, Law Society approval will still be required.
 The Partners will ensure written approval is in place before commencing practice, and will use an alternative name if necessary, consisting of the names of two partners -- "Hynes Lardner Solicitors".
 
@@ -818,7 +817,7 @@ The estimated total practising certificate fees for the Firm for the
 
 ## Professional Indemnity Insurance
 
-Pursuant to the [Solicitors Professional Indemnity Insurance Regulations 2018](http://www.irishstatutebook.ie/eli/2018/si/351/made/en/print), all solicitors must have professional indemnity insurance ("PII") cover in place before practising certificates will be granted by the Law Society.
+Pursuant to the [Solicitors Professional Indemnity Insurance Regulations 2018](http://www.irishstatutebook.ie/eli/2018/si/351/made/en/print), all solicitors must have professional indemnity insurance (**"PII"**) cover in place before practising certificates will be granted by the Law Society.
 At present, the minimum level of PII cover that must be in place is at least €1.5 million for each claim.
 
 After consultations with a number of local brokers, the Partners secured PII cover from Big Star Insurance Ltd, for an initial annual premium of €12,000, with a self-insured excess of €13,000.
@@ -1276,13 +1275,15 @@ It will be important for these business relationships to be maintained and impro
 As ELHQ Solicitors is a newly established firm we intend to be highly competitive in respect of the fees that we charge.However, of utmost importance to the Partners is to provide an exceptional service and in this regard to provide value for money.
 As a firm, ELHQ will be responsive and provide practical, commercial assistance in order to reach the heart of any particular legal issue or query quickly.
 
-### Promotion {.tabset}
+### Promotion 
 
 #### Online Presence {.tabset}
 
 ELHQ Solicitorswill have an active online presence, focusing on engagement with the target audience.
 
 ##### Website
+
+**UPDATE**
 
 ELHQ.ie will be acquired.
 The Firm's website will be designed in such a way that it is easy to navigate as well as being informative.
@@ -1300,7 +1301,7 @@ ELHQ Solicitors will host a monthly podcast discussing relevant topical legal an
 Guest speakers will be invited, which can include clients and experts in the particular area, to provide a more practical discussion on implications of relevant legal updates to the legal and commercial industry.
 It is hoped that the listeners gained from the podcast will increase awareness of ELHQ Solicitors' work. 
 
-Eddie Hynes, Managing Partner, has a contact who has agreed to set up the website and podcast hosting platforms for €1,500 at a once off costXXX.
+Eddie Hynes, Managing Partner, has a contact who has agreed to set up the website and podcast hosting platforms for €1,500 at a once off cost.
 
 #### Advertising
 
@@ -1335,7 +1336,7 @@ The Partners will also lecture in Law Society PPC and Diploma courses in their a
 #### Initial Launch Night
 
 To boost awareness around the establishment of ELHQ Solicitors a launch night will be arranged within two months of the Firm opening its doors.
-It is envisaged that Mount Ivy Hotel near the Firm's office will be booked whereby a canapés and drinks reception will be held.
+It is envisaged that **Mount Ivy Hotel** near the Firm's office will be booked whereby a canapés and drinks reception will be held.
 This of course will be pending the easing of Covid-19 restrictions.
 All existing clients of the Partners, any potential clients of the Firm, local businesses and companies will be invited to attend, along with faculty heads from several nearby Third Level Institutions.
 The event will be promoted primarily through the Firm's social media platforms and website.
@@ -1344,18 +1345,32 @@ The event will be promoted primarily through the Firm's social media platforms a
 
 ## Appendix 1 \| Partnership Agreement {#appendix1}
 
-Appendix 1 \| Partnership Agreement
 
-The Draft Partnership Agreement accessible [**here**](https://lawschool.lawsociety.ie/pluginfile.php/110696/mod_resource/content/1/partnership-agreement.pdf)forms the basis of the agreement between each of the partners, subject to any amendments noted below:
+Download the Draft Partnership Agreement
+
+```{r download button Partnership Agreement , echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\partnershipagreement.pdf",
+  output_name = "ELHQ - Draft Partnership Agreement",
+  button_label = "Download Draft Partnership Agreement as PDF",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+The Draft Partnership Agreement provided by the law society accesible [**here**](https://lawschool.lawsociety.ie/pluginfile.php/110696/mod_resource/content/1/partnership-agreement.pdf)forms the basis of the agreement between each of the partners, subject to any amendments noted below:
 
 1.  In clause 1.1 ("Interpretation"), the following definitions are amended:
 
 ```{=html}
 <!-- -->
 ```
-a.  "\_ **Commencement Date"** - shall mean the 1 July 2021;\_
-b.  "\_ **Financial Year"** - shall mean the period from 1 July to 30 June in the next year (inclusive) or any such period as the Partners may determine by Resolution from time to time; and\_
-c.  "\_ **Premises** \_\_" - shall mean the location from which ELHQ Solicitors ordinarily conducts business and such other additional or alternative place or places as the Partners shall from time to time and for the time being by Resolution determine.\_
+a.  "**Commencement Date**" - shall mean the 1 July 2021;
+b.  " **Financial Year**" - shall mean the period from 1 July to 30 June in the next year (inclusive) or any such period as the Partners may determine by Resolution from time to time; and
+c.  " **Premises**" - shall mean the location from which ELHQ Solicitors ordinarily conducts business and such other additional or alternative place or places as the Partners shall from time to time and for the time being by Resolution determine.
 
 ```{=html}
 <!-- -->
@@ -1598,6 +1613,98 @@ download_file(
   self_contained = FALSE
 )
 ```
+
+```{r download button dignity policy ,eval = FALSE, echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  output_name = "ELHQ - Dignity Policy",
+  button_label = "Dignity Policy",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+
+```{r download button grievance prodcedure ,eval = FALSE, echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  output_name = "ELHQ - Grievance Procedure",
+  button_label = "Grievance Procedure",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+```{r download button disciplinary procedure ,eval = FALSE, echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  output_name = "ELHQ - Disciplinary Procedure",
+  button_label = "Disciplinary Procedure",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+
+```{r download button maternity leave ,eval = FALSE, echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  output_name = "ELHQ - Maternity Leave Policy",
+  button_label = "Maternity Leave Policy",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+
+```{r download button parental leave ,eval = FALSE, echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  output_name = "ELHQ - Parental Leave Policy",
+  button_label = "Parental Leave Policy",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+
+
+```{r download button health and safety ,eval = FALSE, echo = FALSE, warning=FALSE}
+library(downloadthis)
+
+download_file(
+  path = "C:\\Users\\kiera\\Documents\\R\\RProjects\\businessplan\\cashflownew.pdf",
+  output_name = "ELHQ - Maternity Leave Policy",
+  button_label = "Health & Safety",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+
+
 
 ## Appendix 5 \| Cash Flow Projections {#appendix5}
 

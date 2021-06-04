@@ -1,0 +1,81 @@
+---
+title: "ELHQ - Grievance Procedure"
+author: 
+date: 
+output: 
+  pdf_document:
+    fig_caption: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![image](logo2.png)
+
+## Introductory Paragraph
+
+The Firm wishes to provide every opportunity for every employee to express themselves
+without fear of jeopardising their position. It is in everybody’s interests to establish a clear
+procedure for the resolution of any issues that may arise in the workplace. Full recognition is
+given to the significance of personal grievances. Disputes will be dealt with without undue
+delay. You have a right to have a work colleague with you throughout the grievance meetings
+if appropriate.
+
+## Definition of a Grievance
+
+A grievance is any event, condition, rule or practice, which you believe violates your civil
+rights, treats you unfairly, or causes you any degree of unpleasantness or unhappiness on
+the job. A grievance may also deal with an attitude, a statement, or an opinion held by a coworker.
+
+## Informal Process
+
+If you have a problem or grievance relating to any aspect of your employment with the Firm
+you are encouraged to first discuss it on an informal basis with your supervising
+solicitor manager. If your grievance is of a kind you feel unable to raise with your
+supervising solicitor, you should raise the matter with Kieran Lardner, the Compliance Manager,
+who will endeavour to deal with your grievance(s) as soon as is reasonably practicable.
+However, if it cannot be dealt with informally the formal process described below will be
+followed.
+
+## Formal Process
+
+At any stage in the formal process a Firm colleague or other appropriate representative may
+accompany you.
+
+### Step 1
+
+Raise the grievance with your supervising solicitor, preferably in
+writing, explaining that you wish to use the formal procedure. Your [supervising
+solicitor/department manager] will arrange a meeting with you to discuss the matter fully with
+you and listen to your concerns. You may be accompanied by a Firm colleague at this
+meeting if you choose. If your grievance relates to your supervising solicitor or is of a kind you feel unable to raise with your supervising solicitor
+, you should discuss the problem with a more senior manager. In many cases, the
+matter will be resolved at this initial meeting.
+
+### Step 2
+
+If the problem is not resolved by discussion under Step 1, you may request a meeting in
+writing with the next level of management. You may be accompanied by a Firm colleague at
+this meeting if you choose.
+
+The Compliance Manager will consider the information presented and you will be given an
+opportunity to discuss the issue. Following the meeting, a written record will be sent to those
+present for agreement. The Compliance Manager will come to a decision or make a
+recommendation, possibly after consulting with appropriate members of management which
+will be communicated to you.
+
+### Step 3 – Final Step
+
+If you are not satisfied with the decision or recommendations made at Step 2 then you may
+proceed to Step 3 by notifying in writing the next level of management who has not
+previously been involved in the process within 3 working days of receiving the decision or
+recommendation from Step 2. Your request should set out details of the grievance and
+provide any other relevant information, including the reason(s) you are dissatisfied with the
+previous outcome. The [senior manager] will consider all the available information, as in Step
+2, and meet with you to discuss the issue. You may be accompanied by a Firm colleague at
+this meeting if you choose. The Compliance Manager will subsequently communicate his/her
+decision or recommendation. Following the meeting, a written record will be sent to those
+present for agreement.
+
+The decision of this Compliance Manager is final and will be communicated without delay.
