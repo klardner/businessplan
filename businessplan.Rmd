@@ -834,6 +834,54 @@ This should help to regularize income for the Firm during the first few years of
 
 Full cash flow projections are set out in [Appendix 5](#appendix5), and the main items are discussed below.
 
+```{r, echo = FALSE, warning= FALSE}
+flow <- data.frame(year = c(1,1,1,1,1,2,2),
+                      category = c("Expenditure","Expenditure", "Receipts","Receipts","Receipts", "Expenditure", "Receipts"),
+                      group = c("Ongoing expenditure", "Set-up costs", "Fees","Capital Contributions", "Term Loan", "Ongoing Expenditure","Fees"),
+                      value = c(13986,415002,298340,120000,40000,512414,571668))
+
+# saveRDS(flow,paste0("cashflowplotly",".rds"))
+
+
+library(plotly)
+library(scales)
+library(dplyr)
+
+# text = paste("Date:", date, "\nnewlabel:", diff)))
+
+flow1 <- flow %>% filter(year == 1)
+# ggplotly(
+#   ggplot(flow1, aes(x=category, y=value, text = value, fill = group)) + 
+#     geom_bar(stat='identity')  +
+#     scale_y_continuous(labels=dollar_format(suffix="",prefix="€"))+
+#     labs(y = "",title =  "ELHQ - Year 1 Expenditure vs Receipts",
+#          subtitle = "Hover to see breakdown")+
+#     theme_fivethirtyeight()+
+#     theme(legend.position = 'none'),
+#   tooltip = "text"
+# )
+
+plot <- ggplot(flow1, aes(x=category, y=value, text =  paste("Category:", category, "\nSub-Category:",group, "\nValue: €",value ), fill = group)) + 
+    geom_bar(stat='identity')  +
+    scale_y_continuous(labels=dollar_format(suffix="",prefix="€"))+
+    labs(y = "",title =  "ELHQ - Year 1 Expenditure vs Receipts",
+         subtitle = "Hover to see breakdown")+
+    theme_fivethirtyeight()+
+    theme(legend.position = 'none')
+
+ggplotly(plot, tooltip = "text") %>%
+  layout(title = list(text = paste0('<b>ELHQ - Year 1 Expenditure vs Receipts</b>',
+                                    '<br>',
+                                    '<sup>',
+                                     '<i>Hover groups to see breakdown</i>','</sup>')))
+
+
+flow2 <- flow %>% filter(year == 1)
+
+
+```
+
+
 ## Cash Flow Projections
 
 ```{r, echo = FALSE, out.width = "100%", error = FALSE, warning = FALSE, message = FALSE}
